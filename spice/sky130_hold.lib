@@ -1,0 +1,118 @@
+* ================================================================
+* sky130_hold.lib
+* Sample-and-hold switch architectures on SKY130.
+* Include AFTER a library from flow/pdk.py with devices='hold'.
+* Sizes in um (the PDK library sets scale = 1u).
+*
+* Every device carries drain/source diffusion geometry: area w*xd, perimeter 2*(w+xd), with a
+* diffusion extension xd = 0.29 um. Without it (ad = as = 0) the SKY130 models fall back to a fixed
+* ~10 fA junction leakage per device, independent of size, which hides the real droop floor.
+* The basic cells of sky130_cells.lib carry no diffusion geometry; they are used only for timing checks.
+*
+* The bootstrapped switch (architecture 4) uses a behavioural gate drive and is built in the
+* testbench (flow/holdstage.py), with the same geometry.
+* ================================================================
+
+.param xd=0.29
+
+* Architecture 1: single NMOS switch.
+.subckt NSWG a b en vss wn=1 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+.ends NSWG
+
+* Architecture 2 (and 5, the charge-locked cell): CMOS transmission gate.
+.subckt TGG a b en enb vdd vss wn=1 wp=2 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XMP a enb b vdd sky130_fd_pr__pfet_01v8 w={wp} l={l} ad={wp*xd} as={wp*xd} pd={2*(wp+xd)} ps={2*(wp+xd)}
+.ends TGG
+
+* Architecture 3: TG with half-size dummy switches on the hold side (charge-injection compensation).
+* The dummies turn on as the main switch turns off and absorb about half of its channel charge.
+* Dummy widths are clamped at the 0.42 um minimum (so below wn = 0.84 they are not half-size).
+.subckt TGD a b en enb vdd vss wn=1 wp=2 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XMP a enb b vdd sky130_fd_pr__pfet_01v8 w={wp} l={l} ad={wp*xd} as={wp*xd} pd={2*(wp+xd)} ps={2*(wp+xd)}
+XDN b enb b vss sky130_fd_pr__nfet_01v8 w={max(wn/2, 0.42)} l={l}
++ ad={max(wn/2, 0.42)*xd} as={max(wn/2, 0.42)*xd} pd={2*(max(wn/2, 0.42)+xd)} ps={2*(max(wn/2, 0.42)+xd)}
+XDP b en b vdd sky130_fd_pr__pfet_01v8 w={max(wp/2, 0.42)} l={l}
++ ad={max(wp/2, 0.42)*xd} as={max(wp/2, 0.42)*xd} pd={2*(max(wp/2, 0.42)+xd)} ps={2*(max(wp/2, 0.42)+xd)}
+.ends TGD
+
+* Architecture 6: T-switch with thick-oxide 5 V NMOS devices (after Caglar 2025, imec).
+* Two series switches; in hold the middle node is shunted to vss, so the DAC line does not
+* feed through to the hold node. Gate drive enh/enhb swings 0 to 3.3 V.
+.subckt TSW a b enh enhb vss wn=1 l=0.5
+XM1 a enh m vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM2 m enh b vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM3 m enhb vss vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+.ends TSW
+
+* Pad ESD pair on the hold node: diode to vss (n+/p-well) and to vdd (p+/n-well).
+* Area in um^2, perimeter in um (scale = 1u).
+.subckt ESD node vdd vss a=100 p=40
+D1 vss node sky130_fd_pr__diode_pw2nd_05v5 area={a} pj={p}
+D2 node vdd sky130_fd_pr__diode_pd2nw_05v5 area={a} pj={p}
+.ends ESD
+
+* ---------------------------------------------------------------- droop mitigations
+
+* TG with a high-V_T PMOS (pfet_01v8_hvt): the plain TG's off PMOS is its dominant leak.
+.subckt TGH a b en enb vdd vss wn=1 wp=2 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XMP a enb b vdd sky130_fd_pr__pfet_01v8_hvt w={wp} l={l} ad={wp*xd} as={wp*xd} pd={2*(wp+xd)} ps={2*(wp+xd)}
+.ends TGH
+
+* T-switch whose middle node is driven to the held voltage in hold (buffer output on pin buf), so the
+* hold-side device sees only the buffer offset across it and its subthreshold leakage nearly vanishes.
+* Thick oxide (TSWB, 3.3 V gate drive) and thin oxide (NTB, 1.8 V) versions.
+.subckt TSWB a b enh enhb buf vss wn=1 l=0.5
+XM1 a enh m vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM2 m enh b vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM3 m enhb buf vss sky130_fd_pr__nfet_g5v0d10v5 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+.ends TSWB
+
+.subckt NTB a b en enb buf vss wn=1 l=0.15
+XM1 a en m vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM2 m en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+XM3 m enb buf vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+.ends NTB
+
+* ---------------------------------------------------------------- transistor-level buffer
+
+* Five-transistor OTA, thick oxide (g5v0d10v5, 3.3 V supply), PMOS input pair, NMOS mirror load.
+* Used in unity gain (out tied to inn) as the middle-node buffer of the T-switch (architecture TSWO,
+* replacing the behavioural buffer of TSWB). PMOS inputs keep the 0.3-1.5 V held range inside the
+* input common-mode range at 3.3 V. The tail mirrors a shared reference (vbp, one per chip):
+* tail current = reference current. Long devices for low offset and low current; the buffer only
+* has to hold the middle node against leakage, so its bandwidth does not matter.
+.subckt OTA5T inp inn out vdd vbp vss wi=2 li=2 wl=1 ll=4 wt=2 lt=2
+XMT tail vbp vdd vdd sky130_fd_pr__pfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+XM1 x inp tail vdd sky130_fd_pr__pfet_g5v0d10v5 w={wi} l={li} ad={wi*xd} as={wi*xd} pd={2*(wi+xd)} ps={2*(wi+xd)}
+XM2 out inn tail vdd sky130_fd_pr__pfet_g5v0d10v5 w={wi} l={li} ad={wi*xd} as={wi*xd} pd={2*(wi+xd)} ps={2*(wi+xd)}
+XM3 x x vss vss sky130_fd_pr__nfet_g5v0d10v5 w={wl} l={ll} ad={wl*xd} as={wl*xd} pd={2*(wl+xd)} ps={2*(wl+xd)}
+XM4 out x vss vss sky130_fd_pr__nfet_g5v0d10v5 w={wl} l={ll} ad={wl*xd} as={wl*xd} pd={2*(wl+xd)} ps={2*(wl+xd)}
+.ends OTA5T
+
+* ---------------------------------------------------------------- transistor-level bootstrap
+
+* Architecture BOOTT: bootstrapped NMOS switch, transistor level (replaces the behavioural gate drive
+* of BOOT). Thin-oxide main switch XMS; the bootstrap network is thick oxide (g5v0d10v5), because
+* its nodes reach V_in + VDD (up to 3.3 V). Clocks: enh = -ud..3.3 V (on phase), enhb = 3.3..0 V with
+* break-before-make (off phase, the T-switch shunt clock).
+*   off phase: XMT1 charges the top plate t to VDD, XMB1 grounds the bottom plate bb, XMG1 pulls the
+*              gate to vneg (-ud: gate underdrive), XMX2 holds x at t so XMT2 is off
+*   on phase:  XMX1 pulls x to bb, XMT2 connects t to the gate, XMB2 (gate = g) connects bb to the
+*              input: the gate sits at V_in + VDD * C_B / (C_B + C_par), a constant overdrive
+* XMG1 sits in an isolated p-well (bulk = vneg, deep n-well assumed) so its source can go below ground.
+* Nothing but XMS touches the hold node, so the droop floor is XMS's drain junction, as for BOOT.
+.subckt BOOTT a b enh enhb vdd vneg vss wn=1 l=0.15 cb=50f wt=0.42 lt=0.5
+XMS a g b vss sky130_fd_pr__nfet_01v8 w={wn} l={l} ad={wn*xd} as={wn*xd} pd={2*(wn+xd)} ps={2*(wn+xd)}
+CB t bb {cb}
+XMB1 bb enhb vss vss sky130_fd_pr__nfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+XMT1 t enh vdd t sky130_fd_pr__pfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+XMG1 g enhb vneg vneg sky130_fd_pr__nfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+XMB2 bb g a vss sky130_fd_pr__nfet_g5v0d10v5 w={2*wt} l={lt} ad={2*wt*xd} as={2*wt*xd} pd={2*(2*wt+xd)} ps={2*(2*wt+xd)}
+XMT2 g x t t sky130_fd_pr__pfet_g5v0d10v5 w={2*wt} l={lt} ad={2*wt*xd} as={2*wt*xd} pd={2*(2*wt+xd)} ps={2*(2*wt+xd)}
+XMX1 x enh bb vss sky130_fd_pr__nfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+XMX2 x enh t t sky130_fd_pr__pfet_g5v0d10v5 w={wt} l={lt} ad={wt*xd} as={wt*xd} pd={2*(wt+xd)} ps={2*(wt+xd)}
+.ends BOOTT

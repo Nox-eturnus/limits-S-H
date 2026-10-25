@@ -1,0 +1,24 @@
+# Conda environment for the simulation flow.
+#
+#   conda env create -f environment.yml
+#   conda activate sample-hold-fidelity
+#
+# ngspice itself is not from conda-forge (its Windows build stops at v41); the flow uses the official
+# ngspice-47 Windows build. Its location is set by NGSPICE_EXE (see flow/config.py).
+name: sample-hold-fidelity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - qutip=5.3
+  - pytest
+  - py7zr
+  - pymupdf
+  - pip
+  - pip:
+      - volare
+      # Fig. 1 schematic
+      - schemdraw

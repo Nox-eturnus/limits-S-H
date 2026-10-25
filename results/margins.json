@@ -1,0 +1,1318 @@
+{
+ "budgets": {
+  "s33.69_t0.0001": {
+   "per_gate": 0.0001679385340401154,
+   "operational": 9.131748136174023e-05
+  },
+  "s33.69_t0.001": {
+   "per_gate": 0.000523976244098433,
+   "operational": 0.0002867708415347913
+  },
+  "s10_t0.001": {
+   "per_gate": 0.0013730299978016833,
+   "operational": 0.0009669564900747341
+  }
+ },
+ "300K": {
+  "NMOS switch": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 6.366784041901717,
+    "shared": 3.765457408986405
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 3.4619730748733746,
+    "shared": 2.0474877235822895
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 19.864670180249533,
+    "shared": 11.74840689035681
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 10.87188254918496,
+    "shared": 6.429872668059071
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 52.05348212083332,
+    "shared": 30.785584782751286
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 36.65866911015512,
+    "shared": 21.68075064207518
+   }
+  },
+  "TG": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.2420276486862005,
+    "shared": 0.7076767917255199
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6753592158460537,
+    "shared": 0.38480306266752795
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.8751855620553926,
+    "shared": 2.2079853768128803
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.1208790231439076,
+    "shared": 1.208424679051278
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.154555828967101,
+    "shared": 5.785816038831759
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.151346786571949,
+    "shared": 4.074661426250159
+   }
+  },
+  "TG with dummies": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.3184177174947804,
+    "shared": 0.6084509302799697
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.7168967267247855,
+    "shared": 0.3308484666902149
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 4.1135262238309656,
+    "shared": 1.8983959517601903
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.2513222501397103,
+    "shared": 1.0389871884158173
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.779104903471115,
+    "shared": 4.9745663450008575
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.591185524202395,
+    "shared": 3.5033387619406535
+   }
+  },
+  "bootstrapped NMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 5.893096210950292,
+    "shared": 3.2548167199444555
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 3.2044027684429435,
+    "shared": 1.769824101765775
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 18.386741532392136,
+    "shared": 10.155183561015829
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 10.063016027375964,
+    "shared": 5.557905665634922
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 48.180710423692275,
+    "shared": 26.610694319641492
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 33.93126932054821,
+    "shared": 18.740583686423413
+   }
+  },
+  "charge-locked TG": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 2.3307840478153077,
+    "shared": 1.3261888457751734
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.2673763651752163,
+    "shared": 0.7211223195344441
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 7.272157507859881,
+    "shared": 4.137772515082948
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.9800329724695724,
+    "shared": 2.2645921825550475
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 19.05599828139271,
+    "shared": 10.842640007589603
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 13.420188373558833,
+    "shared": 7.635930126558722
+   }
+  },
+  "thick-oxide T-switch": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.6420887166855348,
+    "shared": 0.33450289881134804
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.3491391940131451,
+    "shared": 0.18188775079075573
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 2.0033474513151597,
+    "shared": 1.043665014470957
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.0964268723455775,
+    "shared": 0.5711951598020005
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 5.249581784777497,
+    "shared": 2.734825077786456
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.697018408261964,
+    "shared": 1.9260007883430899
+   }
+  },
+  "TG, high-threshold PMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.2732278782066475,
+    "shared": 0.8647209476048261
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6923245084991078,
+    "shared": 0.47019666729464205
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.972531767752459,
+    "shared": 2.697970640919043
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.174156349439491,
+    "shared": 1.476592345257486
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.409642318287284,
+    "shared": 7.0697759008978664
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.330991467877856,
+    "shared": 4.978890265829821
+   }
+  },
+  "T-switch, buffered, thick oxide": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.6400169360103494,
+    "shared": 0.33436888898575295
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.34801265212522636,
+    "shared": 0.18181488222714098
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.996883396695509,
+    "shared": 1.043246897417066
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.0928891119912056,
+    "shared": 0.5709663254211391
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 5.232643343387888,
+    "shared": 2.733729441745603
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.6850895095054494,
+    "shared": 1.9252291865702529
+   }
+  },
+  "T-switch, buffered, thin oxide": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.9557292520389051,
+    "shared": 1.1063075284182906
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.0634383022482061,
+    "shared": 0.6015606703018992
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 6.101968638787809,
+    "shared": 3.451732307130707
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.33959163468365,
+    "shared": 1.889124153275062
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 15.989629455656885,
+    "shared": 9.044936779960874
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 11.260697873165293,
+    "shared": 6.369897479080491
+   }
+  }
+ },
+ "bands": {
+  "NMOS, 0.3 V underdrive|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 7.781891796705309,
+    "shared": 5.23923481415685
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.231445529558869,
+    "shared": 2.8488621162863397
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 24.27987393675866,
+    "shared": 16.346662757076974
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 13.288312131751752,
+    "shared": 8.946486196522615
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 63.6231043553766,
+    "shared": 42.83487769189377
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 44.80657653047095,
+    "shared": 30.166466174846565
+   },
+   "nominal_per_gate": 53.97547661189204,
+   "nominal_operational": 29.349455785532417
+  },
+  "NMOS, 0.3 V underdrive|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 7.548280440884663,
+    "shared": 5.07373894405666
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.1044180980466525,
+    "shared": 2.7588728465830026
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 23.550995353285934,
+    "shared": 15.830307741091268
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 12.889398770481328,
+    "shared": 8.663886433398403
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 61.713147232062354,
+    "shared": 41.48181839875041
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 43.46148906762593,
+    "shared": 29.21357405518737
+   },
+   "nominal_per_gate": 32.43664941312028,
+   "nominal_operational": 17.63760262139941
+  },
+  "NMOS, 0.3 V underdrive|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 8.004516734316036,
+    "shared": 4.961595553300789
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.3524990370645975,
+    "shared": 2.697894274549347
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 24.974474370891613,
+    "shared": 15.480415007868478
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 13.668465150653352,
+    "shared": 8.472391046568696
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 65.44323884294597,
+    "shared": 40.564957712529186
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 46.088406394626816,
+    "shared": 28.56787484070885
+   },
+   "nominal_per_gate": 25.837244074597656,
+   "nominal_operational": 14.049140465030007
+  },
+  "NMOS, 0.3 V underdrive|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 7.86173430077709,
+    "shared": 5.495303867843796
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.274860320685412,
+    "shared": 2.988101041831507
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 24.528986361385112,
+    "shared": 17.145610430090933
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 13.424650716661874,
+    "shared": 9.38374818905187
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 64.27587981168713,
+    "shared": 44.92844421151626
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 45.26629369983475,
+    "shared": 31.64086057030283
+   },
+   "nominal_per_gate": 43.09973066928148,
+   "nominal_operational": 23.435710419789675
+  },
+  "NMOS, 0.3 V underdrive|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 7.494273921487887,
+    "shared": 5.03426932096859
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.075051762579835,
+    "shared": 2.7374110266897858
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 23.3824924343335,
+    "shared": 15.707160632657368
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 12.797177559284624,
+    "shared": 8.59648833984756
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 61.27160133175743,
+    "shared": 41.159123093521046
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 43.150530330635966,
+    "shared": 28.986315859657942
+   },
+   "nominal_per_gate": 31.931043990559044,
+   "nominal_operational": 17.36267695282056
+  },
+  "NMOS, 0.3 V underdrive|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 8.004516734316036,
+    "shared": 4.961595553300789
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.3524990370645975,
+    "shared": 2.697894274549347
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 24.974474370891613,
+    "shared": 15.480415007868478
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 13.668465150653352,
+    "shared": 8.472391046568696
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 65.44323884294597,
+    "shared": 40.564957712529186
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 46.088406394626816,
+    "shared": 28.56787484070885
+   },
+   "nominal_per_gate": 25.837244074597656,
+   "nominal_operational": 14.049140465030007
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.8793995778948007,
+    "shared": 1.0039374576024747
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.0219336312931946,
+    "shared": 0.5458963935642549
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 5.863816411248824,
+    "shared": 3.1323327987287284
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.2092515372575723,
+    "shared": 1.7143176294261921
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 15.365574155178622,
+    "shared": 8.20798069414901
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 10.821206875933525,
+    "shared": 5.78047108608174
+   },
+   "nominal_per_gate": 22.977569879879997,
+   "nominal_operational": 12.494177237148063
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.3125147060842244,
+    "shared": 0.6723797099387941
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.7136869325132151,
+    "shared": 0.3656100845543974
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 4.095108546402422,
+    "shared": 2.0978567964489128
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.2412423029764805,
+    "shared": 1.1481515922010388
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.730843128468821,
+    "shared": 5.497234550342301
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.557197165145629,
+    "shared": 3.8714278889952696
+   },
+   "nominal_per_gate": 7.362349571924626,
+   "nominal_operational": 4.00331718777686
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1325413501164237,
+    "shared": 0.5834053310290566
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.615825451983239,
+    "shared": 0.31722978735696217
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.533583083310832,
+    "shared": 1.8202524863447236
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.9339208711221423,
+    "shared": 0.996219472149985
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.259418967473083,
+    "shared": 4.769798813350207
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.520946577463199,
+    "shared": 3.3591312107559066
+   },
+   "nominal_per_gate": 5.303664953347097,
+   "nominal_operational": 2.8838963510929525
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1589480624026733,
+    "shared": 0.6019930297776402
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6301842438519857,
+    "shared": 0.32733694854979467
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.6159732863802,
+    "shared": 1.8782469938732314
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.9790128159088347,
+    "shared": 1.0279597159409262
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.475314671931706,
+    "shared": 4.921767913936794
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.672991145272908,
+    "shared": 3.4661554624753106
+   },
+   "nominal_per_gate": 5.054716003342319,
+   "nominal_operational": 2.7485290202297703
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.451333812191619,
+    "shared": 0.708507213557738
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.7891705682795449,
+    "shared": 0.38525460900630826
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 4.528230785101252,
+    "shared": 2.2105763325762493
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.4782889826266423,
+    "shared": 1.2098427024311722
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 11.8657988314163,
+    "shared": 5.792605392406755
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 8.356489813281133,
+    "shared": 4.079442829069664
+   },
+   "nominal_per_gate": 13.200095039510492,
+   "nominal_operational": 7.177622691738906
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.7735156941801906,
+    "shared": 0.8404579656849311
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.9643586998881848,
+    "shared": 0.4570035403454631
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 5.533453638842559,
+    "shared": 2.6222689789408693
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.028444847409026,
+    "shared": 1.4351610216897235
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 14.499889876970162,
+    "shared": 6.8714068833132655
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 10.211548651051656,
+    "shared": 4.839188868707918
+   },
+   "nominal_per_gate": 11.682030484686186,
+   "nominal_operational": 6.352166923154113
+  },
+  "T-switch + OTA buffer|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5493819486515577,
+    "shared": 0.3288587976712761
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.29872939014985983,
+    "shared": 0.17881874043164908
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.7140979089478037,
+    "shared": 1.0260551494474826
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 0.9381213468327501,
+    "shared": 0.5615573262761983
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.491630822317105,
+    "shared": 2.688680098492458
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.1632313799502003,
+    "shared": 1.8935031828398339
+   },
+   "nominal_per_gate": 39.58467760493068,
+   "nominal_operational": 21.52438140573083
+  },
+  "T-switch + OTA buffer|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5638991706229335,
+    "shared": 0.33421389528119716
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.3066232076966933,
+    "shared": 0.18173060356645204
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.759392334594557,
+    "shared": 1.0427633096589841
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 0.9629108686972457,
+    "shared": 0.5707016590934133
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.610320564164462,
+    "shared": 2.732462245940651
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.246818640511403,
+    "shared": 1.924336763819289
+   },
+   "nominal_per_gate": 11.342430706862483,
+   "nominal_operational": 6.167507716980148
+  },
+  "T-switch + OTA buffer|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5740481798281205,
+    "shared": 0.34171641760209087
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.31214178605175635,
+    "shared": 0.1858101404405836
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.791057727859119,
+    "shared": 1.0661715374932672
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 0.9802412564319666,
+    "shared": 0.5835129215704474
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.693296720687053,
+    "shared": 2.793801284444483
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.3052546056392127,
+    "shared": 1.9675347867839639
+   },
+   "nominal_per_gate": 12.657609797743723,
+   "nominal_operational": 6.882643423060624
+  },
+  "T-switch + OTA buffer|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5870636864098231,
+    "shared": 0.34893771480877384
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.31921903777651134,
+    "shared": 0.18973675964592537
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.83166672979366,
+    "shared": 1.0887023295446758
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.0024664580318858,
+    "shared": 0.5958439657156741
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.7997087545624595,
+    "shared": 2.8528410857889965
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.3801952893406764,
+    "shared": 2.009113571788081
+   },
+   "nominal_per_gate": 13.879012694254873,
+   "nominal_operational": 7.546787818954243
+  },
+  "T-switch + OTA buffer|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5658468198598899,
+    "shared": 0.3390689042357941
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.3076822524472715,
+    "shared": 0.18437054080454052
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.7654690932005233,
+    "shared": 1.05791116939013
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 0.9662366629462487,
+    "shared": 0.5789920434981988
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.626244133122721,
+    "shared": 2.7721557741255825
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.258032815273785,
+    "shared": 1.952290934342756
+   },
+   "nominal_per_gate": 16.558556109314285,
+   "nominal_operational": 9.00380396632762
+  },
+  "T-switch + OTA buffer|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.5801571189252087,
+    "shared": 0.34547192834247153
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.3154635545507305,
+    "shared": 0.18785221960960036
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 1.8101179095012534,
+    "shared": 1.07788891030269
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 0.9906728444875007,
+    "shared": 0.5899258093663754
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 4.7432421169773535,
+    "shared": 2.824505547364733
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 3.3404286551279965,
+    "shared": 1.9891582664976128
+   },
+   "nominal_per_gate": 19.318388492952376,
+   "nominal_operational": 10.504477672305061
+  },
+  "TG + dummies|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1456347546607943,
+    "shared": 0.5291369105402614
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.622945061144271,
+    "shared": 0.2877210417623812
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.574435130607981,
+    "shared": 1.6509324234812415
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.9562790908196404,
+    "shared": 0.9035510402067938
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.366467878644832,
+    "shared": 4.326111665011562
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.596335782053546,
+    "shared": 3.0466644996602246
+   },
+   "nominal_per_gate": 35.968390371442254,
+   "nominal_operational": 19.558005767582785
+  },
+  "TG + dummies|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1766807190649953,
+    "shared": 0.5473761265766457
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6398264713104492,
+    "shared": 0.2976387136056845
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.6713000217772773,
+    "shared": 1.7078396483100693
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.009292994920561,
+    "shared": 0.9346962169917681
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.620293128944258,
+    "shared": 4.475231644517631
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.7750922356742524,
+    "shared": 3.1516822576218613
+   },
+   "nominal_per_gate": 25.270168866380573,
+   "nominal_operational": 13.740790269805016
+  },
+  "TG + dummies|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1950472404252592,
+    "shared": 0.5587235634983614
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6498133661084905,
+    "shared": 0.30380894347892357
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.7286044452945495,
+    "shared": 1.7432441932667626
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.040655557519157,
+    "shared": 0.9540730327648893
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.770453929900661,
+    "shared": 4.5680058930290315
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.880842992228798,
+    "shared": 3.2170185298471843
+   },
+   "nominal_per_gate": 24.244737960856007,
+   "nominal_operational": 13.183206698302454
+  },
+  "TG + dummies|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1986679011970365,
+    "shared": 0.5724197781478986
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6517821198816119,
+    "shared": 0.3112563338776438
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.739901079763785,
+    "shared": 1.785977036872008
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.0468381763110215,
+    "shared": 0.9774606074114007
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.8000556879482,
+    "shared": 4.679983252350588
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.901690032794203,
+    "shared": 3.2958785944566746
+   },
+   "nominal_per_gate": 25.57584779814179,
+   "nominal_operational": 13.907004833444793
+  },
+  "TG + dummies|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 3.1067245915513073,
+    "shared": 1.3217048221656642
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.6892982102444678,
+    "shared": 0.7186841075735777
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 9.693129050063334,
+    "shared": 4.123782147340436
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 5.3050244283017625,
+    "shared": 2.2569352905182636
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 25.399924344279437,
+    "shared": 10.805979577260748
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 17.88789883063844,
+    "shared": 7.610112015452502
+   },
+   "nominal_per_gate": 28.380555905521145,
+   "nominal_operational": 15.43207995562942
+  },
+  "TG + dummies|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 3.396890011167802,
+    "shared": 1.3298474872125987
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.847077218195802,
+    "shared": 0.7231117254988403
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 10.598459012641063,
+    "shared": 4.149187651042316
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 5.800509172427499,
+    "shared": 2.2708396569055966
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 27.772255553047714,
+    "shared": 10.872552287540701
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 19.558613281595875,
+    "shared": 7.656995852200518
+   },
+   "nominal_per_gate": 32.648899989488235,
+   "nominal_operational": 17.753015014167286
+  },
+  "TG, no ESD|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.0940525005614918,
+    "shared": 0.6210801416625576
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.5948969329750419,
+    "shared": 0.33771566832225647
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.4134960351254193,
+    "shared": 1.937799694230593
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.8681975406211315,
+    "shared": 1.0605527546320879
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 8.944742259582005,
+    "shared": 5.077820110885998
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.299335479775748,
+    "shared": 3.5760552351474644
+   },
+   "nominal_per_gate": 1.6695018349731534,
+   "nominal_operational": 0.9078006043695442
+  },
+  "TG, no ESD|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.033108949762467,
+    "shared": 0.6632932884598725
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.5617585493633399,
+    "shared": 0.36066929399201136
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.223349247003122,
+    "shared": 2.0695067276214485
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.7641306958755414,
+    "shared": 1.1326356729455584
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 8.446480655133179,
+    "shared": 5.422945886727738
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 5.948434703428375,
+    "shared": 3.8191100914700216
+   },
+   "nominal_per_gate": 1.880957954000191,
+   "nominal_operational": 1.0227810066842682
+  },
+  "TG, no ESD|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.9440806707143623,
+    "shared": 0.6542638227909974
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.5133489436756951,
+    "shared": 0.3557594734577496
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 2.9455767658938714,
+    "shared": 2.0413343636405723
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.6121065362689038,
+    "shared": 1.1172170110924409
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 7.718604241989617,
+    "shared": 5.349122881791155
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 5.435827678972713,
+    "shared": 3.767120234107445
+   },
+   "nominal_per_gate": 1.7495741186842708,
+   "nominal_operational": 0.9513403394111479
+  },
+  "TG, no ESD|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 0.8944805249151591,
+    "shared": 0.6500355807483476
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.4863785975580112,
+    "shared": 0.3534603440999194
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 2.790821942939462,
+    "shared": 2.028142046598448
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.527409622410598,
+    "shared": 1.1099968901373907
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 7.313083921910037,
+    "shared": 5.31455366755032
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 5.15023995985081,
+    "shared": 3.742774862105029
+   },
+   "nominal_per_gate": 1.6579217038684522,
+   "nominal_operational": 0.9015038457824563
+  },
+  "TG, no ESD|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 2.315278353745508,
+    "shared": 1.6493881225936202
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.258945060607073,
+    "shared": 0.8968636650552193
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 7.223779002073399,
+    "shared": 5.146169689266968
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.9535555415309696,
+    "shared": 2.816485344695682
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 18.929227000362683,
+    "shared": 13.485049058472088
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 13.330909688356519,
+    "shared": 9.496846920273297
+   },
+   "nominal_per_gate": 3.7131560814126323,
+   "nominal_operational": 2.0190485953428383
+  },
+  "TG, no ESD|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 2.260396619288682,
+    "shared": 1.6270187646910517
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 1.2291028222428626,
+    "shared": 0.8847002063527992
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 7.052545370348199,
+    "shared": 5.076376224630188
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 3.8598398183050335,
+    "shared": 2.7782875622333183
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 18.480525526509112,
+    "shared": 13.302161911056281
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 13.014911638100168,
+    "shared": 9.368048631504582
+   },
+   "nominal_per_gate": 3.602401179322608,
+   "nominal_operational": 1.9588250214910428
+  },
+  "TG, ESD on the node|300 K": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.2420276493149782,
+    "shared": 0.7076767917776164
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6753592161879551,
+    "shared": 0.3848030626958557
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.8751855640172095,
+    "shared": 2.207985376975424
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.1208790242176048,
+    "shared": 1.2084246791402378
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.154555834107855,
+    "shared": 5.785816039257688
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.151346790192327,
+    "shared": 4.0746614265501195
+   },
+   "nominal_per_gate": 1.87453449582371,
+   "nominal_operational": 1.0192882167438213
+  },
+  "TG, ESD on the node|77 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.1790558871514134,
+    "shared": 0.7579036948871629
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6411179817353925,
+    "shared": 0.41211421147287397
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.6787106596046057,
+    "shared": 2.3646957126613937
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.013348817813275,
+    "shared": 1.2941918400526373
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 9.639712001754559,
+    "shared": 6.196460594780681
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.788767978464957,
+    "shared": 4.363857888908958
+   },
+   "nominal_per_gate": 2.1279434601885003,
+   "nominal_operational": 1.1570807044092908
+  },
+  "TG, ESD on the node|4 K proxy": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.0770354110823026,
+    "shared": 0.7478481638225097
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.5856437990220223,
+    "shared": 0.4066464623596209
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.3604019035030572,
+    "shared": 2.3333219756582264
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.8391392598738774,
+    "shared": 1.2770210750345208
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 8.805614128782548,
+    "shared": 6.11424869579925
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.2013544820962405,
+    "shared": 4.305960152218034
+   },
+   "nominal_per_gate": 1.9828443579143913,
+   "nominal_operational": 1.078182286942123
+  },
+  "TG, ESD on the node|4 K high": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.0730385744728321,
+    "shared": 0.7434808361705127
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.5834704976134006,
+    "shared": 0.4042717044534539
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.3479315824604474,
+    "shared": 2.319695704874571
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 1.8323142854597196,
+    "shared": 1.2695634523204733
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 8.772936836507244,
+    "shared": 6.078542346981245
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 6.178341496295301,
+    "shared": 4.280813953095129
+   },
+   "nominal_per_gate": 1.882156336296591,
+   "nominal_operational": 1.023432633505005
+  },
+  "TG, ESD on the node|77 K Beall fit": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 6.365507557883029,
+    "shared": 2.2014194328777994
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 3.461278979820971,
+    "shared": 1.1970336598458797
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 19.860687489168022,
+    "shared": 6.868533732997084
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 10.86970283266941,
+    "shared": 3.75913072568926
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 52.043045856997935,
+    "shared": 17.998340502143346
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 36.6513193704816,
+    "shared": 12.675332794612538
+   },
+   "nominal_per_gate": 4.415114911589099,
+   "nominal_operational": 2.4007424856565214
+  },
+  "TG, ESD on the node|4 K, Beall pMOS": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 8.431689215815158,
+    "shared": 2.2317867298671263
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 4.584776371986591,
+    "shared": 1.2135460409541183
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 26.30727290767443,
+    "shared": 6.9632811494303395
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 14.397902338492246,
+    "shared": 3.810985741350443
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 68.93571086365313,
+    "shared": 18.24661711094439
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 48.54798010549557,
+    "shared": 12.850181616996819
+   },
+   "nominal_per_gate": 4.407412905949072,
+   "nominal_operational": 2.3965544786544286
+  }
+ },
+ "tail": {
+  "bootstrapped (transistor level), 0.3 V underdrive": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.3824885894865149,
+    "shared": 0.8095344570043493
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.7517356080594176,
+    "shared": 0.44018871613779137
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 4.313430403382284,
+    "shared": 2.525786155475672
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.3607292899471948,
+    "shared": 1.3823562222538741
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 11.302934825726775,
+    "shared": 6.618582805156329
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.960092790490407,
+    "shared": 4.661137490651776
+   },
+   "n": 100
+  },
+  "TG + dummies": {
+   "s33.69_t0.0001|per_gate": {
+    "per-channel": 1.2442765941431189,
+    "shared": 0.6454602903320289
+   },
+   "s33.69_t0.0001|operational": {
+    "per-channel": 0.6765820920371528,
+    "shared": 0.35097250532185237
+   },
+   "s33.69_t0.001|per_gate": {
+    "per-channel": 3.8822023792524325,
+    "shared": 2.013866922061339
+   },
+   "s33.69_t0.001|operational": {
+    "per-channel": 2.1247193090254806,
+    "shared": 1.102184151444314
+   },
+   "s10_t0.001|per_gate": {
+    "per-channel": 10.17294273220773,
+    "shared": 5.277147059077964
+   },
+   "s10_t0.001|operational": {
+    "per-channel": 7.164295764707439,
+    "shared": 3.7164312549792258
+   },
+   "n": 100
+  }
+ }
+}

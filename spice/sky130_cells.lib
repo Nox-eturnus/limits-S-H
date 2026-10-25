@@ -1,0 +1,35 @@
+* ================================================================
+* sky130_cells.lib
+* Basic switch cells on SkyWater SKY130 1.8 V devices.
+* Include AFTER the PDK library line, e.g.
+*   .lib "<sky130A>/libs.tech/ngspice/sky130.lib.spice" tt
+*   .include sky130_cells.lib
+* Device sizes are in um (the PDK library sets the scale). L = 0.15 um is the 1.8 V minimum.
+* The PMOS is 2x the NMOS width (SKY130 hole/electron mobility ratio is about 2.5-3), and the widths
+* are parameters so the studies can sweep them.
+* ================================================================
+
+* General-purpose inverter.
+.subckt INV in out vdd vss wn=1 wp=2 l=0.15
+XMP out in vdd vdd sky130_fd_pr__pfet_01v8 w={wp} l={l}
+XMN out in vss vss sky130_fd_pr__nfet_01v8 w={wn} l={l}
+.ends INV
+
+* Two-input NAND; series NMOS widened 2x to balance the pull-down.
+.subckt NAND2 a b y vdd vss wn=2 wp=2 l=0.15
+XMP1 y a vdd vdd sky130_fd_pr__pfet_01v8 w={wp} l={l}
+XMP2 y b vdd vdd sky130_fd_pr__pfet_01v8 w={wp} l={l}
+XMN1 y a nx vss sky130_fd_pr__nfet_01v8 w={wn} l={l}
+XMN2 nx b vss vss sky130_fd_pr__nfet_01v8 w={wn} l={l}
+.ends NAND2
+
+* CMOS transmission gate. ON when en = VDD and enb = 0.
+.subckt TG a b en enb vdd vss wn=1 wp=2 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l}
+XMP a enb b vdd sky130_fd_pr__pfet_01v8 w={wp} l={l}
+.ends TG
+
+* Single NMOS switch.
+.subckt NSW a b en vss wn=1 l=0.15
+XMN a en b vss sky130_fd_pr__nfet_01v8 w={wn} l={l}
+.ends NSW

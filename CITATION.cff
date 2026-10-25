@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this flow or its data, please cite the accompanying article (reference added on publication) and this repository."
+title: "Fidelity limits of sample-and-hold gate drivers for silicon spin qubits: code and data"
+version: 1.0.0
+date-released: 2026-10-24
+license: MIT
+repository-code: "https://github.com/Nox-eturnus/limits-S-H"
+authors:
+  - family-names: "Das Bansiwal"
+    given-names: "Aarush"
+    affiliation: "Indian Institute of Information Technology, Nagpur"
+keywords:
+  - spin qubits
+  - cryo-CMOS
+  - sample-and-hold
+  - charge injection
+  - exchange gate
+  - CZ gate fidelity
+  - SKY130
+  - ngspice
