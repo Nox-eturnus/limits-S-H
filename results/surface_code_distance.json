@@ -1,0 +1,242 @@
+[
+ {
+  "d": 3,
+  "rounds": 1,
+  "basis": "Z",
+  "t": 2,
+  "failing_sets": 35,
+  "groups": 20,
+  "ratio": 2.0285714285714285,
+  "equivalent_physical_factor": 1.424279266355945
+ },
+ {
+  "d": 3,
+  "rounds": 1,
+  "basis": "X",
+  "t": 2,
+  "failing_sets": 35,
+  "groups": 20,
+  "ratio": 2.0285714285714285,
+  "equivalent_physical_factor": 1.424279266355945
+ },
+ {
+  "d": 3,
+  "rounds": 2,
+  "basis": "Z",
+  "t": 2,
+  "failing_sets": 140,
+  "groups": 84,
+  "ratio": 1.9714285714285715,
+  "equivalent_physical_factor": 1.4040757000349275
+ },
+ {
+  "d": 3,
+  "rounds": 2,
+  "basis": "X",
+  "t": 2,
+  "failing_sets": 140,
+  "groups": 84,
+  "ratio": 1.9714285714285715,
+  "equivalent_physical_factor": 1.4040757000349275
+ },
+ {
+  "d": 3,
+  "rounds": 3,
+  "basis": "Z",
+  "t": 2,
+  "failing_sets": 315,
+  "groups": 192,
+  "ratio": 1.9523809523809523,
+  "equivalent_physical_factor": 1.3972762620115438
+ },
+ {
+  "d": 3,
+  "rounds": 3,
+  "basis": "X",
+  "t": 2,
+  "failing_sets": 315,
+  "groups": 192,
+  "ratio": 1.9523809523809523,
+  "equivalent_physical_factor": 1.3972762620115438
+ },
+ {
+  "d": 3,
+  "rounds": 4,
+  "basis": "Z",
+  "t": 2,
+  "failing_sets": 560,
+  "groups": 344,
+  "ratio": 1.9428571428571428,
+  "equivalent_physical_factor": 1.3938641048743392
+ },
+ {
+  "d": 3,
+  "rounds": 4,
+  "basis": "X",
+  "t": 2,
+  "failing_sets": 560,
+  "groups": 344,
+  "ratio": 1.9428571428571428,
+  "equivalent_physical_factor": 1.3938641048743392
+ },
+ {
+  "d": 3,
+  "rounds": 6,
+  "basis": "Z",
+  "t": 2,
+  "failing_sets": 1260,
+  "groups": 780,
+  "ratio": 1.9333333333333333,
+  "equivalent_physical_factor": 1.390443574307614
+ },
+ {
+  "d": 3,
+  "rounds": 6,
+  "basis": "X",
+  "t": 2,
+  "failing_sets": 1260,
+  "groups": 780,
+  "ratio": 1.9333333333333333,
+  "equivalent_physical_factor": 1.390443574307614
+ },
+ {
+  "d": 5,
+  "rounds": 1,
+  "basis": "Z",
+  "t": 3,
+  "failing_sets": 1514,
+  "groups": 904,
+  "ratio": 2.059445178335535,
+  "equivalent_physical_factor": 1.2722820849210517
+ },
+ {
+  "d": 5,
+  "rounds": 1,
+  "basis": "X",
+  "t": 3,
+  "failing_sets": 1514,
+  "groups": 904,
+  "ratio": 2.059445178335535,
+  "equivalent_physical_factor": 1.2722820849210517
+ },
+ {
+  "d": 5,
+  "rounds": 2,
+  "basis": "Z",
+  "t": 3,
+  "failing_sets": 12112,
+  "groups": 7664,
+  "ratio": 1.9464993394980186,
+  "equivalent_physical_factor": 1.2485849244129454
+ },
+ {
+  "d": 5,
+  "rounds": 2,
+  "basis": "X",
+  "t": 3,
+  "failing_sets": 12112,
+  "groups": 7664,
+  "ratio": 1.9464993394980186,
+  "equivalent_physical_factor": 1.2485849244129454
+ },
+ {
+  "d": 5,
+  "rounds": 3,
+  "basis": "Z",
+  "t": 3,
+  "failing_sets": 40878,
+  "groups": 26340,
+  "ratio": 1.9103185087333039,
+  "equivalent_physical_factor": 1.240800408642832
+ },
+ {
+  "d": 5,
+  "rounds": 3,
+  "basis": "X",
+  "t": 3,
+  "failing_sets": 40878,
+  "groups": 26340,
+  "ratio": 1.9103185087333039,
+  "equivalent_physical_factor": 1.240800408642832
+ },
+ {
+  "d": 5,
+  "rounds": 5,
+  "basis": "Z",
+  "t": 3,
+  "failing_sets": 189250,
+  "groups": 123680,
+  "ratio": 1.8819022457067371,
+  "equivalent_physical_factor": 1.2346172866502243
+ },
+ {
+  "d": 5,
+  "rounds": 5,
+  "basis": "X",
+  "t": 3,
+  "failing_sets": 189250,
+  "groups": 123680,
+  "ratio": 1.8819022457067371,
+  "equivalent_physical_factor": 1.2346172866502243
+ },
+ {
+  "d": 7,
+  "rounds": 1,
+  "basis": "Z",
+  "t": 4,
+  "failing_sets": 54434,
+  "groups": 32233,
+  "ratio": 2.146268876070103,
+  "equivalent_physical_factor": 1.2103780296632207
+ },
+ {
+  "d": 7,
+  "rounds": 1,
+  "basis": "X",
+  "t": 4,
+  "failing_sets": 54434,
+  "groups": 32233,
+  "ratio": 2.146268876070103,
+  "equivalent_physical_factor": 1.2103780296632207
+ },
+ {
+  "d": 7,
+  "rounds": 2,
+  "basis": "Z",
+  "t": 4,
+  "failing_sets": 870944,
+  "groups": 554020,
+  "ratio": 1.9723885806664951,
+  "equivalent_physical_factor": 1.1850812308131204
+ },
+ {
+  "d": 7,
+  "rounds": 2,
+  "basis": "X",
+  "t": 4,
+  "failing_sets": 870944,
+  "groups": 554020,
+  "ratio": 1.9723885806664951,
+  "equivalent_physical_factor": 1.1850812308131204
+ },
+ {
+  "d": 7,
+  "rounds": 3,
+  "basis": "Z",
+  "t": 4,
+  "failing_sets": 4409154,
+  "groups": 2867361,
+  "ratio": 1.9183122204395673,
+  "equivalent_physical_factor": 1.1768736071326387
+ },
+ {
+  "d": 7,
+  "rounds": 3,
+  "basis": "X",
+  "t": 4,
+  "failing_sets": 4409154,
+  "groups": 2867361,
+  "ratio": 1.9183122204395673,
+  "equivalent_physical_factor": 1.1768736071326387
+ }
+]

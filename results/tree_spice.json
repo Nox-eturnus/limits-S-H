@@ -1,0 +1,186 @@
+{
+ "eps": 0.00013606986107757624,
+ "n_seg": 60,
+ "rows": [
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w100",
+   "n": 130104.03669566353,
+   "levels": 5,
+   "t_model": 3.865042871663591e-07,
+   "t_spice": 3.1881774800002316e-07,
+   "ratio": 0.8248750624150197
+  },
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w100",
+   "n": 676463.1453691835,
+   "levels": 6,
+   "t_model": 1.1455676621614943e-06,
+   "t_spice": 9.544845836056883e-07,
+   "ratio": 0.833197911509422
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w10",
+   "n": 119040.53916967036,
+   "levels": 5,
+   "t_model": 4.240398139197714e-07,
+   "t_spice": 3.556560080000032e-07,
+   "ratio": 0.8387325820006456
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w10",
+   "n": 646199.8030091005,
+   "levels": 6,
+   "t_model": 1.1840550491449906e-06,
+   "t_spice": 9.903201017978483e-07,
+   "ratio": 0.8363801180637347
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w100",
+   "n": 121613.64345294204,
+   "levels": 5,
+   "t_model": 4.115061513440629e-07,
+   "t_spice": 3.402165079999862e-07,
+   "ratio": 0.8267592279939675
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w10",
+   "n": 649714.8277516718,
+   "levels": 6,
+   "t_model": 1.185958179490422e-06,
+   "t_spice": 9.833928488833769e-07,
+   "ratio": 0.8291969024623763
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 74950.27909664456,
+   "levels": 3,
+   "t_model": 5.303162411532056e-07,
+   "t_spice": 4.360609763728407e-07,
+   "ratio": 0.8222659283913294
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w100",
+   "n": 454669.2861182534,
+   "levels": 6,
+   "t_model": 1.5594096652405672e-06,
+   "t_spice": 1.319507271731343e-06,
+   "ratio": 0.8461581976457643
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 71531.35633582046,
+   "levels": 3,
+   "t_model": 5.145175784793354e-07,
+   "t_spice": 4.227912535639258e-07,
+   "ratio": 0.8217236324820851
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F10_w100",
+   "n": 430973.31307953206,
+   "levels": 4,
+   "t_model": 1.5254421290921943e-06,
+   "t_spice": 1.2917419103126543e-06,
+   "ratio": 0.8467983712245988
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 69682.06827027697,
+   "levels": 3,
+   "t_model": 5.140774033318658e-07,
+   "t_spice": 4.2259265023969524e-07,
+   "ratio": 0.8220408979285324
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F10_w100",
+   "n": 427032.088287812,
+   "levels": 4,
+   "t_model": 1.532674578892069e-06,
+   "t_spice": 1.2970687403057185e-06,
+   "ratio": 0.8462779758788301
+  },
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "levels": 5,
+   "t_model": 3.1646711985573166e-06,
+   "t_spice": 2.6227407243920414e-06,
+   "ratio": 0.8287561518516281
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "levels": 5,
+   "t_model": 3.3175518673095247e-06,
+   "t_spice": 2.7683339253629023e-06,
+   "ratio": 0.8344508348585283
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "levels": 5,
+   "t_model": 3.2630732610988844e-06,
+   "t_spice": 2.7091102259792075e-06,
+   "ratio": 0.8302327312954284
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "levels": 7,
+   "t_model": 5.134574991400275e-06,
+   "t_spice": 4.177551423059479e-06,
+   "ratio": 0.8136119211534192
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "levels": 7,
+   "t_model": 5.130926604919619e-06,
+   "t_spice": 4.174300423018392e-06,
+   "ratio": 0.8135568376706075
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "levels": 7,
+   "t_model": 5.446334850327489e-06,
+   "t_spice": 4.4229574262293666e-06,
+   "ratio": 0.8120979608816034
+  }
+ ]
+}

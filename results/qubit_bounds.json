@@ -1,0 +1,774 @@
+{
+ "stark": [
+  {
+   "s": 3.87,
+   "case": "one qubit",
+   "target": 0.001,
+   "untracked": 0.0019862865516194384,
+   "tracked": 0.004942308054157052
+  },
+  {
+   "s": 3.87,
+   "case": "one qubit",
+   "target": 0.0001,
+   "untracked": 0.0006288254625813269,
+   "tracked": 0.0015862581781562227
+  },
+  {
+   "s": 3.87,
+   "case": "equal",
+   "target": 0.001,
+   "untracked": 0.0015143464162963864,
+   "tracked": 0.004942316830349594
+  },
+  {
+   "s": 3.87,
+   "case": "equal",
+   "target": 0.0001,
+   "untracked": 0.0004789811708509535,
+   "tracked": 0.0015862610370844716
+  },
+  {
+   "s": 3.87,
+   "case": "opposite",
+   "target": 0.001,
+   "untracked": 0.0014798337220744656,
+   "tracked": 0.004942310821863118
+  },
+  {
+   "s": 3.87,
+   "case": "opposite",
+   "target": 0.0001,
+   "untracked": 0.0004681338430852935,
+   "tracked": 0.0015862590797619742
+  },
+  {
+   "s": 10.0,
+   "case": "one qubit",
+   "target": 0.001,
+   "untracked": 0.0013737582167901137,
+   "tracked": 0.0019126833112856816
+  },
+  {
+   "s": 10.0,
+   "case": "one qubit",
+   "target": 0.0001,
+   "untracked": 0.0004373184433416333,
+   "tracked": 0.0006138849175611181
+  },
+  {
+   "s": 10.0,
+   "case": "equal",
+   "target": 0.001,
+   "untracked": 0.0012164113501109705,
+   "tracked": 0.001912677460325008
+  },
+  {
+   "s": 10.0,
+   "case": "equal",
+   "target": 0.0001,
+   "untracked": 0.0003861614703748343,
+   "tracked": 0.0006138830115546245
+  },
+  {
+   "s": 10.0,
+   "case": "opposite",
+   "target": 0.001,
+   "untracked": 0.001148333879911866,
+   "tracked": 0.0019126854087106195
+  },
+  {
+   "s": 10.0,
+   "case": "opposite",
+   "target": 0.0001,
+   "untracked": 0.00036462421022649346,
+   "tracked": 0.000613885600816878
+  },
+  {
+   "s": 33.69,
+   "case": "one qubit",
+   "target": 0.001,
+   "untracked": 0.000524705387428041,
+   "tracked": 0.0005677336547913051
+  },
+  {
+   "s": 33.69,
+   "case": "one qubit",
+   "target": 0.0001,
+   "untracked": 0.0001681566998864632,
+   "tracked": 0.00018221690122792607
+  },
+  {
+   "s": 33.69,
+   "case": "equal",
+   "target": 0.001,
+   "untracked": 0.0005248560756137095,
+   "tracked": 0.0005677284683341006
+  },
+  {
+   "s": 33.69,
+   "case": "equal",
+   "target": 0.0001,
+   "untracked": 0.00016809324995537188,
+   "tracked": 0.00018221521154654618
+  },
+  {
+   "s": 33.69,
+   "case": "opposite",
+   "target": 0.001,
+   "untracked": 0.0005002919453952166,
+   "tracked": 0.0005677299776822555
+  },
+  {
+   "s": 33.69,
+   "case": "opposite",
+   "target": 0.0001,
+   "untracked": 0.00016011796525612705,
+   "tracked": 0.00018221570327287833
+  }
+ ],
+ "jv": [
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 1.0,
+   "target": 0.001,
+   "untracked": 0.0013737582167901137,
+   "tracked": 0.0019126833112856816
+  },
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 1.0,
+   "target": 0.0001,
+   "untracked": 0.0004373184433416333,
+   "tracked": 0.0006138849175611181
+  },
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 0.5,
+   "target": 0.001,
+   "untracked": 0.001360727889087329,
+   "tracked": 0.0018716380094998257
+  },
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 0.5,
+   "target": 0.0001,
+   "untracked": 0.0004334341281076222,
+   "tracked": 0.0006013342999764608
+  },
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 2.0,
+   "target": 0.001,
+   "untracked": 0.00146156570020076,
+   "tracked": 0.002143800959465645
+  },
+  {
+   "s_peak": 10.0,
+   "idle_slope_ratio": 2.0,
+   "target": 0.0001,
+   "untracked": 0.0004640150033363625,
+   "tracked": 0.0006846904798945382
+  }
+ ],
+ "angles": [
+  {
+   "point": "s33.69_t0.0001",
+   "target": 0.0001,
+   "zz_angle_rad": 0.01118057282434954,
+   "conditional_phase_rad": 0.04472229129739816,
+   "diamond_coherent": 0.022360679774997897,
+   "diamond_twirled": 0.00025
+  },
+  {
+   "point": "s33.69_t0.001",
+   "target": 0.001,
+   "zz_angle_rad": 0.0353627089012539,
+   "conditional_phase_rad": 0.1414508356050156,
+   "diamond_coherent": 0.07071067811865475,
+   "diamond_twirled": 0.0025
+  },
+  {
+   "point": "s10_t0.001",
+   "target": 0.001,
+   "zz_angle_rad": 0.0353627089012539,
+   "conditional_phase_rad": 0.1414508356050156,
+   "diamond_coherent": 0.07071067811865475,
+   "diamond_twirled": 0.0025
+  },
+  {
+   "point": "s10_t0.0001",
+   "target": 0.0001,
+   "zz_angle_rad": 0.01118057282434954,
+   "conditional_phase_rad": 0.04472229129739816,
+   "diamond_coherent": 0.022360679774997897,
+   "diamond_twirled": 0.00025
+  }
+ ],
+ "one_over_f": [
+  {
+   "s": 3.87,
+   "target": 0.001,
+   "100 s": 0.0004383504037169519,
+   "1 h": 0.00040458461689641507,
+   "1 day": 0.00038037188186085437
+  },
+  {
+   "s": 3.87,
+   "target": 0.0001,
+   "100 s": 0.00013861856889999072,
+   "1 h": 0.00012794088956593155,
+   "1 day": 0.00012028415045647858
+  },
+  {
+   "s": 10.0,
+   "target": 0.001,
+   "100 s": 0.0003038112794208547,
+   "1 h": 0.00028067209704085337,
+   "1 day": 0.0002640404925664229
+  },
+  {
+   "s": 10.0,
+   "target": 0.0001,
+   "100 s": 9.60735621819742e-05,
+   "1 h": 8.875631023049021e-05,
+   "1 day": 8.349693510226542e-05
+  },
+  {
+   "s": 33.69,
+   "target": 0.001,
+   "100 s": 0.00011642031074548758,
+   "1 h": 0.00010765976377523569,
+   "1 day": 0.00010134739973221294
+  },
+  {
+   "s": 33.69,
+   "target": 0.0001,
+   "100 s": 3.681533478603161e-05,
+   "1 h": 3.404500658854328e-05,
+   "1 day": 3.204886180893318e-05
+  }
+ ],
+ "allocation": {
+  "s33.69_t0.0001": {
+   "v_b": 0.00012894817642071624,
+   "one_over_f_budget": 3.681533478603161e-05,
+   "ktc_rms_4K_1pF": 7.614936506629587e-06,
+   "rows": [
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 0.0034874032150067355,
+     "v_det": 0.00012872313290247466,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 4.526076323099189,
+      "droop_left": 9.023698471450305e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.8158245072040264,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.6320600082735663,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 0.027543744799613034,
+     "v_det": 0.00012715991878036159,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 4.464992585412736,
+      "droop_left": 8.867377059238997e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.8048141736084791,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.6235297527075172,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 0.15383953811879608,
+     "v_det": 0.00011861553416069989,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 4.131114493207381,
+      "droop_left": 8.012938597272827e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.7446327028167669,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.576904160327498,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 2.1291057456308184,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 0.06324973173656255,
+     "v_det": 0.00012480360141447442,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 4.372917757116452,
+      "droop_left": 8.63174532265028e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.7882177010661701,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.610671636188862,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 0.08730607332116885,
+     "v_det": 0.0001231906608717682,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 4.309890923094935,
+      "droop_left": 8.470451268379657e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.7768571246782258,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.6018700300317172,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 0.2136018666403519,
+     "v_det": 0.00011435007182342737,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 3.9644384257156156,
+      "droop_left": 7.586392363545576e-05
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.7145893692719484,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.5536280887199132,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 2.1888680741523743,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 1.7749608696379142,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 1.7990172112225205,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 1.9253130045417035,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 3.900579212053726,
+     "v_det": 0.0,
+     "NMOS": {
+      "pedestal_margin_alone": 5.038744515039491,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 0.9082328638449251,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 0.7036533793322101,
+      "pedestal_margin_joint": 0.0,
+      "droop_left": 0.0
+     }
+    }
+   ],
+   "dac_rms_max_bootstrapped": 0.0
+  },
+  "s10_t0.001": {
+   "v_b": 0.0013606986107757622,
+   "one_over_f_budget": 0.0003038112794208547,
+   "ktc_rms_4K_1pF": 7.614936506629587e-06,
+   "rows": [
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 3.131905794398652e-05,
+     "v_det": 0.001360677302709606,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.85243344169241,
+      "droop_left": 0.00119901611108613
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.625393198042774,
+      "droop_left": 0.0010826304426112883
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.6825230769321164,
+      "droop_left": 0.0010413521909529353
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 0.00024736002297107244,
+     "v_det": 0.0013605303091475357,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.84668956050551,
+      "droop_left": 0.0011988691175240595
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.624357864410676,
+      "droop_left": 0.001082483449049218
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.6817209522370495,
+      "droop_left": 0.0010412051973908648
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 0.0013815750893632732,
+     "v_det": 0.001359758332244774,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.816523997156736,
+      "droop_left": 0.0011980971406212978
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.61892052661592,
+      "droop_left": 0.0010817114721464562
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.677508374971727,
+      "droop_left": 0.0010404332204881031
+     }
+    },
+    {
+     "device_1f_1Hz": 0.0,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 0.01912069872773729,
+     "v_det": 0.001347627070857917,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.342486066026176,
+      "droop_left": 0.0011859658792344409
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.533475268084397,
+      "droop_left": 0.0010695802107595993
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.611309663928514,
+      "droop_left": 0.0010283019591012463
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 0.0009088798907948489,
+     "v_det": 0.001360080114406704,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.82909787100643,
+      "droop_left": 0.0011984189227832278
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.621186965293658,
+      "droop_left": 0.0010820332543083862
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.679264298257623,
+      "droop_left": 0.0010407550026500332
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 0.0011249208558219348,
+     "v_det": 0.001359933056295255,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.82335146750525,
+      "droop_left": 0.0011982718646717787
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.62015117701483,
+      "droop_left": 0.0010818861961969372
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.6784618213250155,
+      "droop_left": 0.001040607944538584
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 0.0022591359222141356,
+     "v_det": 0.0013591607401645153,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.793172648574576,
+      "droop_left": 0.001197499548541039
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.61471144990363,
+      "droop_left": 0.0010811138800661975
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.674247392936865,
+      "droop_left": 0.0010398356284078444
+     }
+    },
+    {
+     "device_1f_1Hz": 9e-06,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 0.01999825956058815,
+     "v_det": 0.001347024096890829,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.31892441627112,
+      "droop_left": 0.0011853629052673528
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.529228284620547,
+      "droop_left": 0.0010689772367925112
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.608019313639212,
+      "droop_left": 0.0010276989851341581
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 0.0,
+     "infidelity_share_used": 0.026043955597140532,
+     "v_det": 0.001342862728317477,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.156315888907216,
+      "droop_left": 0.0011812015366940009
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.499918124509726,
+      "droop_left": 0.0010648158682191593
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.5853112681238395,
+      "droop_left": 0.0010235376165608062
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 2e-05,
+     "infidelity_share_used": 0.02625999656216762,
+     "v_det": 0.0013427137845066829,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.15049580032186,
+      "droop_left": 0.0011810525928832066
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.498869054506686,
+      "droop_left": 0.001064666924408365
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.584498501175868,
+      "droop_left": 0.001023388672750012
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 5e-05,
+     "infidelity_share_used": 0.02739421162855982,
+     "v_det": 0.0013419315582786845,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 47.119929737076525,
+      "droop_left": 0.0011802703666552083
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.493359526671941,
+      "droop_left": 0.0010638846981803668
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.580229994679604,
+      "droop_left": 0.0010226064465220137
+     }
+    },
+    {
+     "device_1f_1Hz": 4.9e-05,
+     "dac_rms": 0.000188,
+     "infidelity_share_used": 0.04513333526693383,
+     "v_det": 0.0013296376600804667,
+     "NMOS": {
+      "pedestal_margin_alone": 53.17029563332963,
+      "pedestal_margin_joint": 46.63953665332623,
+      "droop_left": 0.0011679764684569905
+     },
+     "bootstrapped": {
+      "pedestal_margin_alone": 9.58393697684071,
+      "pedestal_margin_joint": 8.406768752933854,
+      "droop_left": 0.001051590799982149
+     },
+     "TG + dummies": {
+      "pedestal_margin_alone": 7.4251548358553405,
+      "pedestal_margin_joint": 6.513143795770377,
+      "droop_left": 0.0010103125483237958
+     }
+    }
+   ],
+   "dac_rms_max_bootstrapped": 0.001331355647899546
+  }
+ }
+}

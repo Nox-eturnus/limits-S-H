@@ -50,7 +50,70 @@ The flow has three layers:
 | Electrodes per DAC with the operational budget, DAC settling and power | `studies/system_budget.py` | `system_budget.json` | 15 min |
 | All margins against the per-gate and operational budgets | `studies/margins.py` | `margins.json` | seconds |
 
-Run times are on 24 threads. `results/polat_fig2_extracted.json` holds the simulated curve of Fig. 2 of
+The studies below build on these. Error correction and budgets:
+
+| Study | Script | Result | Run time |
+|---|---|---|---|
+| Static ZZ errors in a distance-3 surface code, state vector | `studies/surface_code.py` | `surface_code.json`, `surface_code_refine.json` | 1 h + 40 min |
+| Coherent excess to leading order, d = 3, 5, 7 | `studies/surface_code_distance.py` | `surface_code_distance.json` | 5 min |
+| The same for a parallel syndrome schedule, with echoes | `studies/surface_code_parallel.py` | `surface_code_parallel.json` | 2 min |
+| Mixed common and random offsets against the combined error measure | `studies/mixed_sign.py` | `mixed_sign.json` | 2 min |
+| Operational budget under error correction (module) | `studies/operational_budget.py` | | |
+| Partially tracked droop under error correction | `studies/partial_tracking_qec.py` | `partial_tracking_qec.json` | 2 min |
+| Untracked budgets against the Stark coefficient | `studies/stark_scan.py` | `stark_scan.json` | 3 min |
+| Non-exponential J(V), Stark on both qubits, 1/f budget, joint allocation | `studies/qubit_bounds.py` | `qubit_bounds.json` | 10 min |
+| Pulse distortion under four calibrations | `studies/qubit_calibration.py` | `qubit_calibration.json` | 15 min |
+| Agreement with Polat et al. without the fitted duration offset | `studies/polat_offset.py` | `polat_offset.json` | 3 min |
+
+Circuit layer: one cell per Monte Carlo channel, worst-channel margins and their checks:
+
+| Study | Script | Result | Run time |
+|---|---|---|---|
+| Is the SKY130 mismatch drawn per instance or per deck? | `studies/instance_check.py` | `instance_check.json` | 5 min |
+| Pedestal Monte Carlo, one cell per channel | `studies/mc_cell.py` | `mc_cell_channels.jsonl`, `mc_cell_pedestals.json` | 10-12 h |
+| Worst-channel margins (untracked budget, common and mismatch parts, moves) | `studies/cell_margins.py` | `cell_margins.json` | 3 h |
+| Normality, KS and interval coverage on 100 channels | `studies/cell_coverage.py` | `cell_coverage.json` | 2 h |
+| Scaled-sigma check of the NMOS switch | `studies/scaled_sigma_nmos.py` | `scaled_sigma_nmos.json` | seconds |
+| Scaled-sigma runs of the TG and bootstrapped switch; capacitances x 0.7, 1.3 | `studies/mc_cell_extra.py` | `mc_cell_extra_channels.jsonl`, `mc_cell_extra_pedestals.json` | 30 min |
+| Their analysis | `studies/scaled_sigma_capacitance.py` | `scaled_sigma_capacitance.json` | 1 min |
+| Scaled-sigma runs of the TG at 300 K and 4 K high | `studies/mc_cell_tg.py` | `mc_cell_tg_channels.jsonl`, `mc_cell_tg_pedestals.json` | 6 min |
+| Tail optimism of the surrogate | `studies/tail_optimism.py` | `tail_optimism.json` | seconds |
+| Array-failure probability in closed form, model-error variants | `studies/array_yield.py` | `array_yield.json` | 1 min |
+| Margins and probabilities with the tail correction (Fig. 6a) | `studies/tail_corrected.py` | `tail_corrected.json` | 1 min |
+| Supplementary tables with the tail correction | `studies/tail_corrected_tables.py` | `tail_corrected_tables.json` | seconds |
+| Joint error allocation with the untracked budgets | `studies/allocation.py` | `allocation.json` | seconds |
+| Every quoted margin, before and after the tail correction | `studies/quoted_margins.py`, `quoted_numbers.py` | Markdown only | seconds |
+| The deciding designs in GF180MCU | `studies/gf180.py` | `gf180.json`, `gf180_channels.jsonl`, `gf180_pedestals.json` | 30 min |
+| Injected charge against van Staveren et al. (15 pF) | `studies/anchor_charge.py` | `anchor_charge.json` | 10 min |
+| NMOS switch in an offset well | `studies/offset_well.py` | `offset_well.json` | 5 min |
+| Electrodes per isolated well, and its area | `studies/well_groups.py` | `well_groups.json` | seconds |
+
+Circuit layer on multi-voltage decks (one Monte Carlo seed per row; these rows hold one independently mismatched
+cell per held voltage, see `studies/instance_check.py`, so the margins of the article come from `cell_margins.py`):
+
+| Study | Script | Result | Run time |
+|---|---|---|---|
+| Steep-subthreshold bands calibrated on measured 77 K data | `studies/subthreshold.py` | `subthreshold.json` | 3 min |
+| Monte Carlo in further variants (steep bands, clock edges, tree sources, mismatch x 1.5, x 2) | `studies/extra_bands.py` | `extra_bands_channels.jsonl`, `extra_bands_pedestals.json` | several hours |
+| Gaussian surrogate of the worst of 10^6 channels | `studies/tail_surrogate.py` | `tail_surrogate.json`, `tail_surrogate_extra.json`, `tail_surrogate_pedestals.json` | 10 min |
+| Coverage of its intervals | `studies/interval_coverage.py` | `interval_coverage.json` | 40 min |
+| Scaled-sigma check of the NMOS switch | `studies/high_sigma.py` | `high_sigma.json`, `high_sigma_channels.jsonl` | 1.5 h |
+| Common and mismatch parts of the residual, moves from a tuned level | `studies/residual_accounting.py` | `residual_accounting.json` | 1 h |
+| Bootstrapped switch through its tree at the protection-diode droop of 1 pF | `studies/tree_source_1pf.py` | `tree_source_1pf_channels.jsonl`, `tree_source_1pf_pedestals.json` | 1 h |
+
+System layer:
+
+| Study | Script | Result | Run time |
+|---|---|---|---|
+| Electrode counts, power per stage, calibration time, addressing | `studies/system.py` | `system.json` | 15 min |
+| Measured droop converted to a 1 pF node, and every count at that droop | `studies/droop_anchors.py` | `droop_anchors.json` | 2 min |
+| Tree settling model against SPICE at full depth | `studies/tree_spice.py` | `tree_spice.json` | 1 min |
+| Pulse coupling into neighbours and through a shared well | `studies/coupling.py` | `coupling.json` | seconds |
+| Lower bound on the pulse-driver power | `studies/pulse_drivers.py` | `pulse_drivers.json` | seconds |
+| Measured devices, drift, lines per qubit, power left out, sensor noise | `studies/system_operation.py` | `system_operation.json` | 1 min |
+| Stage load with pulse drivers, placement, drift moves, leakage range, Zeeman difference, calibration time | `studies/system_integration.py` | `system_integration.json` | 3 min |
+
+Run times are on 24 to 30 threads. `results/polat_fig2_extracted.json` holds the simulated curve of Fig. 2 of
 Polat et al. (npj Quantum Information 12, 130, 2026), read from the vector data of the published figure
 with `studies/extract_polat_fig2.py`; it is used for the benchmark only.
 
@@ -75,9 +138,11 @@ directory of the PDK) and `LTSPICE_EXE`. On Windows, volare cannot create its `s
 symlink rights; the default `SKY130_ROOT` points at the versioned directory, so this is harmless. Run Python
 from the activated environment, since some Windows installations place a foreign BLAS library on the PATH.
 
-`studies/beall_check.py` also needs the 77 K SKY130 models and data of Beall et al., cloned from
-github.com/UTA-Advanced-Detector-Technologies/Skywater-130nm-77K-Cryogenic-Models into
-`build/external/beall2026`.
+`studies/beall_check.py` and `studies/subthreshold.py` also need the 77 K SKY130 models and data of Beall
+et al., cloned from github.com/UTA-Advanced-Detector-Technologies/Skywater-130nm-77K-Cryogenic-Models into
+`build/external/beall2026`. `studies/gf180.py` needs the ngspice models of the GF180MCU PDK
+(`models/ngspice` of github.com/google/globalfoundries-pdk-libs-gf180mcu_fd_pr, commit `9f992d5`) in
+`~/pdk/gf180mcu_fd_pr_models`. Without them these studies are skipped and their stored results are kept.
 
 ## Reproducing the results
 
@@ -87,7 +152,8 @@ All commands run from the repository root.
 python figures/make_figures.py
 ```
 
-redraws every figure from the stored results (about 1 min).
+redraws every figure from the stored results (about 1 min). The PNG files come out byte-identical to the
+stored ones; the PDF files differ only in their creation date.
 
 ```bash
 python -m pytest -q
@@ -99,10 +165,21 @@ runs the test suite (about 5 min; tests that need ngspice or the PDK are skipped
 reproduce.bat full
 ```
 
-(or `./reproduce.sh full`) recomputes every result from scratch in dependency order and then the figures,
-in about 8 h on 24 threads. Simulation decks go to `build/`, which is not part of the repository.
-`studies/mismatch.py` re-reads the Monte Carlo decks that `studies/cells.py` leaves in `build/cells`, so it
-runs after `cells.py` on the same machine.
+(or `./reproduce.sh full`) runs every study in dependency order and then the figures. The Monte Carlo studies
+of the later analyses append every channel to a `results/*_channels.jsonl` log and skip the channels already
+logged, so with the stored logs they only collect and analyse them; delete the logs to simulate every channel
+again, which takes about two days on 24 to 30 threads (the one-cell-per-channel Monte Carlo of
+`studies/mc_cell.py` alone takes 10 to 12 h). Simulation decks go to `build/`, which is not part of the
+repository. `studies/mismatch.py` and `studies/tail_surrogate.py collect` re-read the Monte Carlo decks that
+`studies/cells.py` leaves in `build/cells`, so they run after `cells.py` on the same machine.
+
+```bash
+reproduce.bat fast
+```
+
+(or `./reproduce.sh fast`) reruns, in about an hour, every study that does not simulate new Monte Carlo
+channels or need hours, from the stored channels and results, writes the Markdown summaries in `results/`,
+and redraws the figures. Each of these runs reproduces its stored JSON file exactly.
 
 ## Licence and citation
 

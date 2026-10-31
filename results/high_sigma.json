@@ -1,0 +1,145 @@
+{
+ "design": "NMOS, 0.3 V underdrive",
+ "v": [
+  0.3,
+  0.4,
+  0.5,
+  0.6,
+  0.7,
+  0.8,
+  0.9
+ ],
+ "budget_129": 0.00012894817642071624,
+ "budget_404": 0.00040354313553957004,
+ "depth_worst20": 1.8241636040582059,
+ "depth_worst1e6": 4.826965122556483,
+ "scales": {
+  "1": {
+   "n": 20,
+   "depth_sigma": 1.8241636040582059,
+   "window_all": [
+    0.3,
+    0.8
+   ],
+   "top_tracked_min": 0.9,
+   "channels_losing_0.8V": 0,
+   "channels_losing_0.7V": 0,
+   "max_residual_own_window": 1.3463348501353606e-05,
+   "max_residual_common_window": 1.3463348501353606e-05,
+   "surrogate_pred_worst20": 1.279469245901818e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8
+   ]
+  },
+  "1.5": {
+   "n": 20,
+   "depth_sigma": 2.736245406087309,
+   "window_all": [
+    0.3,
+    0.8
+   ],
+   "top_tracked_min": 0.8,
+   "channels_losing_0.8V": 0,
+   "channels_losing_0.7V": 0,
+   "max_residual_own_window": 1.885965920302206e-05,
+   "max_residual_common_window": 1.885965920302206e-05,
+   "surrogate_pred_worst20": 1.8166900302831603e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8
+   ]
+  },
+  "2": {
+   "n": 20,
+   "depth_sigma": 3.6483272081164118,
+   "window_all": [
+    0.3,
+    0.7
+   ],
+   "top_tracked_min": 0.7,
+   "channels_losing_0.8V": 1,
+   "channels_losing_0.7V": 0,
+   "max_residual_own_window": 2.0860473879147172e-05,
+   "max_residual_common_window": 2.0860473879147172e-05,
+   "surrogate_pred_worst20": 2.1630932004654633e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7
+   ]
+  },
+  "2.5": {
+   "n": 20,
+   "depth_sigma": 4.560409010145515,
+   "window_all": [
+    0.3,
+    0.7
+   ],
+   "top_tracked_min": 0.7,
+   "channels_losing_0.8V": 1,
+   "channels_losing_0.7V": 0,
+   "max_residual_own_window": 2.5801991465190593e-05,
+   "max_residual_common_window": 2.5801991465190593e-05,
+   "surrogate_pred_worst20": 2.696481565751581e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7
+   ]
+  },
+  "3": {
+   "n": 20,
+   "depth_sigma": 5.472490812174618,
+   "window_all": [
+    0.3,
+    0.7
+   ],
+   "top_tracked_min": 0.7,
+   "channels_losing_0.8V": 2,
+   "channels_losing_0.7V": 0,
+   "max_residual_own_window": 3.0753074995603974e-05,
+   "max_residual_common_window": 3.0753074995603974e-05,
+   "surrogate_pred_worst20": 3.219641220596039e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7
+   ]
+  },
+  "5.3": {
+   "n": 20,
+   "depth_sigma": 9.668067101508491,
+   "window_all": [
+    0.3,
+    0.6
+   ],
+   "top_tracked_min": 0.6,
+   "channels_losing_0.8V": 9,
+   "channels_losing_0.7V": 2,
+   "max_residual_own_window": 4.629963152132392e-05,
+   "max_residual_common_window": 4.629963152132392e-05,
+   "surrogate_pred_worst20": 5.30903798531025e-05,
+   "common_window": [
+    0.3,
+    0.4,
+    0.5,
+    0.6
+   ]
+  }
+ }
+}

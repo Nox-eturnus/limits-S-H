@@ -71,6 +71,7 @@ class HoldConfig:
     mismatch: bool = False
     seed: int = 1
     workdir: str = "build/holdstage"
+    c_src: float = 0.0            # line capacitance at the switch's source node (0 = none)
     extra: dict = field(default_factory=dict)
 
     def tag(self):
@@ -80,7 +81,9 @@ class HoldConfig:
                 + (f"_mm{self.seed}" if self.mismatch else "")
                 + (f"_cryo{self.cryo[0] * 1e3:g}m{self.cryo[1]:g}" if self.cryo else "")
                 + (f"mm{self.cryo[2]:g}" if self.cryo and len(self.cryo) > 2 else "")
-                + (f"p{self.cryo[3] * 1e3:g}m{self.cryo[4]:g}" if self.cryo and len(self.cryo) > 4 else ""))
+                + (f"p{self.cryo[3] * 1e3:g}m{self.cryo[4]:g}" if self.cryo and len(self.cryo) > 4 else "")
+                + (f"tn{self.cryo[5]:g}" if self.cryo and len(self.cryo) > 5 else "")
+                + (f"_rs{self.r_src:g}_cs{self.c_src * 1e15:g}f" if self.c_src else ""))
 
 
 def _r_on_estimate(cfg):
@@ -95,7 +98,7 @@ def _r_on_estimate(cfg):
 
 
 def timeline(cfg):
-    tau = _r_on_estimate(cfg) * cfg.c_node * (2 if cfg.arch == "CLK" else 1)
+    tau = _r_on_estimate(cfg) * cfg.c_node * (2 if cfg.arch == "CLK" else 1) + cfg.r_src * cfg.c_src
     settle = max(20e-9, 30 * tau)
     t1 = 1.5e-9 + 2 * cfg.t_edge         # room for the non-overlapping shunt clock (TSW)
     t_open = t1 + cfg.t_edge + settle
@@ -202,6 +205,8 @@ def transient_deck(cfg):
                f"{tl1 + 11e-9:.6e} {v})")
         lines += [f"VIN{i} vin{i} 0 {pwl}", f"RS{i} vin{i} src{i} {cfg.r_src}",
                   _switch(cfg, i, f"src{i}", f"hold{i}"), _node(cfg, i, f"hold{i}")]
+        if cfg.c_src:
+            lines.append(f"CS{i} src{i} 0 {cfg.c_src:.6e}")
     saves = " ".join(f"v(hold{i})" for i in range(len(cfg.v_hold)))
     lines += [f".save {saves}", f".tran {min(10e-12, te / 10):.3e} {tl['t_stop']:.6e}", ".end", ""]
     return "\n".join(lines)

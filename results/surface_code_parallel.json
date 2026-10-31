@@ -1,0 +1,142 @@
+[
+ {
+  "d": 3,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": false,
+  "t": 2,
+  "failing_sets": 35,
+  "ratio": 2.0285714285714285,
+  "equivalent_physical_factor": 1.424279266355945
+ },
+ {
+  "d": 3,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": true,
+  "t": 2,
+  "failing_sets": 35,
+  "ratio": 2.0285714285714285,
+  "equivalent_physical_factor": 1.424279266355945
+ },
+ {
+  "d": 3,
+  "rounds": 2,
+  "basis": "Z",
+  "echo": false,
+  "t": 2,
+  "failing_sets": 140,
+  "ratio": 1.9714285714285715,
+  "equivalent_physical_factor": 1.4040757000349275
+ },
+ {
+  "d": 3,
+  "rounds": 2,
+  "basis": "Z",
+  "echo": true,
+  "t": 2,
+  "failing_sets": 140,
+  "ratio": 1.9714285714285715,
+  "equivalent_physical_factor": 1.4040757000349275
+ },
+ {
+  "d": 3,
+  "rounds": 4,
+  "basis": "Z",
+  "echo": false,
+  "t": 2,
+  "failing_sets": 560,
+  "ratio": 1.9428571428571428,
+  "equivalent_physical_factor": 1.3938641048743392
+ },
+ {
+  "d": 3,
+  "rounds": 4,
+  "basis": "Z",
+  "echo": true,
+  "t": 2,
+  "failing_sets": 560,
+  "ratio": 1.9428571428571428,
+  "equivalent_physical_factor": 1.3938641048743392
+ },
+ {
+  "d": 5,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": false,
+  "t": 3,
+  "failing_sets": 1514,
+  "ratio": 2.0462351387054163,
+  "equivalent_physical_factor": 1.2695559525377118
+ },
+ {
+  "d": 5,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": true,
+  "t": 3,
+  "failing_sets": 1514,
+  "ratio": 2.0462351387054163,
+  "equivalent_physical_factor": 1.2695559525377118
+ },
+ {
+  "d": 5,
+  "rounds": 3,
+  "basis": "Z",
+  "echo": false,
+  "t": 3,
+  "failing_sets": 40878,
+  "ratio": 1.9098292480062626,
+  "equivalent_physical_factor": 1.2406944705071075
+ },
+ {
+  "d": 5,
+  "rounds": 3,
+  "basis": "Z",
+  "echo": true,
+  "t": 3,
+  "failing_sets": 40878,
+  "ratio": 1.9098292480062626,
+  "equivalent_physical_factor": 1.2406944705071075
+ },
+ {
+  "d": 7,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": false,
+  "t": 4,
+  "failing_sets": 54434,
+  "ratio": 2.116140647389499,
+  "equivalent_physical_factor": 1.2061078173261306
+ },
+ {
+  "d": 7,
+  "rounds": 1,
+  "basis": "Z",
+  "echo": true,
+  "t": 4,
+  "failing_sets": 54434,
+  "ratio": 2.116140647389499,
+  "equivalent_physical_factor": 1.2061078173261306
+ },
+ {
+  "d": 7,
+  "rounds": 2,
+  "basis": "Z",
+  "echo": false,
+  "t": 4,
+  "failing_sets": 870944,
+  "ratio": 1.9687144064371533,
+  "equivalent_physical_factor": 1.1845289512192116
+ },
+ {
+  "d": 7,
+  "rounds": 2,
+  "basis": "Z",
+  "echo": true,
+  "t": 4,
+  "failing_sets": 870944,
+  "ratio": 1.9687144064371533,
+  "equivalent_physical_factor": 1.1845289512192116
+ }
+]

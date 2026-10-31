@@ -52,13 +52,17 @@ def _atomic_write(path, text):
 # a parameter assignment anywhere on a model line: value is a {...} expression or a bare token
 _PARAM = re.compile(r"(?<![A-Za-z0-9_])(vth0|u0|lu0|wu0|pu0)(\s*=\s*)(\{[^{}]*\}|[^\s{}]+)", re.I)
 _MODEL = re.compile(r"^\.model\s+\S+\s+(nmos|pmos)", re.I)
+_TNOM = re.compile(r"(?<![A-Za-z0-9_])(tnom)(\s*=\s*)([^\s]+)", re.I)
 _VT_SLOPE = re.compile(r"^(\.param\s+\S+__(?:vth0|toxe|voff|nfactor)_slope\d*\s*=\s*)([-+0-9.eE]+)(.*)$", re.I)
 _INCLUDE = re.compile(r'^(\s*\.include\s+")([^"]+)(".*)$', re.I)
 
 
-def _cryo_copy(src, dvt, mu, outdir, done, mm=1.0, dvt_p=None, mu_p=None):
+def _cryo_copy(src, dvt, mu, outdir, done, mm=1.0, dvt_p=None, mu_p=None, tnom=None):
     """Copy a FET model file with |V_T| raised by dvt (V) and the mobility (u0, lu0, wu0, pu0)
-    scaled by mu, in every bin; follow relative .include lines. Returns the copy's path."""
+    scaled by mu, in every bin; follow relative .include lines. Returns the copy's path.
+    tnom (deg C), if given, replaces every bin's nominal temperature (the effective-temperature
+    band): simulated at .temp = tnom, the model's temperature-scaling terms vanish and only the thermal
+    voltage kT/q, and with it the subthreshold slope, follows the lower temperature."""
     src = Path(src).resolve()
     dst = outdir / src.name
     if src in done:
@@ -68,7 +72,7 @@ def _cryo_copy(src, dvt, mu, outdir, done, mm=1.0, dvt_p=None, mu_p=None):
         for line in src.read_text().splitlines():          # still make sure its includes exist
             m = _INCLUDE.match(line)
             if m and not Path(m.group(2)).is_absolute():
-                _cryo_copy(src.parent / m.group(2), dvt, mu, outdir, done, mm, dvt_p, mu_p)
+                _cryo_copy(src.parent / m.group(2), dvt, mu, outdir, done, mm, dvt_p, mu_p, tnom)
         return dst
     kind = None
     out = []
@@ -78,7 +82,7 @@ def _cryo_copy(src, dvt, mu, outdir, done, mm=1.0, dvt_p=None, mu_p=None):
             kind = m.group(1).lower()
         m = _INCLUDE.match(line)
         if m and not Path(m.group(2)).is_absolute():
-            child = _cryo_copy(src.parent / m.group(2), dvt, mu, outdir, done, mm, dvt_p, mu_p)
+            child = _cryo_copy(src.parent / m.group(2), dvt, mu, outdir, done, mm, dvt_p, mu_p, tnom)
             out.append(f'{m.group(1)}{child.as_posix()}{m.group(3)}')
             continue
         m = _VT_SLOPE.match(line)
@@ -93,6 +97,8 @@ def _cryo_copy(src, dvt, mu, outdir, done, mm=1.0, dvt_p=None, mu_p=None):
                     return f"{m.group(1)}{eq}{{({val}) {'+' if kind == 'nmos' else '-'} {d:g}}}"
                 return f"{m.group(1)}{eq}{{({val}) * {u:g}}}"
             line = _PARAM.sub(sub, line)
+            if tnom is not None:
+                line = _TNOM.sub(lambda m: f"{m.group(1)}{m.group(2)}{tnom:g}", line)
         out.append(line)
     _atomic_write(dst, "\n".join(out) + "\n")
     return dst
@@ -103,7 +109,8 @@ def write_fet18_lib(corner="tt", devices="core", mismatch=False, cryo=None):
     scaled by mu (in the manner of the Beall 2026 77 K refit, which scales VTH0 and U0). Diodes and
     the rest are unchanged; the optional mm scales the mismatch (the vth0, toxe, voff and nfactor slope parameters; the
     thick-oxide devices have no vth0 slope), and the
-    optional (dvt_p, mu_p) give the pMOS its own shift and mobility factor (cryo = (dvt, mu, mm, dvt_p, mu_p)). None
+    optional (dvt_p, mu_p) give the pMOS its own shift and mobility factor (cryo = (dvt, mu, mm, dvt_p, mu_p)), and a
+    sixth element sets every FET's tnom (deg C) for the effective-temperature band. None
     (default) leaves the PDK models untouched."""
     if corner not in CORNERS:
         raise ValueError(corner)
@@ -126,13 +133,16 @@ def write_fet18_lib(corner="tt", devices="core", mismatch=False, cryo=None):
         dvt, mu = c[0], c[1]
         mm = c[2] if len(c) > 2 else 1.0
         dvt_p, mu_p = (c[3], c[4]) if len(c) > 4 else (dvt, mu)
+        tnom = c[5] if len(c) > 5 else None
         ctag = (f"cryo_dvt{dvt * 1e3:g}m_mu{mu:g}" + (f"_mm{mm:g}" if mm != 1.0 else "")
-                + (f"_p{dvt_p * 1e3:g}m_{mu_p:g}" if (dvt_p, mu_p) != (dvt, mu) else ""))
+                + (f"_p{dvt_p * 1e3:g}m_{mu_p:g}" if (dvt_p, mu_p) != (dvt, mu) else "")
+                + (f"_tn{tnom:g}" if tnom is not None else ""))
         tag += "_" + ctag
         cdir = config.BUILD_DIR / "pdk" / ctag / corner
         cdir.mkdir(parents=True, exist_ok=True)
         done = set()
-        keep = [p if p.name.endswith("nonfet.spice") else _cryo_copy(p, dvt, mu, cdir, done, mm, dvt_p, mu_p) for p in keep]
+        keep = [p if p.name.endswith("nonfet.spice") else _cryo_copy(p, dvt, mu, cdir, done, mm, dvt_p, mu_p, tnom)
+                for p in keep]
     out = config.BUILD_DIR / "pdk" / f"sky130_fet18_{tag}.lib"
     out.parent.mkdir(parents=True, exist_ok=True)
     lines = [f"* Trimmed SKY130 library, corner {corner}, devices '{devices}'"

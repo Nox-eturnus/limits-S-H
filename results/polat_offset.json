@@ -1,0 +1,47 @@
+{
+ "0 ns": {
+  "points": 121,
+  "median_rel_dev": 0.027099078525612108,
+  "max_rel_dev": 0.8955968376295496,
+  "median_away_from_minima": 0.025346181698870596,
+  "max_away_from_minima": 0.5094095868333153,
+  "max_near_minima": 0.8955968376295496,
+  "n_near_minima": 6
+ },
+ "0.025 ns": {
+  "points": 121,
+  "median_rel_dev": 0.013826356841765586,
+  "max_rel_dev": 0.5636877703290986,
+  "median_away_from_minima": 0.012712297118153026,
+  "max_away_from_minima": 0.27759551223475654,
+  "max_near_minima": 0.5636877703290986,
+  "n_near_minima": 6
+ },
+ "0.045 ns": {
+  "points": 121,
+  "median_rel_dev": 0.0028984444072787108,
+  "max_rel_dev": 0.13118243238358362,
+  "median_away_from_minima": 0.002718328052022656,
+  "max_away_from_minima": 0.059376272861423995,
+  "max_near_minima": 0.13118243238358362,
+  "n_near_minima": 6
+ },
+ "0.05 ns": {
+  "points": 121,
+  "median_rel_dev": 0.0003417381355987903,
+  "max_rel_dev": 0.001758319923582552,
+  "median_away_from_minima": 0.0003461258241383991,
+  "max_away_from_minima": 0.001758319923582552,
+  "max_near_minima": 0.0004946027335559489,
+  "n_near_minima": 6
+ },
+ "0.055 ns": {
+  "points": 121,
+  "median_rel_dev": 0.0026558996631425025,
+  "max_rel_dev": 0.14153843636759134,
+  "median_away_from_minima": 0.0023856456506001766,
+  "max_away_from_minima": 0.06071822095780499,
+  "max_near_minima": 0.14153843636759134,
+  "n_near_minima": 6
+ }
+}

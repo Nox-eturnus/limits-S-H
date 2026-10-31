@@ -1,0 +1,20 @@
+{
+ "NMOS switch|300 K (nine cells)": 1832536614,
+ "T-switch, buffered, thick oxide|300 K (nine cells)": 3003348600,
+ "T-switch, buffered, thin oxide|300 K (nine cells)": 1854274290,
+ "TG with dummies|300 K (nine cells)": 3091054272,
+ "TG, ESD on the node|300 K": 1584527301,
+ "TG, ESD on the node|4 K high": 2221946775,
+ "TG, ESD on the node|4 K proxy": 107814897,
+ "TG, ESD on the node|4 K, Beall pMOS": 3188667620,
+ "TG, ESD on the node|4 K, steep (T_eff 120 K)": 2819637601,
+ "TG, ESD on the node|4 K, tree, ESD-dominated droop": 2080259166,
+ "TG, ESD on the node|4 K, tree, one reticle": 3992786093,
+ "TG, ESD on the node|77 K Beall fit": 3325861283,
+ "TG, ESD on the node|77 K proxy": 3264145832,
+ "TG, high-threshold PMOS|300 K (nine cells)": 2249897421,
+ "TG|300 K (nine cells)": 1709419854,
+ "bootstrapped NMOS|300 K (nine cells)": 1666858551,
+ "charge-locked TG|300 K (nine cells)": 1672014710,
+ "thick-oxide T-switch|300 K (nine cells)": 170759985
+}

@@ -1,0 +1,466 @@
+{
+ "table_S10": {
+  "NMOS, 0.3 V underdrive|4 K proxy": [
+   29.6480940125038,
+   6.17019082171355
+  ],
+  "NMOS, 0.3 V underdrive|4 K, overlap capacitances x 0.7": [
+   29.19189990344761,
+   6.055179308883293
+  ],
+  "NMOS, 0.3 V underdrive|4 K, overlap capacitances x 1.3": [
+   28.88546949391665,
+   6.031302474693652
+  ],
+  "NMOS, 0.3 V underdrive|4 K, junction capacitances x 0.7": [
+   29.03350285410236,
+   6.042665774181542
+  ],
+  "NMOS, 0.3 V underdrive|4 K, junction capacitances x 1.3": [
+   29.042545748381304,
+   6.043787480995306
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": [
+   2.7194775550215513,
+   0.7800880103775669
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, overlap capacitances x 0.7": [
+   2.872533277965099,
+   0.8047907278475511
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, overlap capacitances x 1.3": [
+   2.4866995291033827,
+   0.7270785065476103
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, junction capacitances x 0.7": [
+   2.763803415248513,
+   0.7623259125943904
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, junction capacitances x 1.3": [
+   2.5634524460366706,
+   0.7623733210960207
+  ],
+  "TG + dummies|4 K proxy": [
+   4.654932618487609,
+   0.6861001524180973
+  ],
+  "TG + dummies|4 K, overlap capacitances x 0.7": [
+   4.690655945698326,
+   0.6851347519951569
+  ],
+  "TG + dummies|4 K, overlap capacitances x 1.3": [
+   4.6201415428191694,
+   0.6870637787933751
+  ],
+  "TG + dummies|4 K, junction capacitances x 0.7": [
+   4.650998354931944,
+   0.6855136617343986
+  ],
+  "TG + dummies|4 K, junction capacitances x 1.3": [
+   4.658872989904242,
+   0.6866865756774061
+  ],
+  "TG, no ESD|4 K proxy": [
+   1.007484047254202,
+   0.7159228100353106
+  ],
+  "TG, no ESD|4 K, overlap capacitances x 0.7": [
+   1.0046322085702,
+   0.7144428640137171
+  ],
+  "TG, no ESD|4 K, overlap capacitances x 1.3": [
+   1.0103488029354115,
+   0.7174055197503734
+  ],
+  "TG, no ESD|4 K, junction capacitances x 0.7": [
+   1.007008877491083,
+   0.7155958013551676
+  ],
+  "TG, no ESD|4 K, junction capacitances x 1.3": [
+   1.0079595327798074,
+   0.7162497764665416
+  ]
+ },
+ "table_S19": [],
+ "table_S19_dac_limit_V": {
+  "NMOS": 0.00016110761114449093,
+  "bootstrapped": 0.00014157425433126722,
+  "TG + dummies": 0.0001541542490051923
+ },
+ "table_S20": [
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "NMOS",
+   "full": 250.94548761959098,
+   "shared": 59.09988497468418,
+   "joint_49": 223.4994788701656
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "bootstrapped",
+   "full": 22.604429697399635,
+   "shared": 7.144636196213877,
+   "joint_49": 20.13217414446828
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "T-switch + OTA",
+   "full": 44.88773854956222,
+   "shared": 3.510530868686098,
+   "joint_49": 39.97834855949084
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG + dummies",
+   "full": 44.76244372140325,
+   "shared": 6.613701060978316,
+   "joint_49": 39.8667572770004
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG",
+   "full": 8.366437885964377,
+   "shared": 5.548694173974442,
+   "joint_49": 7.45139721478964
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG with ESD",
+   "full": 9.485624053909861,
+   "shared": 6.322813493307755,
+   "joint_49": 8.448177542131878
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "NMOS",
+   "full": 79.52923771090059,
+   "shared": 18.765060441211816,
+   "joint_49": 63.776623369234684
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "bootstrapped",
+   "full": 7.165035200550756,
+   "shared": 2.268479862394461,
+   "joint_49": 5.745833413793698
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "T-switch + OTA",
+   "full": 14.241483068788586,
+   "shared": 1.1148151303308516,
+   "joint_49": 11.420626275825231
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG + dummies",
+   "full": 14.213683347380247,
+   "shared": 2.100176777000573,
+   "joint_49": 11.398332935500832
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG",
+   "full": 2.650428780351074,
+   "shared": 1.76016714327206,
+   "joint_49": 2.125449745990233
+  },
+  {
+   "device": "Park et al., conventional gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG with ESD",
+   "full": 3.004971371805961,
+   "shared": 2.005710467217368,
+   "joint_49": 2.4097669351699746
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "NMOS",
+   "full": 163.1241261180254,
+   "shared": 35.40991540797026,
+   "joint_49": 142.4770808520765
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "bootstrapped",
+   "full": 14.571754698837877,
+   "shared": 4.28411720912173,
+   "joint_49": 12.727369775337815
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "T-switch + OTA",
+   "full": 27.767162926302415,
+   "shared": 2.0905576560360557,
+   "joint_49": 24.252600834907447
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG + dummies",
+   "full": 26.747005907733037,
+   "shared": 3.9452721588867226,
+   "joint_49": 23.361567745716474
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG",
+   "full": 5.543102023436615,
+   "shared": 3.4542874175992067,
+   "joint_49": 4.8414971712588235
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.001,
+   "design": "TG with ESD",
+   "full": 6.285401439277333,
+   "shared": 3.938266900487783,
+   "joint_49": 5.489841817780737
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "NMOS",
+   "full": 51.934649260847316,
+   "shared": 11.310541361588989,
+   "joint_49": 30.623435332122742
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "bootstrapped",
+   "full": 4.640944998735559,
+   "shared": 1.3683810655222268,
+   "joint_49": 2.736548355894262
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "T-switch + OTA",
+   "full": 8.858501990708014,
+   "shared": 0.6679103225177967,
+   "joint_49": 5.223444592634215
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG + dummies",
+   "full": 8.544313432885579,
+   "shared": 1.2603921490718035,
+   "joint_49": 5.0381822847240745
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG",
+   "full": 1.763302951535126,
+   "shared": 1.1017364802373106,
+   "joint_49": 1.039737336745347
+  },
+  {
+   "device": "Park et al., interchanged gates (Si/SiGe)",
+   "target": 0.0001,
+   "design": "TG with ESD",
+   "full": 1.999422706337659,
+   "shared": 1.2560743481201055,
+   "joint_49": 1.178966120317459
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "NMOS",
+   "full": 92.88242593032768,
+   "shared": 19.294260771775345,
+   "joint_49": 74.95577605963815
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "bootstrapped",
+   "full": 8.25548250791072,
+   "shared": 2.335229501492922,
+   "joint_49": 6.662144016257533
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "T-switch + OTA",
+   "full": 15.372966548781816,
+   "shared": 1.1358396558045596,
+   "joint_49": 12.405927455718569
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "TG + dummies",
+   "full": 14.55527394765163,
+   "shared": 2.1452640104327574,
+   "joint_49": 11.7460525344723
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "TG",
+   "full": 3.194388432026572,
+   "shared": 1.9188716442445544,
+   "joint_49": 2.577859714151823
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.001,
+   "design": "TG with ESD",
+   "full": 3.622459698538374,
+   "shared": 2.188335644690757,
+   "joint_49": 2.9233116515753004
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "NMOS",
+   "full": 29.66411061210672,
+   "shared": 6.181910216585566,
+   "joint_49": 0.0
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "bootstrapped",
+   "full": 2.6375805416849447,
+   "shared": 0.7481910461633645,
+   "joint_49": 0.0
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "T-switch + OTA",
+   "full": 4.919935124697925,
+   "shared": 0.3639979044288734,
+   "joint_49": 0.0
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "TG + dummies",
+   "full": 4.6639515498355095,
+   "shared": 0.6874454282200516,
+   "joint_49": 0.0
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "TG",
+   "full": 1.0192573830249438,
+   "shared": 0.6139623195605226,
+   "joint_49": 0.0
+  },
+  {
+   "device": "Nickl et al., foundry SiMOS",
+   "target": 0.0001,
+   "design": "TG with ESD",
+   "full": 1.1558378892683707,
+   "shared": 0.7001658174235512,
+   "joint_49": 0.0
+  }
+ ],
+ "table_S26": {
+  "NMOS, 0.3 V underdrive, 0.3 to 0.9 V": {
+   "cells": [
+    "541 / 5.76",
+    "661 / 5.75",
+    "620 / 5.74"
+   ],
+   "ref_min": 3917.4671009684703,
+   "move50_min": 1078.8152509999497,
+   "verdicts": [
+    "pass",
+    "pass",
+    "pass"
+   ]
+  },
+  "NMOS, 0.3 V underdrive, 0.3 to 1.5 V": {
+   "cells": [
+    "118 / 5.63",
+    "122 / 5.63",
+    "112 / 5.61"
+   ],
+   "ref_min": 819.4571884112132,
+   "move50_min": 410.8552435801493,
+   "verdicts": [
+    "pass",
+    "pass",
+    "pass"
+   ]
+  },
+  "Bootstrapped NMOS, transistor level": {
+   "cells": [
+    "34.6 / 3.82",
+    "13.5 / 3.18",
+    "13.9 / 3.18"
+   ],
+   "ref_min": 97.84852752631788,
+   "move50_min": 46.28546198903572,
+   "verdicts": [
+    "pass",
+    "pass",
+    "pass"
+   ]
+  },
+  "TG with dummies": {
+   "cells": [
+    "5.4 / 1.47",
+    "5.15 / 1.51",
+    "5.55 / 1.52"
+   ],
+   "ref_min": 41.86036523079881,
+   "move50_min": 13.242109542028377,
+   "verdicts": [
+    "pass",
+    "pass",
+    "pass"
+   ]
+  },
+  "TG, 1 \u00b5m": {
+   "cells": [
+    "0.586 / 0.486",
+    "0.62 / 0.52",
+    "0.66 / 0.551"
+   ],
+   "ref_min": 4.206769266326202,
+   "move50_min": 2.1156094059818678,
+   "verdicts": [
+    "fail",
+    "fail",
+    "fail"
+   ]
+  },
+  "TG, 0.42 \u00b5m": {
+   "cells": [
+    "1.41 / 1.07",
+    "1.45 / 1.12",
+    "1.52 / 1.17"
+   ],
+   "ref_min": 10.12888116700842,
+   "move50_min": 5.111148656111498,
+   "verdicts": [
+    "pass",
+    "pass",
+    "pass"
+   ]
+  }
+ }
+}

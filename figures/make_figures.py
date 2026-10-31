@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt  # noqa: E402
 
 OUT = Path(__file__).resolve().parent
 CACHE = Path(__file__).resolve().parent / "cache" / "error_budget_curves.json"
-W = 6.5                                  # printed width of every figure (in): the text width of the manuscript
+W = 6.5                                  # printed width of every figure (in): the text width of the article
 REF = "s10_t0.001"
 WORST = "s33.69_t0.0001"
 
@@ -60,7 +60,10 @@ DESIGN = {
     "TG + dummies": "TGD", "TG, no ESD": "TG", "TG, ESD on the node": "TG",
 }
 BAND_NAME = {"300 K": "300 K", "77 K proxy": "77 K", "4 K proxy": "4 K", "4 K high": "4 K, high shift",
-             "77 K Beall fit": "77 K, fitted", "4 K, Beall pMOS": "4 K, measured PMOS shift"}
+             "77 K Beall fit": "77 K, fitted", "4 K, Beall pMOS": "4 K, measured PMOS shift",
+             "4 K, steep (T_eff 120 K)": "4 K, steep", "4 K, steep (T_eff 30 K)": "4 K, steeper (30 K)",
+             "4 K, steep (T_eff 20 K)": "4 K, steepest (20 K)",
+             "4 K, tree, ESD-dominated droop": "4 K, tree source (5 × 10$^5$)", "4 K, tree, one reticle": "4 K, tree source (one reticle)"}
 
 plt.rcParams.update({
     "font.family": "serif", "font.serif": ["Times New Roman", "DejaVu Serif"], "mathtext.fontset": "stix",
@@ -362,14 +365,17 @@ def fig5():
     res = load("results/cryogenic.json")
     e = load("results/design_space.json")
     ts = load("results/tree.json")       # tree with its upper levels
-    sb = load("results/system_budget.json")      # operational budget: frame-tracked, M = 4
+    sb = load("results/system.json")             # operational budget (studies/operational_budget.py)
     rates = np.geomspace(1e-8, 1e1, 60)
     fig = plt.figure(figsize=(W, 8.2))
     gs = fig.add_gridspec(2, 1, height_ratios=[1.25, 1], hspace=0.62)
     a, b = fig.add_subplot(gs[0]), fig.add_subplot(gs[1])
-    lo, hi = min(res["anchors"].values()), max(res["anchors"].values())
+    an = load("results/droop_anchors.json")            # measured droop converted to a 1 pF node
+    lo, hi = min(an["band_1pF"].values()), max(an["band_1pF"].values())
     a.axvspan(lo, hi, color=GRID, alpha=0.6, lw=0)
-    a.text(np.sqrt(lo * hi), 2.5e9, "droop measured on cryogenic chips", ha="center", fontsize=8.5, color=INK2)
+    a.text(np.sqrt(lo * hi), 2.5e9, "measured droop, on 1 pF", ha="center", fontsize=8.5, color=INK2)
+    for x in (an["band_1pF"]["van Staveren et al., typical"], an["band_1pF"]["Darnas et al."]):
+        a.axvline(x, color=INK2, lw=0.7, ls=(0, (2, 2)))
     for d, esd in (("bootstrapped (transistor level), 0.3 V underdrive", False), ("T-switch + OTA buffer", False),
                    ("TG, no ESD", False), ("TG, ESD on the node", True)):
         n, col, mk = ARCH[DESIGN[d]]
@@ -378,8 +384,11 @@ def fig5():
         flat = np.interp(np.log(rates), np.log(sb["fig5_rates"]), sb["fig5_flat"][d])
         tree = np.interp(np.log(rates), np.log(sb["fig5_rates"]), sb["fig5_curves"][d])
         a.loglog(rates, np.maximum(flat, 0.5), color=col, ls="--" if esd else "-", label=f"{n}, flat line")
-        a.loglog(rates, np.maximum(tree, 0.5), color=col, ls=(0, (1, 1, 4, 1)) if esd else ":",
-                 marker=mk, markevery=8, ms=4.5, label=f"{n}, tree")
+        cap = sb["n_per_reticle"]                  # beyond one reticle the count is a settling limit only
+        a.loglog(rates, np.where(tree <= cap, np.maximum(tree, 0.5), np.nan), color=col,
+                 ls=(0, (1, 1, 4, 1)) if esd else ":", marker=mk, markevery=8, ms=4.5, label=f"{n}, tree")
+        a.loglog(rates, np.where(tree >= cap, tree, np.nan), color=col, lw=0.8, alpha=0.35,
+                 ls=(0, (1, 1, 4, 1)) if esd else ":")
     for txt, v, ls in (("Darnas et al., drift only", 1e7, "-."), ("van Staveren et al., per DAC", 1e4, (0, (1, 2))),
                        ("one reticle of 1 pF cells", ts["n_per_reticle"], (0, (5, 2)))):
         a.axhline(v, color=INK, lw=0.8, ls=ls)
@@ -421,36 +430,61 @@ def fig6():
     gs = fig.add_gridspec(2, 2, height_ratios=[1.1, 1], width_ratios=[1.35, 1], hspace=0.55, wspace=0.12)
     a = fig.add_subplot(gs[0, :])
     b, c = fig.add_subplot(gs[1, 0]), fig.add_subplot(gs[1, 1])
-    mo = load("results/margins.json")["bands"]     # worst of 10^6 channels
-    pt = "s33.69_t0.0001|operational"
+    ra = load("results/cell_margins.json")               # worst of 10^6 channels, one cell per channel
+    tail = load("results/tail_corrected.json")["designs"]     # the same margins corrected for the tail optimism
+    b_eq = ra["budgets"][WORST]["b_eq"]                 # untracked, equal signs: the nominal cell's residual is common
+    trees = ["4 K, tree, ESD-dominated droop", "4 K, tree, one reticle"]
+    bands6 = bands + ["4 K, steep (T_eff 120 K)"] + trees
+    style6 = {**band_style, "4 K, steep (T_eff 120 K)": "X", trees[0]: "*", trees[1]: "h"}
+    col6 = {**band_col, "4 K, steep (T_eff 120 K)": SLOT[5], trees[0]: SLOT[6], trees[1]: SLOT[4]}
     y = np.arange(len(designs))[::-1]
     for d, yy in zip(designs, y):                     # nominal cell over the bands, for comparison
-        nom = [mo[f"{d}|{bnd}"]["nominal_operational"] for bnd in bands if f"{d}|{bnd}" in mo]
-        a.plot([min(nom), max(nom)], [yy - 0.42, yy - 0.42], color=INK2, lw=1.6, alpha=0.6,
+        nom = [b_eq / max(get(d, bnd)["residual"], 1e-12) for bnd in bands if get(d, bnd)]
+        a.plot([min(nom), max(nom)], [yy - 0.45, yy - 0.45], color=INK2, lw=1.6, alpha=0.6,
                label="nominal cell, over the bands" if yy == y[0] else None)
-    for j, bnd in enumerate(bands):
-        xs = [mo[f"{d}|{bnd}"][pt]["per-channel"] if f"{d}|{bnd}" in mo else np.nan for d in designs]
-        a.scatter(xs, y + (j - 2.5) * 0.11, marker=band_style[bnd], color=band_col[bnd], s=30, lw=0,
-                  label=BAND_NAME[bnd], zorder=3)
+        sh = [tail[f"{d}|{bnd}"]["margin"][f"{WORST}|shared|mixed"] for bnd in bands + ["4 K, steep (T_eff 120 K)"] + trees
+              if f"{d}|{bnd}" in tail]                # one calibration line shared by all channels
+        a.plot([min(sh), max(sh)], [yy + 0.45, yy + 0.45], color=SLOT[3], lw=1.6, alpha=0.8,
+               label="shared calibration, over the bands" if yy == y[0] else None)
+    for j, bnd in enumerate(bands6):
+        xs, lo, hi = [], [], []
+        for d in designs:
+            r = tail.get(f"{d}|{bnd}")
+            if r is None:
+                xs.append(np.nan); lo.append(0); hi.append(0)
+                continue
+            key = f"{WORST}|full|mixed"
+            m, ci = r["margin"][key], r["ci90"][key]
+            xs.append(m); lo.append(m - ci[0]); hi.append(ci[1] - m)
+        yy = y + (j - (len(bands6) - 1) / 2) * 0.085
+        a.errorbar(xs, yy, xerr=[lo, hi], fmt="none", ecolor=col6[bnd], elinewidth=0.8, alpha=0.7, zorder=2)
+        a.scatter(xs, yy, marker=style6[bnd], color=col6[bnd], s=28, lw=0, label=BAND_NAME[bnd], zorder=3)
     a.axvline(1, color=SLOT[7], lw=1.0)
     a.set_xscale("log")
     a.set_yticks(y, [labels[d] for d in designs])
-    a.set(xlabel="pedestal margin, worst of $10^6$ channels ($s$ = 33.7 dec/V, 99.99%, operational)", title="(a)",
-          xlim=(0.2, 50))
+    a.set(xlabel="pedestal margin, worst of $10^6$ channels ($s$ = 33.7 dec/V, 99.99%, untracked)", title="(a)",
+          xlim=(0.2, 400))
     a.legend(loc="upper left", bbox_to_anchor=(1.01, 1.02), handletextpad=0.3)
 
     vs = get(designs[0], "300 K")["v_hold"]
-    img = np.zeros((len(designs), len(bands)))
+    extra = {}
+    for line in (ROOT / "results" / "extra_bands_channels.jsonl").read_text(encoding="utf-8").splitlines():
+        r = json.loads(line)
+        if r["seed"] == 0 and "pedestal" in r:
+            extra[(r["design"], r["variant"])] = r
+    bands_b = bands + ["4 K, steep (T_eff 120 K)", "4 K, steep (T_eff 30 K)", "4 K, steep (T_eff 20 K)"] + trees
+    img = np.full((len(designs), len(bands_b)), np.nan)
     for i, d in enumerate(designs):
-        for j, bnd in enumerate(bands):
-            r = get(d, bnd)
-            img[i, j] = np.nan if not r else sum(abs(e) >= 0.1e-3 for e in r["track_error"])
+        for j, bnd in enumerate(bands_b):
+            r = get(d, bnd) if bnd in bands else extra.get((d, bnd))
+            if r:
+                img[i, j] = sum(abs(e) >= 0.1e-3 for e in r["track_error"])
     b.imshow(img, cmap="Blues", vmin=0, vmax=len(vs), aspect="auto")
     for i in range(len(designs)):
-        for j in range(len(bands)):
-            b.text(j, i, f"{img[i, j]:.0f}", ha="center", va="center", fontsize=9,
+        for j in range(len(bands_b)):
+            b.text(j, i, "–" if np.isnan(img[i, j]) else f"{img[i, j]:.0f}", ha="center", va="center", fontsize=9,
                    color="white" if img[i, j] > len(vs) / 2 else INK)
-    b.set_xticks(range(len(bands)), [BAND_NAME[x] for x in bands], rotation=40, ha="right")
+    b.set_xticks(range(len(bands_b)), [BAND_NAME[x] for x in bands_b], rotation=40, ha="right")
     b.set_yticks(range(len(designs)), [labels[d] for d in designs])
     b.grid(False)
     b.set_title(f"(b) held voltages not passed (of {len(vs)})", loc="left")

@@ -1,0 +1,36 @@
+## Room temperature (Table S3 cells)
+- 99.9 %, 10 dec/V per channel lowest: 7.38 (D TGH|300 K)
+- 99.9 %, 33.69 per channel lowest: 3.2 (D TGH|300 K)
+- 99.9 %, 10 dec/V shared lowest: 2.42 (D TSWB|300 K); verdicts D NSW pass, D TG pass, D TGD pass, D BOOT pass, D CLK pass, D TSW pass, D TGH pass, D TSWB pass, D NTB pass
+- strictest shared: D NSW 3.82 pass, D TG 0.914 fail, D TGD 0.727 fail, D BOOT 2.84 pass, D CLK 1.72 pass, D TSW 0.298 fail, D TGH 0.83 fail, D TSWB 0.296 fail, D NTB 1.1 near one
+- move50mV strictest, lowest as stored: 4.26 (D TG|300 K); divided by 1.27: 3.35
+- move20mV strictest, lowest as stored: 10.6 (D TG|300 K); divided by 1.6: 6.65
+
+## Figure 6 designs, cryogenic bands and trees
+- 99.9 %, 10 dec/V full, all conditions incl. 300 K: lowest 7.15 (TG, no ESD|4 K high)
+- 99.9 %, 10 dec/V shared, all conditions incl. 300 K: lowest 2.76 (bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle)
+- 99.9 %, 33.69 full, all conditions incl. 300 K: lowest 3.08 (TG, no ESD|4 K high)
+- 99.9 %, 33.69 shared, all conditions incl. 300 K: lowest 1.06 (bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle)
+- 99.9 %, 33.69 shared not pass: [('T-switch + OTA buffer|4 K, steep (T_eff 120 K)', 'near one'), ('T-switch + OTA buffer|4 K proxy', 'near one'), ('bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD-dominated droop', 'near one'), ('T-switch + OTA buffer|4 K, tree, ESD-dominated droop', 'near one'), ('bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle', 'near one'), ('T-switch + OTA buffer|300 K', 'near one'), ('T-switch + OTA buffer|77 K proxy', 'near one'), ('T-switch + OTA buffer|4 K high', 'near one'), ('T-switch + OTA buffer|77 K Beall fit', 'near one'), ('T-switch + OTA buffer|4 K, Beall pMOS', 'near one'), ('T-switch + OTA buffer|4 K, tree, one reticle', 'near one'), ('bootstrapped (transistor level), 0.3 V underdrive|4 K, tree source', 'near one')]
+- move20mV: bias 1.00 to 1.60; fine grid lowest 15 (TG, no ESD|4 K proxy); interpolated lowest corrected 5.68 (TG, no ESD|4 K high)
+- move50mV: bias 0.80 to 1.27; fine grid lowest 7.49 (TG, no ESD|4 K proxy); interpolated lowest corrected 2.87 (TG, no ESD|4 K high)
+- NMOS, 0.3 V underdrive: per channel 17 to 297; cryo 50 ohm 17 to 297; trees 31.4 to 31.4; shared 5.57 to 6.39; shared cryo 50 ohm 5.57 to 6.39; verdicts 
+- bootstrapped (transistor level), 0.3 V underdrive: per channel 1.19 to 10.6; cryo 50 ohm 1.19 to 5.75; trees 2.02 to 2.2; shared 0.339 to 1.66; shared cryo 50 ohm 0.72 to 1.05; verdicts 
+- T-switch + OTA buffer: per channel 2.65 to 9.34; cryo 50 ohm 2.65 to 5.69; trees 5.45 to 6.86; shared 0.348 to 0.375; shared cryo 50 ohm 0.348 to 0.373; verdicts 
+- TG + dummies: per channel 2.44 to 7.6; cryo 50 ohm 2.44 to 7.6; trees 5.11 to 5.13; shared 0.612 to 1.81; shared cryo 50 ohm 0.612 to 1.81; verdicts 
+- TG, no ESD: per channel 0.983 to 2.04; cryo 50 ohm 0.983 to 2.04; trees 1.02 to 1.02; shared 0.619 to 1.6; shared cryo 50 ohm 0.619 to 1.6; verdicts 4 K proxy: near one, 4 K, tree, ESD-dominated droop: near one, 4 K high: near one, 4 K, tree, one reticle: near one
+- TG, ESD on the node: per channel 1.1 to 34.4; cryo 50 ohm 1.16 to 34.4; trees 1.16 to 1.16; shared 0.711 to 4.06; shared cryo 50 ohm 0.711 to 4.06; verdicts 
+- TG, no ESD outside the measured-PMOS bands: 0.983 to 1.13
+- TG, no ESD in the measured-PMOS bands: 2.02 to 2.04
+- TG, ESD on the node outside the measured-PMOS bands: 1.1 to 1.26
+- TG, ESD on the node in the measured-PMOS bands: 10.7 to 34.4
+- TG 4 K high: 0.983 [0.955, 1.01] near one
+- TG 4 K: 1.02 [1.0122523303035982, 1.028216721943482]
+- TG 300 K: 1.05 [1.0348772783194553, 1.0681826618870705]
+- P(array) TG 4 K proxy: 4.45e-07
+- P(array) TG 4 K high: 1
+- P(array) TG 4 K, tree, ESD-dominated droop: 8.06e-07
+- P(array) TG 4 K, tree, one reticle: 7.97e-07
+- P(array) TG 300 K: 6.63e-20
+- P(array) per channel largest over the other designs: NMOS, 0.3 V underdrive 0, bootstrapped (transistor level), 0.3 V underdrive 4.4e-13, T-switch + OTA buffer 8.9e-43, TG + dummies 4e-32, TG, ESD on the node 5.7e-43
+- P(array) model error, largest over conditions: NMOS, 0.3 V underdrive: mism2 0, curv1.3 0; bootstrapped (transistor level), 0.3 V underdrive: mism2 0.99, curv1.3 1; T-switch + OTA buffer: mism2 1.3e-07, curv1.3 1.1e-40; TG + dummies: mism2 6.5e-05, curv1.3 6.6e-31; TG, no ESD: mism2 1, curv1.3 1; TG, ESD on the node: mism2 1.1e-07, curv1.3 1
