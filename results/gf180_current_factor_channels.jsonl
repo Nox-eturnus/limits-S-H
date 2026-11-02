@@ -1,0 +1,735 @@
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.4, "ped": -0.000757200186064455, "track": -2.7755575615628914e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.3, "ped": -0.0007762455270427515, "track": -2.375877272697835e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.5, "ped": -0.0007278862477398951, "track": -4.5852210917018965e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.5, "ped": -0.0007174948927515246, "track": -3.1030733538273125e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.3, "ped": -0.0007811199655551881, "track": -2.653433028854124e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.4, "ped": -0.0007517341910044384, "track": -2.4313884239290928e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.9, "ped": -0.0006042840133823058, "track": -1.0802470029602773e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.8, "ped": -0.000640257801647004, "track": -1.0136336214827679e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.7, "ped": -0.0006694107259646032, "track": -8.038014698286133e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.4, "ped": -0.0007503862007353646, "track": -1.6486811915683575e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.7, "ped": -0.0006625524700077934, "track": -7.66053886991358e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.8, "ped": -0.0006297934491409363, "track": -6.816769371198461e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.7, "ped": -0.0006589676658722565, "track": -7.494005416219807e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.3, "ped": -0.0007865681378242395, "track": -3.091971123581061e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.3, "ped": -0.000779770580035366, "track": -1.9317880628477724e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.9, "ped": -0.0006056307081934165, "track": -1.0480505352461478e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.6, "ped": -0.0006882037143458586, "track": -8.815170815523743e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.8, "ped": -0.0006333887788271264, "track": -8.826273045769994e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.8, "ped": -0.0006347352228042169, "track": -5.873079800267078e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.6, "ped": -0.0006917764421636718, "track": -3.7414515929867775e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.9, "ped": -0.000600682910543493, "track": -1.3455903058456897e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.6, "ped": -0.0006931228107937004, "track": -2.531308496145357e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.5, "ped": -0.0007210529632154516, "track": -5.040412531798211e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.5, "ped": -0.0007224026866209377, "track": -7.133182933216631e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.9, "ped": -0.0006111612243989706, "track": -1.2356782264077992e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.6, "ped": -0.0006986210189872111, "track": -3.4861002973229915e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.7, "ped": -0.0006638987339164792, "track": -3.774758283725532e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.4, "ped": -0.0007468431449832447, "track": -3.452793606584237e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.3, "ped": -0.0007814079901551363, "track": -3.1252778143198157e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.4, "ped": -0.000752031179735102, "track": -1.970645868709653e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.5, "ped": -0.0007227081985687889, "track": -7.482903185973555e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.7, "ped": -0.0006642167349736328, "track": -4.296563105299356e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.6, "ped": -0.0006934351875634848, "track": -5.706546346573305e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.9, "ped": -0.0006059559497652023, "track": -1.5520917884259688e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.5, "ped": -0.0007227518484547168, "track": -9.059419880941277e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.4, "ped": -0.0007520813755042544, "track": -2.65898414397725e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.8, "ped": -0.0006350575090928734, "track": -4.96269692007445e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.8, "ped": -0.0006350882902660393, "track": -1.3655743202889425e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.9, "ped": -0.0006059845411071629, "track": -1.2678746941219288e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.3, "ped": -0.0007814658475324143, "track": -1.5376588891058418e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.8, "ped": -0.0006304614988914548, "track": -4.107825191113079e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.6, "ped": -0.0007007057777076442, "track": -4.651834473179406e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.3, "ped": -0.0007886233311026891, "track": -1.1213252548714081e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.9, "ped": -0.0006013551549394203, "track": -1.0513812043200232e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.6, "ped": -0.0006934734774902696, "track": -6.772360450213455e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.7, "ped": -0.0006596302635737405, "track": -4.496403249731884e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.7, "ped": -0.000671503233364179, "track": -7.227551890309769e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.7, "ped": -0.0006642507900492811, "track": -6.45039577307216e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.6, "ped": -0.0006888589484519425, "track": -6.639133687258436e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.5, "ped": -0.0007181406197117046, "track": -7.926992395823618e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.4, "ped": -0.000747477931716034, "track": -1.1546319456101628e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.5, "ped": -0.0007299625040509405, "track": -5.040412531798211e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.8, "ped": -0.0006423559309405302, "track": -6.472600233564663e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.9, "ped": -0.0006132640775002862, "track": -1.120215031846783e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.3, "ped": -0.000776867387532465, "track": -2.1038726316646716e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.4, "ped": -0.0007592665287122768, "track": -2.1538326677728037e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.3, "ped": -0.0007854193359476125, "track": -1.9872992140790302e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.4, "ped": -0.0007560343640412581, "track": -2.8255175976710234e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.5, "ped": -0.0007267055270150924, "track": -6.827871601444713e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.6, "ped": -0.0006974272891846489, "track": -4.796163466380676e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.7, "ped": -0.0006682066988983326, "track": -7.072120666862247e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.8, "ped": -0.000639045842636965, "track": -5.651035195342047e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.9, "ped": -0.000609944201073298, "track": -1.511013536514838e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.3, "ped": -0.0007747146021302997, "track": -4.618527782440651e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.4, "ped": -0.0007453078844317229, "track": -3.680389326632394e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.3, "ped": -0.000785307347220987, "track": -4.3298697960381105e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.5, "ped": -0.0007159553178333611, "track": -8.276712648580542e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.6, "ped": -0.000686661246841358, "track": -5.4289905904170155e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.7, "ped": -0.0006574219807237158, "track": -8.759659664292485e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.9, "ped": -0.0006141346635117895, "track": -1.1446399383885364e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.9, "ped": -0.0006019621879845838, "track": -1.1324274851176597e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.9, "ped": -0.0005991318231899356, "track": -1.0480505352461478e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.7, "ped": -0.0006723747385841694, "track": -3.785860513971784e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.5, "ped": -0.0007308360887415266, "track": -5.689893001203927e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.8, "ped": -0.0006310693616714547, "track": -6.550315845288424e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.4, "ped": -0.0007601421542560161, "track": -3.114175584073564e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.8, "ped": -0.0006432266294805755, "track": -3.7969627442180354e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.3, "ped": -0.0007895010885063392, "track": -1.3100631690576847e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.8, "ped": -0.0006282447303546101, "track": -7.238654120556021e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.4, "ped": -0.0007480968006457478, "track": -2.270406085358445e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.3, "ped": -0.0007774909479936198, "track": -2.3425705819590803e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.6, "ped": -0.0006894708414756368, "track": -6.872280522429719e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.5, "ped": -0.0007187555009482982, "track": -5.917488721252084e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.6, "ped": -0.000701577994578706, "track": -8.915090887740007e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.4, "ped": -0.0007559305970916141, "track": -4.7128967395337895e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.7, "ped": -0.0006602398971992107, "track": -7.227551890309769e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.5, "ped": -0.0007266088100068568, "track": -4.8128168117500536e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.6, "ped": -0.0006973362926282478, "track": -5.917488721252084e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.7, "ped": -0.0006681202566755085, "track": -5.939693181744587e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.8, "ped": -0.0006389629049580181, "track": -7.993605777301127e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.9, "ped": -0.0006098636156279813, "track": -1.1823875212257917e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.3, "ped": -0.0007756400662178864, "track": -7.605027718682322e-15}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.5, "ped": -0.0007168887824408054, "track": -4.5852210917018965e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.4, "ped": -0.0007462374399393457, "track": -2.2315482794965646e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.6, "ped": -0.0006875971606079556, "track": -6.339373470609644e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.7, "ped": -0.0006583606681643817, "track": -1.0103029524088925e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.8, "ped": -0.0006291860949118044, "track": -7.560618797697316e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.6, "ped": -0.0006919891917802623, "track": -7.682743330406083e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.5, "ped": -0.000721268200173597, "track": -3.58046925441613e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.4, "ped": -0.0007506044827545466, "track": -4.18554080283684e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.7, "ped": -0.0006627633044361536, "track": -1.1657341758564144e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.9, "ped": -0.0006000750036788682, "track": -1.2434497875801753e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.3, "ped": -0.0007836247977089927, "track": -2.2815083156046967e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.3, "ped": -0.000779992502936866, "track": -9.880984919163893e-15}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.4, "ped": -0.0007473686011390535, "track": -2.8255175976710234e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.4, "ped": -0.0007542373103169298, "track": -4.7906123512575505e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.8, "ped": -0.000630334500042462, "track": -4.96269692007445e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.9, "ped": -0.0006081362841966476, "track": -1.1324274851176597e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.9, "ped": -0.0006012260780033918, "track": -7.560618797697316e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.5, "ped": -0.0007180253975151429, "track": -3.647082635893639e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.6, "ped": -0.0006887387121753408, "track": -4.3076653355456074e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.5, "ped": -0.0007249060676167707, "track": -5.4289905904170155e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.7, "ped": -0.0006595061424502502, "track": -9.670042544485113e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.3, "ped": -0.0007767650762540157, "track": -3.4361402612148595e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.8, "ped": -0.0006372403242034252, "track": -7.138734048339757e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.8, "ped": -0.0006335982162377629, "track": -2.9753977059954195e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.6, "ped": -0.000695626145252648, "track": -5.6288307348495437e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.7, "ped": -0.0006664032435242939, "track": -4.39648317751562e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.9, "ped": -0.0006044925256186717, "track": -8.248957072964913e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.3, "ped": -0.0007847870941635748, "track": -2.042810365310288e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.5, "ped": -0.000726088361489019, "track": -3.547162563677375e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.4, "ped": -0.0007554102886450087, "track": -2.0539125955565396e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.6, "ped": -0.0006968162137174216, "track": -5.007105841059456e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.7, "ped": -0.0006675992071831782, "track": -7.30526750203353e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.8, "ped": -0.0006384415940990928, "track": -9.736655925962623e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.9, "ped": -0.0006093419898230978, "track": -1.4310774787418268e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.3, "ped": -0.0007909297691584549, "track": -4.7351012000262926e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.5, "ped": -0.0007322828039503793, "track": -4.8128168117500536e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.4, "ped": -0.0007615808782556743, "track": -3.9968028886505635e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.6, "ped": -0.000703032040171081, "track": -6.872280522429719e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.7, "ped": -0.0006738353562116828, "track": -1.0580425424677742e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.8, "ped": -0.0006446918657276868, "track": -6.228351168147128e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.3, "ped": -0.0007758903214934443, "track": -2.6867397195928788e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.9, "ped": -0.0006156039916964673, "track": -1.3589129821411916e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.6, "ped": -0.0006878378713659483, "track": -1.0247358517290195e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.5, "ped": -0.0007171320619689392, "track": -7.482903185973555e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.4, "ped": -0.0007464838695229736, "track": -2.0039525594484076e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.4, "ped": -0.0007452087916929861, "track": -1.3877787807814457e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.8, "ped": -0.0006294234509913732, "track": -6.905587213168474e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.8, "ped": -0.0006281626943551721, "track": -1.1468603844377867e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.7, "ped": -0.0006585994434367137, "track": -1.000310945187266e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.9, "ped": -0.000599051598966116, "track": -1.5420997812043424e-13}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.7, "ped": -0.0006573372225213703, "track": -3.8746783559417963e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.3, "ped": -0.0007746085733763564, "track": -1.6209256159527285e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.9, "ped": -0.0006003115052116703, "track": -7.460698725481052e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.5, "ped": -0.0007158627106226279, "track": -3.930189507173054e-14}
+{"design": "GF180 NMOS, 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.6, "ped": -0.0006865728094620493, "track": -6.161737786669619e-14}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.3, "ped": -0.0010202021393860838, "track": -1.9997015154871178e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.5, "ped": -0.0010673675545627148, "track": -2.0948415224708583e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.7, "ped": -0.001109450097399045, "track": -2.1978052711091323e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.9, "ped": -0.0011482968629467072, "track": -2.3112567415495278e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.3, "ped": -0.0012204660007728574, "track": -2.560927025996307e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.1, "ped": -0.0011850851809835916, "track": -2.433153678538247e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.5, "ped": -0.0012546315059485114, "track": -2.6970892186284345e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.3, "ped": -0.0010133657912548832, "track": -2.4114177321621355e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.5, "ped": -0.0010599127131199482, "track": -2.5261115421670866e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.7, "ped": -0.001101487347629937, "track": -2.649465091764114e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.1, "ped": -0.0011763289461910187, "track": -2.93138402440718e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.3, "ped": -0.001211365612749038, "track": -3.085061095475794e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.9, "ped": -0.0011399459241426824, "track": -2.7852598005750906e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.5, "ped": -0.0012453343429270625, "track": -3.249471802746484e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.3, "ped": -0.0010277255311321176, "track": -1.594758214373826e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.5, "ped": -0.0010752041741791674, "track": -1.670579230506064e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.7, "ped": -0.0011177274847689045, "track": -1.7534229623805686e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.5, "ped": -0.001258156098683516, "track": -1.4812484572246376e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.5, "ped": -0.0010710464948341936, "track": -1.7460877188568702e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.1, "ped": -0.0011878013368473717, "track": -1.33531186108371e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.9, "ped": -0.0011568031739337403, "track": -1.845051889048932e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.9, "ped": -0.0011505847208066466, "track": -1.2667045190539739e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.7, "ped": -0.0011113404751258438, "track": -1.2022582929205328e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.9, "ped": -0.0011528797461226592, "track": -1.9274670748359313e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.1, "ped": -0.001193921531487785, "track": -1.9429724495978462e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.3, "ped": -0.0012235443170498517, "track": -1.406383898228114e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.3, "ped": -0.0012296250016390342, "track": -2.0452617377486604e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.5, "ped": -0.0010685478842258345, "track": -1.144580541456719e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.3, "ped": -0.001020681674800572, "track": -1.0924650073462772e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.7, "ped": -0.0011136028978915302, "track": -1.8322110495461175e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.5, "ped": -0.0012642526795869635, "track": -2.1539792172120542e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.3, "ped": -0.0010233485705705148, "track": -1.6668755264959145e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.1, "ped": -0.0011900875018973078, "track": -2.0296209157777412e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.3, "ped": -0.001225795165419763, "track": -2.1364154889624842e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.5, "ped": -0.001067732561246315, "track": -1.678718275499591e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.3, "ped": -0.001222377770079719, "track": -2.0554136170858328e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.7, "ped": -0.0011103512358600076, "track": -1.7620116476990688e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.3, "ped": -0.0010201435626187583, "track": -1.602405430567444e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.1, "ped": -0.0011867075313738429, "track": -1.9527490735526953e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.9, "ped": -0.001149528695615687, "track": -1.8542889446138133e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.5, "ped": -0.0012604313113937504, "track": -2.2500956653459525e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.5, "ped": -0.0012568264739378776, "track": -2.1649038117743657e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.5, "ped": -0.00106535194490609, "track": -1.9216472857408462e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.3, "ped": -0.0010176854319994266, "track": -1.8344487040522495e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.7, "ped": -0.0011079206706288147, "track": -2.0162893576980423e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.1, "ped": -0.0011849780963468781, "track": -2.109463714816684e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.3, "ped": -0.0012198859254248795, "track": -2.2204926786173473e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.9, "ped": -0.0011471118601139585, "track": -2.1208934608552e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.9, "ped": -0.0011488261035077496, "track": -2.0032531189428937e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.1, "ped": -0.001184191787378941, "track": -2.2328938698024103e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.5, "ped": -0.001068938381206641, "track": -1.8144169500189378e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.7, "ped": -0.0011104844654831192, "track": -1.9040835574912762e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.5, "ped": -0.0010792483908918515, "track": -2.2738988469939159e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.5, "ped": -0.001254149108375957, "track": -2.475175620020309e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.3, "ped": -0.0012353496240902206, "track": -2.7771207555815636e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.5, "ped": -0.0012700280281470189, "track": -2.9246050026188186e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.3, "ped": -0.0012200125882892987, "track": -2.3500779100515956e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.1, "ped": -0.0011991628072265392, "track": -2.6390223339944896e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.7, "ped": -0.0011222251890963264, "track": -2.385049935327288e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.3, "ped": -0.0010222794540999947, "track": -1.731858545461762e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.9, "ped": -0.0011617421539762418, "track": -2.5074908815980734e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.3, "ped": -0.0010312149558703299, "track": -2.1709239961253957e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.3, "ped": -0.0010114646724077025, "track": -1.9233276082886164e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.7, "ped": -0.001099245042480601, "track": -2.114060038138632e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.5, "ped": -0.001253413874357845, "track": -2.338789162337207e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.5, "ped": -0.0010578290294485093, "track": -2.0149060198093593e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.9, "ped": -0.0011375253311215472, "track": -2.223461414985195e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.3, "ped": -0.0012083205603159453, "track": -2.4641289009252887e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.1, "ped": -0.0011735432891646358, "track": -2.3409141292063396e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.5, "ped": -0.0012420596547093599, "track": -2.5953683646662284e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.5, "ped": -0.0010634022170281088, "track": -2.3870383447643917e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.3, "ped": -0.0010167521571308735, "track": -2.2786594833235085e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.7, "ped": -0.0011050738778649594, "track": -2.503816043386564e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.9, "ped": -0.001143578377043153, "track": -2.632464246588029e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.1, "ped": -0.001180098781735861, "track": -2.7706970051610824e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.5, "ped": -0.0012492319818813158, "track": -3.0709257359262665e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.3, "ped": -0.0012152095078210579, "track": -2.915934160796496e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.3, "ped": -0.0010308618540331715, "track": -2.0051960092359877e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.5, "ped": -0.001079017726812015, "track": -2.1004892269971265e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.3, "ped": -0.0012232006409331753, "track": -3.0849856003101195e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.7, "ped": -0.001122073479089325, "track": -2.2036772406863747e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.5, "ped": -0.001070759634323959, "track": -2.5267310466148274e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.1, "ped": -0.0011878780383813847, "track": -2.9315239125082826e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.5, "ped": -0.0012697785533850592, "track": -2.7035751415382947e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.3, "ped": -0.0012350941890177936, "track": -2.56737520132333e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.3, "ped": -0.0010240339727973224, "track": -2.4121177277791617e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.1, "ped": -0.001199033654276871, "track": -2.439535240483792e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.7, "ped": -0.0011126648366959202, "track": -2.650042407736919e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.9, "ped": -0.0011512110524265484, "track": -2.785771613389443e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.9, "ped": -0.0011615807036853276, "track": -2.3177115782146984e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.5, "ped": -0.0012573942983178377, "track": -3.249178703867983e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.3, "ped": -0.001013619534962762, "track": -2.579851332562555e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.3, "ped": -0.0010207562225211797, "track": -1.7315743283674578e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.9, "ped": -0.0011409176693722989, "track": -2.980218294368342e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.5, "ped": -0.001246619913590985, "track": -3.47561979197053e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.5, "ped": -0.0010674077878004562, "track": -1.8140156043955358e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.1, "ped": -0.001177391084300039, "track": -3.136058079888926e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.5, "ped": -0.0010604891246323578, "track": -2.702634782636437e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.7, "ped": -0.0011024015274548882, "track": -2.834777967919422e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.3, "ped": -0.0012125404330540768, "track": -3.3001867905113613e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.7, "ped": -0.0011090465574490338, "track": -1.90362836605118e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.9, "ped": -0.0011473980098071213, "track": -2.0026880154233595e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.3, "ped": -0.0012185932411954425, "track": -2.2199952987023153e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.3, "ped": -0.0010151320283035559, "track": -3.263158077082551e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.1, "ped": -0.0011836365535176085, "track": -2.108835328584746e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.5, "ped": -0.0012521777894682895, "track": -2.3382540348393377e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.5, "ped": -0.0010620224019058933, "track": -3.4182690011874683e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.7, "ped": -0.0011040593570781354, "track": -3.584404995038426e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.9, "ped": -0.0011427161597451496, "track": -3.766530420890035e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.3, "ped": -0.0012200622622702273, "track": -3.1767544150795857e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.3, "ped": -0.0012149655008979465, "track": -4.1687231444598183e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.1, "ped": -0.0011795611941891604, "track": -3.9624370451463164e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.5, "ped": -0.001249284574484033, "track": -4.3905168389812843e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.9, "ped": -0.0011475707469311702, "track": -2.8688107445162814e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.1, "ped": -0.001184501240550473, "track": -3.018902905438381e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.3, "ped": -0.0010184670322487266, "track": -2.483542260733884e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.5, "ped": -0.0010660334768161084, "track": -2.6016588883237546e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.7, "ped": -0.001108543232011705, "track": -2.728847148247837e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.5, "ped": -0.0012541401847008249, "track": -3.345399512966196e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.3, "ped": -0.0010249567060754416, "track": -1.4816564641861873e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.5, "ped": -0.0010726448917412479, "track": -1.5521850471600374e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.5, "ped": -0.001082388717982219, "track": -2.545963440070409e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.3, "ped": -0.0012265680007084168, "track": -1.901625523714756e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.3, "ped": -0.0010342807769638807, "track": -2.430763923477741e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.7, "ped": -0.0011151807245345369, "track": -1.6293077997886485e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.5, "ped": -0.00126079862342654, "track": -2.0027357550134184e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.1, "ped": -0.0011911162115039176, "track": -1.8062173978705687e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.9, "ped": -0.0011541475953279479, "track": -1.7148038544689825e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.5, "ped": -0.001058343677240281, "track": -2.8935831508647425e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.9, "ped": -0.0011650546722509203, "track": -2.8064850443598743e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.1, "ped": -0.001202587189821136, "track": -2.9531754819345224e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.3, "ped": -0.001238929817831913, "track": -3.1073210671195284e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.7, "ped": -0.0010999046541542157, "track": -3.03476688223725e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.3, "ped": -0.001011930627437596, "track": -2.7620788989324296e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.7, "ped": -0.0011254597700279811, "track": -2.669966470136842e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.5, "ped": -0.00127365700268256, "track": -3.2722891063485804e-10}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.3, "ped": 8.72635502668917e-06, "track": 5.48083800566701e-11}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.9, "ped": -0.0011380951378641146, "track": -3.1899616281805265e-10}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.5, "ped": 3.653862245212025e-06, "track": 2.66923150249454e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.5, "ped": 8.649096772339604e-06, "track": 2.651356911798075e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.3, "ped": 3.921835147746577e-06, "track": 5.5129789622299086e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.5, "ped": -8.313302637175113e-06, "track": 3.213429522475053e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.9, "ped": 5.763681201198523e-06, "track": 7.915446076367516e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.7, "ped": 7.314767125676802e-06, "track": 1.3453904657012572e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.3, "ped": -1.0063253543357575e-05, "track": 4.418465593403198e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.1, "ped": -8.4345999296076e-08, "track": 5.5500049001011575e-12}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.9, "ped": -0.0011411095665502247, "track": -3.970251905016653e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.1, "ped": -0.0011777032912503316, "track": -4.1764414149270124e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.5, "ped": -0.0012470472729739779, "track": -4.627656036149119e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.3, "ped": -0.0012129469802593107, "track": -4.3941739136243996e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.5, "ped": -0.0012431589865342652, "track": -3.7203307101663086e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.3, "ped": -0.0012093149968577244, "track": -3.5321812141830833e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.3, "ped": -0.0010136899999493298, "track": -3.44046346967275e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.5, "ped": -0.0010605619484382323, "track": -3.60388274778245e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.7, "ped": -0.0011025066674349437, "track": -3.778606316728883e-10}
+{"design": "GF180 bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.1, "ped": -0.0011743983493375243, "track": -3.356708244695028e-10}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.7, "ped": 2.29362636905428e-06, "track": 1.3558487665932262e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.5, "ped": 2.7593464015485125e-05, "track": 2.634670259737959e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.9, "ped": 9.782773727762262e-07, "track": 7.968958826154449e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.5, "ped": -4.240055857529512e-06, "track": 3.275602011854062e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.1, "ped": -2.646784044824102e-06, "track": 5.650591106132197e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.3, "ped": -7.255842464859441e-06, "track": 4.418465593403198e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.7, "ped": 2.6410481452798784e-05, "track": 1.3374301666146948e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.9, "ped": 2.5186645719377232e-05, "track": 7.812639424287227e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.3, "ped": 2.7266905035683298e-05, "track": 5.4454496467570834e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.1, "ped": 2.4425058188004556e-05, "track": 5.504707800696451e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.5, "ped": -1.0320332220481454e-06, "track": 2.650557551220345e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.3, "ped": 2.5765725570447984e-05, "track": 4.306333067916057e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.5, "ped": 3.0070600653075985e-05, "track": 3.19033688356285e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.3, "ped": 1.9196515894492894e-05, "track": 5.450989659649963e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.3, "ped": -8.432073667630213e-07, "track": 5.4732496312936973e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.5, "ped": 1.921300728113806e-05, "track": 2.6392887875203996e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.5, "ped": -3.918919611067828e-05, "track": 3.12194714524594e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.7, "ped": 1.793050699050447e-05, "track": 1.337219224240016e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.9, "ped": 1.6594249901191738e-05, "track": 7.875256002876085e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.1, "ped": 1.3575901292250947e-05, "track": 5.5857540814940876e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.3, "ped": -3.998755218481698e-05, "track": 4.2299497238218464e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.1, "ped": -2.4197409488557753e-05, "track": 5.5635496210015845e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.5, "ped": 1.2661301122207647e-05, "track": 3.263389558583185e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.3, "ped": 9.603005763469952e-06, "track": 4.36295444217194e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.9, "ped": -1.4914211823202628e-05, "track": 7.837397397736368e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.7, "ped": -1.306871898321127e-05, "track": 1.3338441462451556e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.3, "ped": -1.1264404021327223e-05, "track": 5.425049298679596e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.5, "ped": -1.1584350325888337e-05, "track": 2.626021622376129e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.7, "ped": -2.425323652688327e-06, "track": 1.3429590772773281e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.9, "ped": -4.063405894427774e-06, "track": 7.91255949650349e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.1, "ped": -1.0902173368965151e-05, "track": 5.536238134595806e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.3, "ped": 1.4937683844473693e-05, "track": 5.439160233322582e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.5, "ped": 1.481833406413724e-05, "track": 2.6320834400905824e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.5, "ped": -2.0134301064178572e-05, "track": 3.1732394489836224e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.3, "ped": -2.1863991785942005e-05, "track": 4.304778755681582e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.7, "ped": 1.3450379640400634e-05, "track": 1.3373302465424786e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.9, "ped": 1.1556647814714438e-05, "track": 7.81763542789804e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.5, "ped": 9.173072468060539e-06, "track": 2.6744606529405246e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.5, "ped": -1.9064281680414297e-05, "track": 3.2871483313101635e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.5, "ped": -3.6376612778665773e-06, "track": 2.614630734143475e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.3, "ped": -6.499857552300092e-06, "track": 5.534173119770003e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.5, "ped": -6.655306522607152e-06, "track": 2.678368637987205e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.1, "ped": 1.0377245469594953e-06, "track": 5.552447390755333e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.9, "ped": -7.09430858247817e-06, "track": 7.798317547269562e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.3, "ped": -3.5973024342106363e-06, "track": 5.408667957951252e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.3, "ped": -1.862522528073285e-05, "track": 4.320321878026334e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.5, "ped": -3.736839102019829e-05, "track": 3.134603687726667e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.3, "ped": 9.406293547009614e-06, "track": 5.519207313398056e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.1, "ped": -2.4589054472778926e-05, "track": 5.637268429836695e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.5, "ped": -5.428453220646112e-05, "track": 3.2884805989397137e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.3, "ped": -5.21332124485685e-05, "track": 4.440225964685851e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.7, "ped": -8.061740889186986e-06, "track": 1.3590462089041466e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.3, "ped": -3.7309907143567855e-05, "track": 4.249489649055249e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.1, "ped": -1.7929952974116148e-05, "track": 5.476064046661122e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.9, "ped": -1.0302037756426685e-05, "track": 7.943312674285607e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.7, "ped": -5.046749725012845e-06, "track": 1.3252399178043106e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.7, "ped": 7.809037813610864e-06, "track": 1.3585244040825728e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.1, "ped": -1.1969683177959212e-06, "track": 5.6070703635668906e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.9, "ped": 6.197751480141456e-06, "track": 7.992717598881427e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.3, "ped": -1.3279439226021594e-05, "track": 4.4362291617972005e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.5, "ped": -1.1950147386530219e-05, "track": 3.304245765889391e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.3, "ped": 2.7112058741785017e-05, "track": 5.477429620981411e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.5, "ped": 2.717063170776246e-05, "track": 2.6519342277708802e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.7, "ped": 2.975437227126232e-05, "track": 1.3572809542949926e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.7, "ped": 2.590111530575978e-05, "track": 1.3464673820351436e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.9, "ped": 2.8245445561125848e-05, "track": 7.943312674285607e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.9, "ped": 2.4260789694752205e-05, "track": 7.896239218041501e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.1, "ped": 2.2147094027369363e-05, "track": 5.6346038945775945e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.3, "ped": 3.093998771780404e-05, "track": 5.506384237463635e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.5, "ped": 3.100182110837846e-05, "track": 2.667643883569326e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.1, "ped": 1.6951912929830115e-05, "track": 5.5635496210015845e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.3, "ped": -7.692706733286592e-07, "track": 5.435135674858316e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.5, "ped": -7.497233825981553e-07, "track": 2.6276758546828205e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.5, "ped": -1.3922762318818727e-05, "track": 3.1730174043786974e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.1, "ped": -1.0244631768907553e-05, "track": 5.550448989311008e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.3, "ped": 4.836303550304066e-06, "track": 4.378053475306842e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.3, "ped": -1.6744045222338855e-05, "track": 4.293010391620555e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.1, "ped": -1.239091996452224e-05, "track": 5.480949027969473e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.9, "ped": -5.240967944186714e-06, "track": 7.864819906444609e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.9, "ped": -3.934926700366326e-06, "track": 7.78055397887556e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.3, "ped": -2.902046547959003e-05, "track": 4.284572696633404e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.5, "ped": -2.3189942582879652e-06, "track": 2.651578956403e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.5, "ped": 6.082586387012867e-06, "track": 3.275602011854062e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.5, "ped": -2.8849811436693074e-05, "track": 3.1596947280831955e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.7, "ped": -3.6865011876496823e-06, "track": 1.3444800828210646e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.7, "ped": -2.118771072145975e-06, "track": 1.333200216890873e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.3, "ped": -2.2185442718480886e-06, "track": 5.4818649619647886e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.3, "ped": 1.0235293475435725e-05, "track": 4.453992730191203e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.5, "ped": 1.1157608586831458e-05, "track": 3.3453240178005217e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.3, "ped": -3.430197839771054e-06, "track": 5.523465018697493e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.5, "ped": -3.5913997755709914e-06, "track": 2.675049071143576e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.7, "ped": -5.01379152750836e-06, "track": 1.3560708111981512e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.9, "ped": -7.22222949289808e-06, "track": 7.948974811711196e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.1, "ped": -2.1227749658070394e-05, "track": 5.588418616753188e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.3, "ped": -4.7026845529263284e-05, "track": 4.445332990599127e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.5, "ped": -4.867739844849339e-05, "track": 3.289812866569264e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.3, "ped": 1.7391664966337483e-05, "track": 5.481809450813557e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.3, "ped": -1.215338041299363e-05, "track": 5.399719560372773e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.5, "ped": 1.7310725366925794e-05, "track": 2.6554869414496807e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.5, "ped": -1.2255176079944974e-05, "track": 2.6103452732684218e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.7, "ped": -1.3687343731638713e-05, "track": 1.322963960603829e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.5, "ped": -2.1659458478318072e-05, "track": 3.2356339829675562e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.9, "ped": -1.5612847991341994e-05, "track": 7.722156247780276e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.1, "ped": 1.59653039795149e-05, "track": 5.590417018197513e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.7, "ped": 1.6021434575241855e-05, "track": 1.3493428596689228e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.9, "ped": 1.503998356156e-05, "track": 7.905232024540965e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.1, "ped": -2.485062300849883e-05, "track": 5.453415496958769e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.3, "ped": -2.128926502198425e-05, "track": 4.360511951517765e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.5, "ped": 2.617646084845937e-05, "track": 3.2218672174622043e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.3, "ped": 2.1045384003937073e-05, "track": 4.3294257068282604e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.3, "ped": 7.84073241361094e-06, "track": 5.473577147085962e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.9, "ped": 4.771393533165025e-06, "track": 7.849942917914632e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.9, "ped": 5.333053141653998e-06, "track": 7.874922935968698e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.1, "ped": -3.620141160842749e-06, "track": 5.556000104434133e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.3, "ped": 8.936499086009686e-06, "track": 5.478095754796186e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.5, "ped": 7.848799357779157e-06, "track": 2.6494473281957198e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.7, "ped": 6.522908148398621e-06, "track": 1.3427148282119106e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.7, "ped": 7.451117937762319e-06, "track": 1.3476664229017388e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.5, "ped": 8.83153800801395e-06, "track": 2.6501356664709874e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.3, "ped": -3.4854112297200146e-05, "track": 4.3935965976515945e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.5, "ped": -3.7107898980481835e-05, "track": 3.2782665471131622e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.1, "ped": -8.05237786050128e-06, "track": 5.559552818112934e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.5, "ped": -4.1291374100804745e-05, "track": 3.1579183712437953e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.3, "ped": -4.172182105155464e-05, "track": 4.2239545194888706e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.5, "ped": 1.333139080816892e-05, "track": 2.6817881249030506e-11}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.3, "ped": 7.224479892520286e-05, "track": 2.142286348316702e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.5, "ped": 0.000473652233367039, "track": 1.6211476605576536e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.3, "ped": 1.3488431813035717e-05, "track": 5.53478929354867e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.1, "ped": 6.999634566628998e-06, "track": 5.688116644364527e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.5, "ped": 4.331226541864908e-06, "track": 3.3355540551838203e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.7, "ped": 1.2019919707895177e-05, "track": 1.3629208872600884e-11}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.3, "ped": 1.6615567066669001e-06, "track": 4.398481578959945e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.3, "ped": -0.0008788622983602612, "track": 5.149436432816401e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.9, "ped": 1.0691683516195205e-05, "track": 8.005929252874466e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.1, "ped": -0.00023608174254152736, "track": 2.5635049638594865e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.3, "ped": 2.235618957835417e-05, "track": 5.47139000772745e-11}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.5, "ped": -0.0007305229756180975, "track": 4.274136600201928e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.5, "ped": 2.2278291066379907e-05, "track": 2.6506574712925612e-11}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.7, "ped": -0.0005813809462266173, "track": 3.547162563677375e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.7, "ped": 2.0961832787103063e-05, "track": 1.3453904657012572e-11}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.9, "ped": -0.00043047105771742977, "track": 2.949196442614266e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.5, "ped": -0.0007216147930529382, "track": 4.30733226863822e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.3, "ped": -0.000870048945473989, "track": 5.177580586490649e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.9, "ped": -0.0004132894996259351, "track": 3.0005997686544106e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.5, "ped": -0.0007136306150939409, "track": 4.332645353599673e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.7, "ped": -0.0005724095697050569, "track": 3.5799141429038173e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.5, "ped": 0.00045449391574470255, "track": 1.609823385706477e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.3, "ped": 5.45004487186862e-05, "track": 2.1114221482321227e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.3, "ped": -0.0008621514108625439, "track": 5.2106652326244784e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.1, "ped": -0.0002472251181473428, "track": 2.5373037004783328e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.9, "ped": -0.0004215907970146482, "track": 3.000710790956873e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.7, "ped": -0.0005643608073903073, "track": 3.577915741459492e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.9, "ped": 1.944868767711494e-05, "track": 7.919553901558629e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.1, "ped": 1.3279280814737504e-05, "track": 5.5928595088516886e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.1, "ped": -0.0002542898840673935, "track": 2.523758979577906e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.3, "ped": 2.4050285669652283e-06, "track": 4.4073633631569464e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.3, "ped": 5.182308001283609e-05, "track": 2.050803971087589e-12}
+{"design": "GF180 TG + dummies", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.5, "ped": 3.7493238207453317e-06, "track": 3.234967849152781e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.3, "ped": -0.0008678466192136303, "track": 5.150879722748414e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.5, "ped": 0.000452987119441417, "track": 1.5516476992161188e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.5, "ped": -0.0007146761679209246, "track": 4.277356246973341e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.7, "ped": -0.0005702125184430251, "track": 3.5303981960055353e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.5, "ped": -0.0007194125630850534, "track": 4.294009592342718e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.9, "ped": -0.00041938720555845244, "track": 2.9880542484761463e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.1, "ped": -0.0002449135817466086, "track": 2.5432989048113086e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.7, "ped": -0.0005654587821687374, "track": 3.532951708962173e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.3, "ped": -0.0008631349653178133, "track": 5.142386516610031e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.3, "ped": 5.704478644319444e-05, "track": 2.1294077612310502e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.9, "ped": -0.00041472517052221214, "track": 2.97895041967422e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.5, "ped": 0.00045710944035914913, "track": 1.5705214906347464e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.1, "ped": -0.00024173873018873415, "track": 2.517097641430155e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.1, "ped": -0.000245754135151266, "track": 2.504219054344503e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.5, "ped": -0.000722095687960389, "track": 4.249822715962637e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.3, "ped": -0.0008704829859666474, "track": 5.134559444286424e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.5, "ped": -0.000733902072223902, "track": 4.228506433889834e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.5, "ped": 0.0004555348146919602, "track": 1.6129320101754274e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.5, "ped": -0.0007221767835298709, "track": 4.281908161374304e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.9, "ped": -0.0004220479315077963, "track": 2.945754751237928e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.3, "ped": 6.046118909286413e-05, "track": 2.091216089183945e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.5, "ped": 0.00046155429342342735, "track": 1.5731860258938468e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.7, "ped": -0.0005729719552614032, "track": 3.5655922658861527e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.9, "ped": -0.00042202119029766116, "track": 2.9728441930387817e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.3, "ped": 5.64859205116619e-05, "track": 2.0881074647149944e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.3, "ped": -0.0008821760982792304, "track": 5.1185167215805905e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.7, "ped": -0.0005729198417598891, "track": 3.5161873412903333e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.3, "ped": -0.0008705993355159758, "track": 5.1714743598552104e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.5, "ped": 0.00045803956713585947, "track": 1.6051604490030513e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.9, "ped": -0.0004340712280010983, "track": 2.940647725324652e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.1, "ped": -0.00024669719115189004, "track": 2.504219054344503e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.3, "ped": 5.740693063494007e-05, "track": 2.113198505071523e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.7, "ped": -0.0005848002558620502, "track": 3.5119684937967577e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.1, "ped": -0.0002600589692498545, "track": 2.4706903190008234e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.5, "ped": 0.0004408479030697521, "track": 1.553424056055519e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.3, "ped": 4.0871521114871356e-05, "track": 2.1178614417749486e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.3, "ped": -0.0008770427436358141, "track": 5.23897591975242e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.3, "ped": -0.0008768107906847455, "track": 5.179356943330049e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.5, "ped": -0.000728627118276759, "track": 4.340527937074512e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.7, "ped": -0.0005794521289113064, "track": 3.585909347236793e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.9, "ped": -0.00042883674186688925, "track": 2.9951596758337473e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.5, "ped": -0.0007284489467445088, "track": 4.314770762903208e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.7, "ped": -0.0005792618280635597, "track": 3.555489236362064e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.5, "ped": 0.00042951696860438204, "track": 1.5445422718585178e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.9, "ped": -0.00042808321192822074, "track": 2.949196442614266e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.3, "ped": 3.1073369244127846e-05, "track": 2.0583534876550402e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.1, "ped": -0.00025722324258747875, "track": 2.5570656703166605e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.3, "ped": 3.73448623642858e-05, "track": 2.169153745512631e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.1, "ped": -0.0002639271723019476, "track": 2.4635848916432224e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.3, "ped": -0.0008596725442114317, "track": 5.218492304948086e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.9, "ped": -0.00043566435295050443, "track": 2.9575231152989545e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.7, "ped": -0.0005618494540792218, "track": 3.5866865033540307e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.5, "ped": -0.0007111394540855187, "track": 4.342304293913912e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.5, "ped": 0.00043553119413441976, "track": 1.6115997425458772e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.9, "ped": -0.0004108537660971745, "track": 3.032130102553765e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.5, "ped": -0.0007353293016584272, "track": 4.266031972122164e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.7, "ped": -0.0005862301057941721, "track": 3.5252911700922596e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.3, "ped": 7.116532885409477e-05, "track": 2.135625010168951e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.5, "ped": -0.0007156816437526858, "track": 4.288458477219592e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.5, "ped": 0.00046564746683541713, "track": 1.6189272145084033e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.7, "ped": -0.0005664392596549384, "track": 3.5507152773561756e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.5, "ped": 0.00047196455721443265, "track": 1.5987211554602254e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.3, "ped": 6.500337468118289e-05, "track": 2.1249668691325496e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.1, "ped": -0.00023983508993508096, "track": 2.537747789688183e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.3, "ped": -0.000883611920714289, "track": 5.140610159770631e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.1, "ped": -0.00023471498511029587, "track": 2.575717417130363e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.9, "ped": -0.00041550722653571626, "track": 2.97761815204467e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.3, "ped": -0.0008641557057187388, "track": 5.188127705224588e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.1, "ped": -0.0002485727697980611, "track": 2.525535336417306e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.3, "ped": 6.468282547844595e-05, "track": 2.0738966099997924e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.3, "ped": -0.0008611780197162466, "track": 5.198785846260989e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.5, "ped": 0.0004674026606668047, "track": 1.5447643164634428e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.5, "ped": -0.0007126617730198181, "track": 4.318434498884471e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.7, "ped": -0.0005633994890178462, "track": 3.59856588971752e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.9, "ped": -0.00041273429582255883, "track": 3.0115909765981996e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.1, "ped": -0.00024104647232858767, "track": 2.5646151868841116e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.9, "ped": -0.0004279567007133833, "track": 2.9859448247293585e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.7, "ped": -0.0005784657155643025, "track": 3.5789149421816546e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.1, "ped": -0.0002577454514474109, "track": 2.5066615449986784e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.3, "ped": -0.0008759888139778238, "track": 5.1689208468985726e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.5, "ped": 0.00044053246167363724, "track": 1.659783421814609e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.5, "ped": -0.0007276105666471078, "track": 4.274136600201928e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.1, "ped": -0.00024921839871505647, "track": 2.531308496145357e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.3, "ped": 5.365296633108585e-05, "track": 2.1804780203638074e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.3, "ped": 4.297016026622025e-05, "track": 2.1223023338734492e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.3, "ped": -0.0008741293727595467, "track": 5.218492304948086e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.5, "ped": 0.000451708563161235, "track": 1.6047163597932013e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.3, "ped": 3.290655738141801e-05, "track": 2.1889157153509586e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.9, "ped": -0.00042579790597785383, "track": 3.0263569428257142e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.7, "ped": -0.0005765011313436652, "track": 3.604005982538183e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.3, "ped": -0.0008859088512083169, "track": 5.10524955643632e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.5, "ped": -0.0007256972148429464, "track": 4.341527137796675e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.9, "ped": -0.00043792528925135077, "track": 2.9047875216292596e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.5, "ped": 0.0004300877310885465, "track": 1.5714096690544466e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.1, "ped": -0.0002529804964666038, "track": 2.5635049638594865e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.9, "ped": -0.0004200042756850042, "track": 2.9984903449076228e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.3, "ped": 4.483638235841525e-05, "track": 2.1822543772032077e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.7, "ped": -0.0005885979518860385, "track": 3.4861002973229915e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.5, "ped": 0.0004438056269566726, "track": 1.6182610806936282e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.9, "ped": -0.00041415271482436733, "track": 2.975730772902807e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.5, "ped": 0.00047390293299032216, "track": 1.652233905247158e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.5, "ped": -0.0007376726289788915, "track": 4.2347236828277346e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.5, "ped": -0.0007144933169087042, "track": 4.299560707465844e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.3, "ped": -0.0008629787606272421, "track": 5.185352147663025e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.1, "ped": -0.00023666367940244903, "track": 2.552402733613235e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.7, "ped": -0.0005705746032569348, "track": 3.5718095148240536e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.3, "ped": 7.230539647906653e-05, "track": 2.1092017021828724e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.3, "ped": -0.00086822141388887, "track": 5.182798634706387e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.7, "ped": -0.0005652341187694088, "track": 3.570810314101891e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.5, "ped": -0.0007197748030025597, "track": 4.304112621866807e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.1, "ped": -0.000264445428040716, "track": 2.4840129952963252e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.3, "ped": 3.5170357196134816e-05, "track": 2.100097873380946e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.5, "ped": 0.0004348549103205812, "track": 1.539657290550167e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.3, "ped": -0.0008615872778587885, "track": 5.237865696727795e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.5, "ped": -0.000713055158843956, "track": 4.347633364432113e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.7, "ped": -0.0005637719157002286, "track": 3.5945690868288693e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.9, "ped": -0.0004128520559716353, "track": 2.99660296576576e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.1, "ped": -0.00023766829402016576, "track": 2.573941060290963e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.3, "ped": 6.597512630146518e-05, "track": 2.1664892102535305e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.5, "ped": 0.0004662479578205758, "track": 1.6220358389773537e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.3, "ped": -0.0008594863879496928, "track": 5.177580586490649e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.5, "ped": -0.0007109827466093566, "track": 4.2909009678737675e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.9, "ped": -0.00041090854477932037, "track": 2.9488633757068783e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.1, "ped": -0.00023714039540623233, "track": 2.5277557824665564e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.7, "ped": -0.0005617219623674785, "track": 3.557487637806389e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.5, "ped": 0.00046252083029507673, "track": 1.6038281813735011e-12}
+{"design": "GF180 TG, no ESD", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.3, "ped": 6.303851727662568e-05, "track": 2.12674322597195e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.1, "ped": -9.700050164451746e-05, "track": 2.8459457013241263e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.3, "ped": 3.975663100930227e-05, "track": 2.3563373474644322e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.9, "ped": -0.00017568733454442764, "track": 3.2223113066720543e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.3, "ped": -0.000376160118767066, "track": 5.362210675485812e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.5, "ped": -0.00031319540356433695, "track": 4.4781955921280314e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.7, "ped": -0.00023968966499021693, "track": 3.8262726320681395e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 1.5, "ped": 0.0002088262149597675, "track": 1.9040324872321435e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.7, "ped": -0.00024462844752615176, "track": 3.7377878570055145e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.5, "ped": -0.00030770477144581587, "track": 4.529376873563251e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.9, "ped": -0.00018082160160148852, "track": 3.2188696152957164e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.7, "ped": -0.00025013008083207833, "track": 3.7061465008036976e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.1, "ped": -0.00010434625796928998, "track": 2.7424729154290617e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.5, "ped": -0.0003027933878128053, "track": 4.566125255678344e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.3, "ped": 2.8585122194391133e-05, "track": 2.3319124409226788e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 0.3, "ped": -0.00037069486393187523, "track": 5.4057314180511185e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 0.9, "ped": -0.00018621348504610502, "track": 3.1512570330960443e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 1, "v": 0.3, "ped": -0.0003658063348025431, "track": 5.457689855603576e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 0, "v": 1.5, "ped": 0.00019693911916185414, "track": 1.850297692840286e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.1, "ped": -0.00010829234886000627, "track": 2.724487302430134e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.5, "ped": 0.00019614379897348044, "track": 1.7030821197749901e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 2, "v": 1.3, "ped": 2.7226244571743052e-05, "track": 2.3385737790704297e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.3, "ped": -0.00036933804531263936, "track": 5.360045740587793e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.5, "ped": -0.00030634954744773735, "track": 4.529265851260789e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.3, "ped": 3.015456340138556e-05, "track": 2.3878676813637867e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.9, "ped": -0.00017946094344634123, "track": 3.106848112111038e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.5, "ped": 0.00019853689256543738, "track": 1.878941446875615e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 1.1, "ped": -0.00010291419631291987, "track": 2.7355895326763857e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 3, "v": 0.7, "ped": -0.00024327346539665395, "track": 3.70670161231601e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.3, "ped": -0.00037097842724664876, "track": 5.327183139058889e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.5, "ped": -0.0003080008377381871, "track": 4.4497738826976274e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.7, "ped": -0.0002449290474404453, "track": 3.692712802205733e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 0.9, "ped": -0.0001810638049983826, "track": 3.141265025874418e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.1, "ped": -0.00010382647500795095, "track": 2.7335911312320604e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.3, "ped": -0.00037822041992052746, "track": 5.304812145112692e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.5, "ped": 0.00019746698383715788, "track": 1.7705836796721997e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.3, "ped": 2.9577011996018143e-05, "track": 2.3721025144141095e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.5, "ped": 0.00019916222574756226, "track": 1.7632562077096736e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 1.1, "ped": -0.00010123616403312496, "track": 2.73181477439266e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 4, "v": 1.3, "ped": 3.0506320178425028e-05, "track": 2.247313446446242e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.5, "ped": -0.00030805287874391407, "track": 4.50595116774366e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.3, "ped": -0.00037104062330939325, "track": 5.384748202885703e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.5, "ped": -0.0003034282139388056, "track": 4.467426428789167e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.1, "ped": -0.00010308499613165267, "track": 2.821742839387298e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.7, "ped": -0.0002449709405620837, "track": 3.787192781601334e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.5, "ped": -0.000315271297522568, "track": 4.45077308341979e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.3, "ped": -0.00036642334239406216, "track": 5.361044941309956e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 0.9, "ped": -0.0001810415395671061, "track": 3.1870062144889744e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.9, "ped": -0.0001766293785013806, "track": 3.17357251589101e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.7, "ped": -0.0002522249777595631, "track": 3.7194691770991994e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 6, "v": 0.7, "ped": -0.0002403522145981718, "track": 3.7410075037769275e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.3, "ped": 2.025628244739508e-05, "track": 2.3208102106764272e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.3, "ped": 3.2484613826877506e-05, "track": 2.2655211040500944e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 0.9, "ped": -0.0001884552413936591, "track": 3.1291635949060037e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 5, "v": 1.5, "ped": 0.0002013727273957322, "track": 1.7856827128071018e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.5, "ped": 0.0001885819666227473, "track": 1.7339463198595695e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 7, "v": 1.1, "ped": -0.00011222647298025912, "track": 2.7970958882406194e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.3, "ped": -0.0003750135754366779, "track": 5.4720672437724716e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.5, "ped": -0.0003120272482014519, "track": 4.599765013324486e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.7, "ped": -0.0002489642349381427, "track": 3.869238263121133e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 0.9, "ped": -0.00018532524780767723, "track": 3.2248648196286922e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.1, "ped": -0.0001109342682661385, "track": 2.7824409443155673e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.3, "ped": 1.773626465806366e-05, "track": 2.389866082808112e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 8, "v": 1.5, "ped": 0.00018517353590086216, "track": 1.9164669851079452e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.3, "ped": -0.0003642709080094453, "track": 5.462075236550845e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.5, "ped": -0.0003012521646612032, "track": 4.575007039875345e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.9, "ped": -0.00017421776913395526, "track": 3.1870062144889744e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 0.7, "ped": -0.00023814847802694494, "track": 3.8230529852967265e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.1, "ped": -9.639145682660555e-05, "track": 2.7693403126249905e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.3, "ped": 3.894340452426093e-05, "track": 2.3741009158584347e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.5, "ped": 0.00018149927567412405, "track": 1.7721379919066749e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 9, "v": 1.5, "ped": 0.00020772418699399608, "track": 1.794342452399178e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.5, "ped": -0.00030405105255887355, "track": 4.551470311753292e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.7, "ped": -0.00025311234893377055, "track": 3.712030682834211e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.3, "ped": -0.00036705276137749543, "track": 5.411893155837788e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.3, "ped": 1.3952128563587962e-05, "track": 2.354116901415182e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.7, "ped": -0.00024096112350113774, "track": 3.79407616435401e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.5, "ped": -0.00031615199065715416, "track": 4.4859671533004075e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.9, "ped": -0.00018947882421571638, "track": 3.0996316624509745e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 1.1, "ped": -0.00011497928026060755, "track": 2.7355895326763857e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 0.9, "ped": -0.0001770667357711142, "track": 3.1603608618979706e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.1, "ped": -9.959485553223679e-05, "track": 2.807531984672096e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.5, "ped": 0.00020383279396307685, "track": 1.7692514120426495e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 11, "v": 0.3, "ped": -0.0003791034165393503, "track": 5.33650901246574e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 10, "v": 1.3, "ped": 3.513828899159854e-05, "track": 2.34123831432953e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.3, "ped": -0.00037489672415885744, "track": 5.389744206496516e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.5, "ped": -0.00031191937115443436, "track": 4.53947990308734e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.7, "ped": -0.0002488316690445469, "track": 3.784972335552084e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 0.9, "ped": -0.0001846760523562807, "track": 3.141265025874418e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.1, "ped": -0.00010410731302945564, "track": 2.724487302430134e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.5, "ped": -0.00030218590659253364, "track": 4.519717933249012e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.3, "ped": 3.5502460636216426e-05, "track": 2.247757535656092e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.3, "ped": -0.0003651981768544865, "track": 5.429823257685484e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 12, "v": 1.5, "ped": 0.00020516502789402757, "track": 1.7499335314141717e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.9, "ped": -0.00017545112834393972, "track": 3.2559510643181966e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 0.7, "ped": -0.0002391029233838049, "track": 3.791078562187522e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.3, "ped": 2.765160436890568e-05, "track": 2.4078516958070395e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.1, "ped": -0.00010104572742108964, "track": 2.8459457013241263e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 13, "v": 1.5, "ped": 0.00019504384557755827, "track": 1.844080443902385e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.3, "ped": -0.00037321166282872076, "track": 5.4705684426892276e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.5, "ped": -0.0003102214004613857, "track": 4.570455125474382e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.5, "ped": 0.00020899289282860778, "track": 1.7856827128071018e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.1, "ped": -9.728524541219308e-05, "track": 2.8614888236688785e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 1.3, "ped": 3.984066827356081e-05, "track": 2.3721025144141095e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.7, "ped": -0.00024021974226129394, "track": 3.789524249953047e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.7, "ped": -0.00024715126065977255, "track": 3.81172871044555e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.9, "ped": -0.00017620024053688343, "track": 3.1326052862823417e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.3, "ped": -0.00036956313787483985, "track": 5.414668713399351e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.1, "ped": -0.00010814724426633227, "track": 2.823741240831623e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 0.9, "ped": -0.00018344003784975804, "track": 3.311573237851917e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.3, "ped": -0.0003663246816821286, "track": 5.4102833324520816e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.3, "ped": 2.2452686227802943e-05, "track": 2.3245849689601528e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 15, "v": 0.5, "ped": -0.0003033194769515024, "track": 4.5279335836312384e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 14, "v": 1.5, "ped": 0.00019031459306861898, "track": 1.936673044156123e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.5, "ped": -0.00030657067095191115, "track": 4.529265851260789e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.9, "ped": -0.00017991080533197312, "track": 3.160471884200433e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 0.7, "ped": -0.0002435049224731589, "track": 3.731903674975001e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.1, "ped": -0.00010615709513062122, "track": 2.7915447731174936e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.9, "ped": -0.00018478988149095432, "track": 3.2144287231972157e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.3, "ped": 2.1061688791235156e-05, "track": 2.3168134077877767e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.3, "ped": -0.0003743740506791382, "track": 5.412892356559951e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.5, "ped": -0.00031139845790045806, "track": 4.553690757802542e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 0.7, "ped": -0.0002483468330607419, "track": 3.752109734023179e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 16, "v": 1.5, "ped": 0.00018814588715998504, "track": 1.9457768729580494e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.5, "ped": 0.00018173256009457184, "track": 1.8058887718552796e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.1, "ped": -0.00011143189911311246, "track": 2.765121465131415e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 17, "v": 1.3, "ped": 1.4846841702276237e-05, "track": 2.3721025144141095e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.3, "ped": -0.00038053519645686595, "track": 5.30253618791221e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.5, "ped": -0.00031759640912470966, "track": 4.453326596376428e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.9, "ped": -0.00019082634226430528, "track": 3.1321611970724916e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 0.7, "ped": -0.0002545593904041965, "track": 3.672506743157555e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.5, "ped": -0.00030115060214863654, "track": 4.5279335836312384e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.1, "ped": -0.00011499674849035912, "track": 2.7631230636870896e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.3, "ped": 1.671364296718103e-05, "track": 2.2248869413488137e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.3, "ped": -0.0003641598624344322, "track": 5.3736459726394514e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.5, "ped": 0.0002041722504253496, "track": 1.8625101461111626e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 18, "v": 1.5, "ped": 0.00018489050646297578, "track": 1.738165167353145e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.5, "ped": -0.0003024342183998163, "track": 4.566347300283269e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.3, "ped": -0.0003654520918398574, "track": 5.485722986975361e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.3, "ped": 3.564448066795123e-05, "track": 2.3563373474644322e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.9, "ped": -0.00017546762000164584, "track": 3.2864821974953884e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 0.7, "ped": -0.00023933523564523274, "track": 3.825273431345977e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.9, "ped": -0.00017428673751329615, "track": 3.162359263342296e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 0.7, "ped": -0.00023806186560315634, "track": 3.735456388653802e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 19, "v": 1.1, "ped": -9.838630758651767e-05, "track": 2.899680495715984e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.1, "ped": -9.830547799571931e-05, "track": 2.7431390492438368e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.3, "ped": 3.367472080118006e-05, "track": 2.4076296512021145e-12}
+{"design": "GF180 TG, no ESD, W 0.42", "cond": "4 K proxy, current-factor mismatch", "seed": 20, "v": 1.5, "ped": 0.00020178879901355806, "track": 1.9124701822192947e-12}

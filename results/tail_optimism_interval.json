@@ -1,0 +1,166 @@
+{
+ "TG|300 K": {
+  "scales": {
+   "2.5": {
+    "n": 20,
+    "ratio": 1.0174476589634849,
+    "tau_point": 0.01744765896348488,
+    "tau_lo": -0.025426258694299153,
+    "tau_hi": 0.05272656789892238,
+    "R_q05": 0.9664880606121221,
+    "R_q95": 1.0439924818827389
+   },
+   "3": {
+    "n": 20,
+    "ratio": 1.0204239605163132,
+    "tau_point": 0.020423960516313233,
+    "tau_lo": -0.029974757977858424,
+    "tau_hi": 0.0626318491696356,
+    "R_q05": 0.9602798573313001,
+    "R_q95": 1.0519560897086648
+   }
+  },
+  "decisive_scale": "3",
+  "tau_point": 0.020423960516313233,
+  "tau_lo": -0.029974757977858424,
+  "tau_hi": 0.0626318491696356
+ },
+ "TG|4 K high": {
+  "scales": {
+   "2.5": {
+    "n": 20,
+    "ratio": 1.0564654757988101,
+    "tau_point": 0.056465475798810116,
+    "tau_lo": -0.005429547535360624,
+    "tau_hi": 0.1084957307008989,
+    "R_q05": 0.9530622866096289,
+    "R_q95": 1.0622329199312015
+   },
+   "3": {
+    "n": 20,
+    "ratio": 1.0607786665991588,
+    "tau_point": 0.06077866659915876,
+    "tau_lo": -0.010335344362891963,
+    "tau_hi": 0.12255378153391283,
+    "R_q05": 0.9449691266904454,
+    "R_q95": 1.0718566744371307
+   }
+  },
+  "decisive_scale": "3",
+  "tau_point": 0.06077866659915876,
+  "tau_lo": -0.010335344362891963,
+  "tau_hi": 0.12255378153391283
+ },
+ "TG|4 K proxy": {
+  "scales": {
+   "2.5": {
+    "n": 20,
+    "ratio": 1.0860545163111088,
+    "tau_point": 0.08605451631110883,
+    "tau_lo": 0.04233074226360478,
+    "tau_hi": 0.12133270569325383,
+    "R_q05": 0.9685390525015191,
+    "R_q95": 1.0419480806567694
+   },
+   "3": {
+    "n": 20,
+    "ratio": 1.0982474203199533,
+    "tau_point": 0.09824742031995326,
+    "tau_lo": 0.04296199830608094,
+    "tau_hi": 0.1408774011395295,
+    "R_q05": 0.9626340386995161,
+    "R_q95": 1.05300808860118
+   }
+  },
+  "decisive_scale": "3",
+  "tau_point": 0.09824742031995326,
+  "tau_lo": 0.04296199830608094,
+  "tau_hi": 0.1408774011395295
+ },
+ "bootstrapped|4 K proxy": {
+  "scales": {
+   "2.5": {
+    "n": 20,
+    "ratio": 1.0731506325687248,
+    "tau_point": 0.07315063256872478,
+    "tau_lo": -0.08276865061753402,
+    "tau_hi": 0.23079957613128887,
+    "R_q05": 0.8719133914084581,
+    "R_q95": 1.169989047246622
+   },
+   "3": {
+    "n": 20,
+    "ratio": 1.0242987578226421,
+    "tau_point": 0.024298757822642125,
+    "tau_lo": -0.13914051093273616,
+    "tau_hi": 0.1967735708508802,
+    "R_q05": 0.8558835044246406,
+    "R_q95": 1.1898559182201311
+   }
+  },
+  "decisive_scale": "2.5",
+  "tau_point": 0.07315063256872478,
+  "tau_lo": -0.08276865061753402,
+  "tau_hi": 0.23079957613128887
+ },
+ "NMOS|4 K proxy": {
+  "scales": {
+   "2.5": {
+    "n": 20,
+    "ratio": 1.0579785370098855,
+    "tau_point": 0.057978537009885533,
+    "tau_lo": -0.06636165206378364,
+    "tau_hi": 0.1767452703559962,
+    "R_q05": 0.8990718413423658,
+    "R_q95": 1.1331781083633936
+   },
+   "3": {
+    "n": 20,
+    "ratio": 1.0752963901168864,
+    "tau_point": 0.07529639011688638,
+    "tau_lo": -0.06951867560846925,
+    "tau_hi": 0.21638360641537435,
+    "R_q05": 0.8840109192902843,
+    "R_q95": 1.1556345752775365
+   }
+  },
+  "decisive_scale": "3",
+  "tau_point": 0.07529639011688638,
+  "tau_lo": -0.06951867560846925,
+  "tau_hi": 0.21638360641537435
+ },
+ "tau_hi_max": 0.23079957613128887,
+ "tau_upper_by_design": {
+  "TG": 0.1408774011395295,
+  "bootstrapped": 0.23079957613128887,
+  "NMOS": 0.21638360641537435,
+  "other": 0.23079957613128887
+ },
+ "verdicts": {
+  "n": 1908,
+  "changed": [
+   "TG, no ESD, 4 K, steep (T_eff 120 K), s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.16 -> 1.11)",
+   "TG, ESD on the node, 4 K proxy, s33.69_t0.0001|full|mixed: pass -> unresolved (margin 1.16 -> 1.11)",
+   "TG, ESD on the node, 4 K proxy, s33.69_t0.0001|fullfine|mixed: pass -> unresolved (margin 1.16 -> 1.11)",
+   "TG, ESD on the node, 4 K proxy, s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.13 -> 1.08)",
+   "TG, ESD on the node, 4 K, tree, ESD-dominated droop, s33.69_t0.0001|full|mixed: pass -> unresolved (margin 1.16 -> 1.12)",
+   "TG, ESD on the node, 4 K, tree, ESD-dominated droop, s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.16 -> 1.12)",
+   "NMOS, 0.3 V underdrive, W 3, 4 K proxy, s33.69_t0.0001|shared|mixed: pass -> unresolved (margin 1.41 -> 1.27)",
+   "NMOS, 0.3 V underdrive, W 3, 4 K proxy, s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.28 -> 1.16)",
+   "TG, no ESD, W 3, 4 K, tree, ESD-dominated droop, s33.69_t0.001|full|mixed: pass -> unresolved (margin 1.13 -> 1.08)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 300 K, s33.69_t0.0001|shared|mixed: pass -> unresolved (margin 1.66 -> 1.48)",
+   "TG, no ESD, 300 K, s33.69_t0.0001|shared|mixed: unresolved -> fail (margin 0.868 -> 0.776)",
+   "TG, no ESD, 77 K proxy, s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.14 -> 1.1)",
+   "TG, no ESD, 4 K high, s33.69_t0.0001|move200mV|mixed: unresolved -> fail (margin 0.91 -> 0.846)",
+   "TG, ESD on the node, 4 K, tree, one reticle, s33.69_t0.0001|full|mixed: pass -> unresolved (margin 1.16 -> 1.12)",
+   "TG, ESD on the node, 4 K, tree, one reticle, s33.69_t0.0001|move200mV|mixed: pass -> unresolved (margin 1.16 -> 1.12)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 4 K, steep (T_eff 30 K), s33.69_t0.0001|full|mixed: pass -> unresolved (margin 1.23 -> 1.1)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 4 K, steep (T_eff 30 K), s33.69_t0.0001|shared|mixed: unresolved -> fail (margin 0.759 -> 0.677)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 4 K, mismatch x 1.5, s33.69_t0.001|shared|mixed: pass -> unresolved (margin 1.6 -> 1.43)",
+   "TG + dummies, 4 K, mismatch x 1.5, s33.69_t0.001|shared|mixed: pass -> unresolved (margin 1.44 -> 1.29)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 4 K, tree, ESD diodes on 1 pF, s33.69_t0.001|shared|mixed: pass -> unresolved (margin 1.48 -> 1.32)",
+   "D TG, 300 K, s33.69_t0.0001|shared|mixed: unresolved -> fail (margin 0.914 -> 0.815)",
+   "bootstrapped (transistor level), 0.3 V underdrive, 4 K, buffered leaf line, s33.69_t0.001|shared|mixed: pass -> unresolved (margin 1.6 -> 1.43)"
+  ]
+ }
+}

@@ -1,0 +1,6437 @@
+{
+ "pairs": {
+  "NMOS, 0.3 V underdrive": [
+   0.4,
+   0.8
+  ],
+  "bootstrapped (transistor level), 0.3 V underdrive": [
+   0.5,
+   1.3
+  ],
+  "T-switch + OTA buffer": [
+   0.3,
+   1.3
+  ],
+  "TG + dummies": [
+   0.5,
+   1.5
+  ],
+  "TG, no ESD": [
+   0.5,
+   1.3
+  ],
+  "TG, ESD on the node": [
+   0.5,
+   1.3
+  ]
+ },
+ "rows": {
+  "NMOS, 0.3 V underdrive|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 28.834165891372585,
+     "ci90": [
+      27.610424551938905,
+      30.195611170219806
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 90.28721593108841,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 213.3700065180491,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 18.828880000427827,
+     "ci90": [
+      18.145286720581257,
+      19.767799860468966
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 58.95789183657863,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 139.34313840734657,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 22.432798887791925,
+     "ci90": [
+      21.69174289957283,
+      23.51685548913054
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 70.24008727704084,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 166.1667370205935,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 28.841070089908904
+  },
+  "NMOS, 0.3 V underdrive|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 37.51975097242526,
+     "ci90": [
+      36.05203271542419,
+      39.71255691713996
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 117.47453383392443,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 278.2075635505146,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 22.62241130367896,
+     "ci90": [
+      21.708624270775484,
+      23.88064711915728
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 70.83199772056672,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 167.67801064558716,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 30.067758410593367,
+     "ci90": [
+      28.909901821867553,
+      31.92682488195201
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 94.14040216260071,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 223.06515887659407,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 37.51465566334143
+  },
+  "NMOS, 0.3 V underdrive|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 29.648094012503794,
+     "ci90": [
+      28.47606607677174,
+      31.324862283798495
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 92.82960625894216,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 219.76364683672588,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 17.8562792610215,
+     "ci90": [
+      17.11215109095317,
+      18.95136894600022
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 55.90860504869038,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 132.3736420178821,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 23.596623903499818,
+     "ci90": [
+      22.559575495549623,
+      25.222893688855788
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 73.88013178448438,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 175.02901069267915,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 29.66783747761666
+  },
+  "NMOS, 0.3 V underdrive|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 22.989504805407552,
+     "ci90": [
+      22.023006169534995,
+      24.23714013486549
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 71.98651372192337,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 170.0939637898936,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 13.767088387042765,
+     "ci90": [
+      13.323401737839692,
+      14.48110291349835
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 43.10738413191764,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 101.92993949568614,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 18.157328727661127,
+     "ci90": [
+      17.39420780559835,
+      19.299122357889278
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 56.85357375979701,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 134.46401550190086,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 22.986601487929196
+  },
+  "NMOS, 0.3 V underdrive|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 17.04784458071141,
+     "ci90": [
+      16.44213847516156,
+      17.878389282447635
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 53.38197883052468,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 126.10628410368231,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 11.07103906643668,
+     "ci90": [
+      10.66127089153712,
+      11.67430966425752
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 34.665945801359626,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 81.94448160364855,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 13.273011573987194,
+     "ci90": [
+      12.79130417165907,
+      13.945067471563739
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 41.5636578771298,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 98.07493633072997,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 17.04154782572786
+  },
+  "NMOS, 0.3 V underdrive|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 29.03802435769631,
+     "ci90": [
+      27.893047651635044,
+      30.746548434146423
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 90.91944886999082,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 215.2415641656316,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 17.488850106205614,
+     "ci90": [
+      16.750326458554053,
+      18.57106509842547
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 54.75817212816491,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 129.64978590566812,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 23.111075517375717,
+     "ci90": [
+      22.1643004100014,
+      24.454298114735256
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 72.35989825865056,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 171.42743387328812,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 29.033090164471833
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 92.22290500352236,
+     "ci90": [
+      88.05413969911599,
+      97.77923168278375
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 288.78089179035237,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 682.0152177534866,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 55.0923914609019,
+     "ci90": [
+      53.12145203508872,
+      58.11481740164882
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 172.53310139133202,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 406.22617823778853,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 76.20163503532395,
+     "ci90": [
+      73.04704374609896,
+      80.46677600045363
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 238.624521351333,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 562.8470143963804,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 92.1988738547246
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 31.38366423304234,
+     "ci90": [
+      30.055848411057767,
+      33.58737304354364
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 98.25278092525517,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 233.28633799664226,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 19.051547432846792,
+     "ci90": [
+      18.16569250867226,
+      20.304529304823607
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 59.64420709853061,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 141.6435444966104,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 24.958319765450227,
+     "ci90": [
+      23.893379167412796,
+      26.664141439837593
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 78.13484553216055,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 185.65219296759952,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 31.378088183561072
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 31.383618836524747,
+     "ci90": [
+      29.952525565052298,
+      33.58384112769609
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 98.25263954572814,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 233.28595580895941,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 19.05151434550348,
+     "ci90": [
+      18.126326754261378,
+      20.356212864721453
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 59.64410404402591,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 141.64326650672587,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.4/0.8 V": {
+    "s33.69_t0.0001": {
+     "margin": 24.958295697050648,
+     "ci90": [
+      23.90548487014784,
+      26.70636437301229
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 78.1347706503751,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 185.6519857613275,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 31.381764680141266
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 10.586879514465483,
+     "ci90": [
+      9.71880175526159,
+      11.941726269161629
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 33.12132385810546,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 80.11917146818264,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 5.977055175712473,
+     "ci90": [
+      5.488964642194279,
+      6.7580586746686
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 18.70038752849264,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 45.16877428661474,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 10.309986554363345,
+     "ci90": [
+      9.431470703418144,
+      11.660708308850833
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 32.25333619219631,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 78.13407933765669,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 10.577664116651858
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 3.6202973064177826,
+     "ci90": [
+      3.3770573081108037,
+      4.019755562855762
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.330932715855948,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 27.101209620374636,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 2.1253053238043518,
+     "ci90": [
+      1.9731077381907325,
+      2.3668598461156445
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.652129412393666,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 15.892949750198627,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.37319595289774,
+     "ci90": [
+      3.099673605577747,
+      3.751123396378241
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 10.556868840991351,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 25.29322139896027,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 3.6192006361365063
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.6357331782643527,
+     "ci90": [
+      2.5719798571878654,
+      2.714245091988082
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.249397291002131,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 19.731610480561613,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.5425849319849192,
+     "ci90": [
+      1.503215062575214,
+      1.5904939234051148
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 4.828064849131403,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 11.545870201595003,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 2.4645128930053164,
+     "ci90": [
+      2.405625192554496,
+      2.536062618666761
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 7.713463393196173,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 18.452498365776837,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.6526464075196454
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.5911714981241993,
+     "ci90": [
+      2.478733434904651,
+      2.7932771028546513
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.111857143019309,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 19.28035030934597,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.501665433235656,
+     "ci90": [
+      1.4273647318060785,
+      1.6283124100790864
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 4.700791149508825,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 11.190841002289533,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 2.456311426898474,
+     "ci90": [
+      2.3528750212524048,
+      2.604161039352551
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 7.690281545608032,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 18.239930072262087,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.588031453594421
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.750489171282206,
+     "ci90": [
+      5.081244411246965,
+      6.6940422576576175
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 17.986905947184876,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 43.75283569025507,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.6451694584970684,
+     "ci90": [
+      3.2430561515977896,
+      4.215967720575535
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.401074979812513,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 27.771609241174893,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.765290941714605,
+     "ci90": [
+      4.299721230205914,
+      5.570261898525036
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.90648114681394,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 36.18154212841969,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.7537107585244645
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.476190490959023,
+     "ci90": [
+      4.997767075403168,
+      6.091172760995371
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 17.13454703030504,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 41.30710578348899,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.41103571506105,
+     "ci90": [
+      3.1183442703037922,
+      3.8299191905770327
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 10.67188923834624,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 25.790213841689457,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.720494054027662,
+     "ci90": [
+      4.341381321270847,
+      5.239948410104457
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.771053584076512,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 35.54289037962926,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.481348190208872
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.0098972861293016,
+     "ci90": [
+      1.8767860480696168,
+      2.1800053781006707
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.291093173855368,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 15.018505380568964,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.3047046483752203,
+     "ci90": [
+      1.2300429783941391,
+      1.4034309016107376
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 4.083888543148292,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 9.743438445635546,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.5993102435920423,
+     "ci90": [
+      1.4923510207406387,
+      1.7401450543251604
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 5.005522209098263,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 11.975657954151343,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.010661533969511
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.1114132374914503,
+     "ci90": [
+      1.9791883334898048,
+      2.3185357950190983
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.608322715660917,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 15.809046591357527,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.2366345481239762,
+     "ci90": [
+      1.1573933205099454,
+      1.3481737443861448
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.8703919336106445,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 9.261629857877631,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.9747542489251848,
+     "ci90": [
+      1.8607560663440905,
+      2.1314566352850193
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.18075716968424,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 14.776525962737876,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.1113777583497155
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.0225821710644367,
+     "ci90": [
+      1.8599882597424786,
+      2.257117868865677
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.329615098829376,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 15.186177735696651,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.177687410902299,
+     "ci90": [
+      1.0857355036087226,
+      1.3160904868946628
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.685394593031232,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.851494383549193,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.9077684217998934,
+     "ci90": [
+      1.784940639369146,
+      2.092151679289395
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 5.970694766047867,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 14.300203452288558,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.0226884051233327
+  },
+  "T-switch + OTA buffer|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 9.335262404713292,
+     "ci90": [
+      8.045797195264567,
+      11.631736099846549
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 29.139017490625605,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 75.3278141364027,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 6.495508038733897,
+     "ci90": [
+      5.5924386429601425,
+      8.042245214990535
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 20.272875295764145,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 52.53605028584041,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 7.18523403754153,
+     "ci90": [
+      6.34855218306093,
+      8.530878177760979
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 22.44062683980922,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 56.957599683147514,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 9.33902577566593
+  },
+  "T-switch + OTA buffer|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 4.601242639493334,
+     "ci90": [
+      4.265936291152832,
+      5.144723895352727
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.377872200406987,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 35.975249213294354,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 2.912861684001054,
+     "ci90": [
+      2.6470320557665263,
+      3.2474296773886224
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.100843034793987,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 22.857331105667814,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.3071043322507903,
+     "ci90": [
+      2.9091688664866067,
+      3.6293867980368004
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 10.333688527344876,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 25.856506192917575,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 4.591718718947939
+  },
+  "T-switch + OTA buffer|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 4.912963657492511,
+     "ci90": [
+      4.541290325769097,
+      5.574005598654984
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.350120481453596,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 38.54073067737635,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.08760689669489,
+     "ci90": [
+      2.7786024370737494,
+      3.505595613274983
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.645227165776193,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 24.34119278386483,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.5461191469417805,
+     "ci90": [
+      3.1735684657905128,
+      3.9003072471193554
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.08056776544508,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 27.73843152425551,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 4.933374536984712
+  },
+  "T-switch + OTA buffer|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.037730556390461,
+     "ci90": [
+      4.549141816571525,
+      5.857711927731935
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.737936614552098,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 39.66314462482697,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.1353979724700887,
+     "ci90": [
+      2.816422770715893,
+      3.707645535779712
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.79283307902892,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 24.83951862326972,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.640925661827988,
+     "ci90": [
+      3.2909000909826047,
+      4.061106777477344
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.375812519498004,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 28.55722870318913,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.044796350455607
+  },
+  "T-switch + OTA buffer|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.611037835376209,
+     "ci90": [
+      5.023510100385406,
+      6.753424792637465
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 17.52575113485944,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 44.40950491597487,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.5281721377767274,
+     "ci90": [
+      3.2032635258811464,
+      4.339220528927404
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.017591379153258,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 28.103821454670214,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.043671777634336,
+     "ci90": [
+      3.599248803469085,
+      4.664272437676668
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.630945186569923,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 31.94806330337805,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.612688066473593
+  },
+  "T-switch + OTA buffer|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.675103407301691,
+     "ci90": [
+      5.044505692114071,
+      7.049165960426222
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 17.721870085327716,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 45.21117981928095,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.590646928075826,
+     "ci90": [
+      3.222215490839501,
+      4.429825629314581
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.210383077533889,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 28.774556545478646,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.151331509418136,
+     "ci90": [
+      3.698699264159908,
+      5.055703560183926
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.964605339424157,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 32.991728288314114,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.686694188276691
+  },
+  "T-switch + OTA buffer|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.639751626957403,
+     "ci90": [
+      2.3298490516979724,
+      3.4298460645012594
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.238718330899157,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 21.3773803202064,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.7926969416907534,
+     "ci90": [
+      1.583204906780462,
+      2.3263219909029536
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 5.595657626654198,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 14.469148073119916,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.8832196939358987,
+     "ci90": [
+      1.6718627835308768,
+      2.4701069164302494
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 5.878553040000488,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 15.173850171525908,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.6486189510023954
+  },
+  "T-switch + OTA buffer|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.459493620951301,
+     "ci90": [
+      4.896269832931167,
+      6.209089015686607
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 17.04051956023457,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 44.10727966167317,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.633089400228265,
+     "ci90": [
+      3.2553345897182537,
+      4.220694931418771
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.340088469899914,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 29.331769354670417,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.985474515378046,
+     "ci90": [
+      3.519819614075181,
+      4.532111461226979
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.437899134484153,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 32.3406303375589,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.452255770614646
+  },
+  "T-switch + OTA buffer|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 6.856181460463501,
+     "ci90": [
+      6.026573984314199,
+      8.908241025137261
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 21.39252332172145,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 55.98122593295494,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 4.607304586262907,
+     "ci90": [
+      4.016747063517601,
+      5.463658643721965
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.375693592696656,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 37.613185480238805,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.3/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.868880518164211,
+     "ci90": [
+      4.244498483175468,
+      6.251553575548143
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.193248873082785,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 39.63740572250537,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 6.857680768453402
+  },
+  "TG + dummies|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 6.722855876118269,
+     "ci90": [
+      5.730483339799583,
+      8.19366355405964
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 20.979079639685754,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 54.68747169108996,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 4.9346386357811305,
+     "ci90": [
+      4.114370477099184,
+      5.777161717369999
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.398485225762846,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 40.168954144929195,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.9500250369834267,
+     "ci90": [
+      3.430321239849811,
+      4.973078905626561
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.325629521019927,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 32.1848560713162,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 6.718284725324941
+  },
+  "TG + dummies|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 4.917750644770131,
+     "ci90": [
+      4.016705934621112,
+      6.299387465183276
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.346264263426804,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 39.9939868866639,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.246551204852437,
+     "ci90": [
+      2.7342622471620506,
+      4.380397025145972
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 10.130804233333443,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 26.42982810609332,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.9307098645443945,
+     "ci90": [
+      3.341646676066185,
+      5.051224349283215
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.265657893226038,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 32.003567183730134,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 4.902770463514345
+  },
+  "TG + dummies|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 4.654932618487608,
+     "ci90": [
+      3.93782100141775,
+      6.140930641585485
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.525827384182113,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 37.879528557425246,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 2.8908225139672696,
+     "ci90": [
+      2.3870161705066755,
+      3.9203862442712163
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.020595442102815,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 23.546973094043025,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.805228195407131,
+     "ci90": [
+      3.241150675555345,
+      4.918158864426957
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.874311325356354,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 30.96473933356373,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 4.780164126643232
+  },
+  "TG + dummies|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 4.501482376510232,
+     "ci90": [
+      3.7795847631273363,
+      6.045808828835449
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.046193597548173,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 36.69400010802428,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 2.704336630401716,
+     "ci90": [
+      2.2823320677222707,
+      3.679998502349322
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.438409830441852,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 22.04957787906683,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 3.7763654837486436,
+     "ci90": [
+      3.184613624102222,
+      5.347990351841052
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 11.784222071939118,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 30.731643654060246,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 4.527162407595478
+  },
+  "TG + dummies|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.4089687226713545,
+     "ci90": [
+      4.550212134408234,
+      7.434240664502139
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 16.878361112971536,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 44.0520412642401,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.21569577895642,
+     "ci90": [
+      2.7629838827117923,
+      4.435225619592389
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 10.035181217868857,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 26.12604047140679,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.077904900692605,
+     "ci90": [
+      3.4416911868392055,
+      5.999654778121599
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 12.72481142903899,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 33.21512719208285,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.40977749453231
+  },
+  "TG + dummies|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 7.6057138856337465,
+     "ci90": [
+      6.508851705669265,
+      10.289249754611829
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 23.737489830272605,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 61.60065579980109,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 4.624192439719275,
+     "ci90": [
+      3.996519810984454,
+      5.837798044692263
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 14.43267148318293,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 37.41077411672664,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 7.251337499027148,
+     "ci90": [
+      6.436275926476368,
+      8.895889092939319
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 22.635791358959782,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 58.389626270379765,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 7.602031955009106
+  },
+  "TG + dummies|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.752893921121968,
+     "ci90": [
+      2.346770134966478,
+      3.6092862623392206
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.590342791920811,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 22.412041049599516,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 2.073603526617768,
+     "ci90": [
+      1.7300773474381181,
+      2.7492978537809174
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.4704956575177555,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 16.89270307827522,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 2.737240069764459,
+     "ci90": [
+      2.3314037233677696,
+      3.4322059243195926
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 8.542269173073429,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 22.223034641244226,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.760764625179346
+  },
+  "TG + dummies|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.091140266439388,
+     "ci90": [
+      4.160491455671264,
+      6.641113144558477
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.884922303994477,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 41.59806120477635,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.13939186088762,
+     "ci90": [
+      2.593930873784431,
+      4.30618930385861
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.795180608178047,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 25.656645314628534,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.2385113003845625,
+     "ci90": [
+      3.6100689253238443,
+      5.318820786732847
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 13.224388375396057,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 34.650685061861765,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.112273634453344
+  },
+  "TG + dummies|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 5.090664444828445,
+     "ci90": [
+      4.303492756809315,
+      6.61098084398037
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 15.883439213753588,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 41.59405002221298,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 3.1390731247285,
+     "ci90": [
+      2.628713823689329,
+      4.362472156549017
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 9.794187002294164,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 25.653969402294525,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.5 V": {
+    "s33.69_t0.0001": {
+     "margin": 4.238432914173642,
+     "ci90": [
+      3.5776159488824297,
+      5.373423404004726
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 13.224144045835843,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 34.650024846313364,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 5.13361089114809
+  },
+  "TG, no ESD|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0503487721733655,
+     "ci90": [
+      1.0376173415259593,
+      1.0658585837002077
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.2917221672829227,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.611138927135839,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6225654380989162,
+     "ci90": [
+      0.6137090039196773,
+      0.6337003637690363
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.9510828059538055,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.5110182152042455,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.9698110153348579,
+     "ci90": [
+      0.9473403020897492,
+      1.0017447822381798
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.038600331469472,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.068031522437649,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.050319804475441
+  },
+  "TG, no ESD|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0854542518117662,
+     "ci90": [
+      1.0636647405790234,
+      1.1090209022005182
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.401529940799346,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.877248370893471,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5740156332725919,
+     "ci90": [
+      0.5599534014779173,
+      0.5889659186142607
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.798749230464033,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.169364713532434,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.0543442236116236,
+     "ci90": [
+      1.0282160626589938,
+      1.0861540744343803
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.3035754986337342,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.677516598298603,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.08540780247066
+  },
+  "TG, no ESD|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0191038246828557,
+     "ci90": [
+      1.0106798996791162,
+      1.026563529293069
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.193880603577095,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.380397234891577,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5787050760690676,
+     "ci90": [
+      0.5733663439038587,
+      0.5848611488083029
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.8131907436073742,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.217694761484123,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.9328142360304811,
+     "ci90": [
+      0.9260310128466686,
+      0.9419130298804989
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.9226545508380712,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 6.799977387114753,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.0203182009142149
+  },
+  "TG, no ESD|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 0.9833355358278125,
+     "ci90": [
+      0.9562509518439855,
+      1.016208766380055
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.081347840616049,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.14560561776977,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5961396460328917,
+     "ci90": [
+      0.57901032568729,
+      0.6145676839627449
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.8680060865362325,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.334071202216688,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.8485935408375322,
+     "ci90": [
+      0.8400005039943917,
+      0.8613363610335627
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.6592483486253413,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 6.1595574515960685,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 0.9833176617595734
+  },
+  "TG, no ESD|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.022192142461962,
+     "ci90": [
+      1.9847979537685194,
+      2.0806436528133747
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.333864485109951,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 14.854948307706023,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.1069088541123038,
+     "ci90": [
+      1.0932375910650813,
+      1.133461154623699
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.467508074306444,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.1040042145314,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.0222972420782006
+  },
+  "TG, no ESD|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 2.037027213915993,
+     "ci90": [
+      2.0175947452541503,
+      2.067236755062599
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 6.382602168880776,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 14.833931837956484,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 1.219353966874619,
+     "ci90": [
+      1.2086853788603473,
+      1.236760855655583
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.8206625683690847,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.875572671905749,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 2.0369881433707713
+  },
+  "TG, no ESD|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.1289998918746478,
+     "ci90": [
+      1.0861186680034467,
+      1.1901607948989648
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.535901140698679,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.312616092627712,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5961434011344589,
+     "ci90": [
+      0.582518164010924,
+      0.6193866977993424
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.8676153611764075,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.356890221073776,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.1510403394684632,
+     "ci90": [
+      1.1079962255512308,
+      1.1886829522726055
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.6052636335862362,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.454786725345944,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.1291643691869115
+  },
+  "TG, no ESD|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0225741122750995,
+     "ci90": [
+      1.0007635156016024,
+      1.0469898430128906
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.204506722380846,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.419430059262209,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5800415344788556,
+     "ci90": [
+      0.5630588555376143,
+      0.6000144258774841
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.8174569082242589,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.222982992817347,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.9729294815868177,
+     "ci90": [
+      0.9598038910768308,
+      0.9925769037397477
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.0485913360536356,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.078327372343011,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.0224251069304617
+  },
+  "TG, no ESD|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0225909770365857,
+     "ci90": [
+      0.9999107223727834,
+      1.0475928161369903
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.2045594488499742,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.419559329391138,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.5800574200859612,
+     "ci90": [
+      0.5622444586350281,
+      0.5999320459266847
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 1.8175066085787188,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.223102842954814,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.9729183536526628,
+     "ci90": [
+      0.9592187574455271,
+      0.991898100544179
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.04855613445191,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.078265166461704,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.0226107036521794
+  },
+  "TG, ESD on the node|300 K": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.0968047081422407,
+     "ci90": [
+      1.0824103785960384,
+      1.1155327799587305
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.437340720385484,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.946172824291292,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6515446750622852,
+     "ci90": [
+      0.6429933867816795,
+      0.6617666494699006
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.0419215521584935,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.719909122774949,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.0093851392927067,
+     "ci90": [
+      0.9866361769489488,
+      1.0416115167980282
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.1626430310302958,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.353648507636102,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.0967294074363088
+  },
+  "TG, ESD on the node|77 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.2291155226300088,
+     "ci90": [
+      1.2066344637499906,
+      1.2538862326962361
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.851761423566301,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.9178803437024,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6477310386462246,
+     "ci90": [
+      0.6323045839224997,
+      0.6642403198017214
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.029764482419274,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.703739891875732,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.1929516005670566,
+     "ci90": [
+      1.161039084688905,
+      1.2291333110276972
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.737909176619602,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.684832347318851,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.2292703266475231
+  },
+  "TG, ESD on the node|4 K proxy": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.1556668640666075,
+     "ci90": [
+      1.1479200674759178,
+      1.1646160121209153
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.621894094956905,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.368078911010805,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6532990322165533,
+     "ci90": [
+      0.646940724336263,
+      0.6601683389986989
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.0469263439257084,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.760281002674744,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.0649631380461915,
+     "ci90": [
+      1.0570299700667523,
+      1.0743576067362335
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.3367246652519116,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 7.761797297778302,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.15569416112005
+  },
+  "TG, ESD on the node|4 K high": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.2070960357108351,
+     "ci90": [
+      1.1804022332479303,
+      1.2468885995361365
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.7823482057584896,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.781052708215881,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6542866558631838,
+     "ci90": [
+      0.6351975467265755,
+      0.6750895551633311
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.0502267007696915,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.755875170134594,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 0.9376365570754083,
+     "ci90": [
+      0.9267394684714304,
+      0.9554680159684545
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.9382978065274927,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 6.805085569316773,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.2071008929584275
+  },
+  "TG, ESD on the node|77 K Beall fit": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 10.683947759969438,
+     "ci90": [
+      10.273427684433543,
+      11.25651159557654
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 33.459094623929154,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 78.77121345118417,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 5.996043256444456,
+     "ci90": [
+      5.737171164709076,
+      6.3172823184432625
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 18.777338014952623,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 44.24139869712029,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 10.685192047720962
+  },
+  "TG, ESD on the node|4 K, Beall pMOS": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 34.40146967031471,
+     "ci90": [
+      32.787381218580975,
+      36.76018837303699
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 107.70541626490616,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 255.43054647076863,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 22.934313113542306,
+     "ci90": [
+      21.77576770960935,
+      24.50278682072621
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 71.80361084326819,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 170.28703098050585,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 34.399697088934595
+  },
+  "TG, ESD on the node|4 K, steep (T_eff 120 K)": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.260280717221527,
+     "ci90": [
+      1.2078927683768197,
+      1.331405395158225
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.9471165460512827,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 9.275792120062528,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6640418628734842,
+     "ci90": [
+      0.6475040661326293,
+      0.6910761209550469
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.0803522187171315,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.851834561563718,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.2870173031809182,
+     "ci90": [
+      1.2393791509274676,
+      1.331423307929506
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 4.0312092785996025,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 9.448879289376459,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.2605545527200748
+  },
+  "TG, ESD on the node|4 K, tree, ESD-dominated droop": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.1600544789698655,
+     "ci90": [
+      1.1374928498018275,
+      1.1893872259763967
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.6353654653095617,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.415397400953594,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6553184856147017,
+     "ci90": [
+      0.6360538368055095,
+      0.6774609470513966
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.05334520333769,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.769830737445092,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.1104965265760687,
+     "ci90": [
+      1.09422724657862,
+      1.1314076395257386
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.479668544179703,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.077891385453993,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.160127997763707
+  },
+  "TG, ESD on the node|4 K, tree, one reticle": {
+   "least squares, 7 points": {
+    "s33.69_t0.0001": {
+     "margin": 1.1600436026643302,
+     "ci90": [
+      1.1332288343110046,
+      1.1882713542817434
+     ],
+     "verdict": "pass"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.635331398155244,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.415317558834236,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, window ends": {
+    "s33.69_t0.0001": {
+     "margin": 0.6553121943846808,
+     "ci90": [
+      0.6362879975584258,
+      0.6787982248671005
+     ],
+     "verdict": "fail"
+    },
+    "s33.69_t0.001": {
+     "margin": 2.0533254925267728,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 4.769784841888417,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "two points, best pair 0.5/1.3 V": {
+    "s33.69_t0.0001": {
+     "margin": 1.1104873057138733,
+     "ci90": [
+      1.0959770082732836,
+      1.1312102012171374
+     ],
+     "verdict": "unresolved"
+    },
+    "s33.69_t0.001": {
+     "margin": 3.4796396572519104,
+     "ci90": null,
+     "verdict": "pass"
+    },
+    "s10_t0.001": {
+     "margin": 8.077823971754366,
+     "ci90": null,
+     "verdict": "pass"
+    }
+   },
+   "yield8_ls_margin": 1.1601216749080707
+  }
+ },
+ "s2": {
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|fullfine|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|fullfine|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|fullfine|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "TG + dummies|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|fullfine|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "TG + dummies|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|fullfine|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|fullfine|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move20mVwin|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move50mVwin|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move100mVwin|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.0001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.0001|move200mVwin|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|fullfine|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move20mVinterp|mixed": "pass",
+   "s33.69_t0.001|move20mVwin|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move50mVinterp|mixed": "pass",
+   "s33.69_t0.001|move50mVwin|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move100mVinterp|mixed": "pass",
+   "s33.69_t0.001|move100mVwin|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s33.69_t0.001|move200mVinterp|mixed": "pass",
+   "s33.69_t0.001|move200mVwin|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|fullfine|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move20mVinterp|mixed": "pass",
+   "s10_t0.001|move20mVwin|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move50mVinterp|mixed": "pass",
+   "s10_t0.001|move50mVwin|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move100mVinterp|mixed": "pass",
+   "s10_t0.001|move100mVwin|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|move200mVinterp|mixed": "pass",
+   "s10_t0.001|move200mVwin|mixed": "pass"
+  },
+  "TG, no ESD|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive, W 1|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive, W 1|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive, W 3|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive, W 3|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), W 1|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), W 1|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 0.42|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 0.42|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 3|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "fail",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "fail",
+   "s33.69_t0.0001|move200mV|mixed": "fail",
+   "s33.69_t0.001|full|mixed": "unresolved",
+   "s33.69_t0.001|shared|mixed": "fail",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "unresolved",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 3|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "fail",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "fail",
+   "s33.69_t0.0001|move200mV|mixed": "fail",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "fail",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "unresolved",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies, W 0.84|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies, W 0.84|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 0.42, 0.3 V underdrive|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD, W 0.42, 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer, W 0.42|4 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer, W 0.42|4 K, tree, ESD-dominated droop": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K high": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K high": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K high": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "T-switch + OTA buffer|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K high": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|300 K": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|4 K high": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, no ESD|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|300 K": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|77 K proxy": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K high": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|77 K Beall fit": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K, Beall pMOS": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG, ESD on the node|4 K, tree, one reticle": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 30 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 20 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, clock edge 600 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, clock edge 67 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree source": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 1.5": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 2": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 30 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K)": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, clock edge 600 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, clock edge 67 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree source": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, mismatch x 1.5": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, mismatch x 2": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, steep (T_eff 30 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, steep (T_eff 20 K)": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, clock edge 600 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, clock edge 67 ps": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, tree source": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, mismatch x 1.5": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "TG + dummies|4 K, mismatch x 2": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD diodes on 1 pF": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D NSW|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D TG|300 K": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D TGD|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D BOOT|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D CLK|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D TSW|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D TGH|300 K": {
+   "s33.69_t0.0001|full|mixed": "unresolved",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "unresolved",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D TSWB|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "unresolved",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "D NTB|300 K": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 2.5": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 3": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "pass",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 5.3": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "unresolved",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, buffered leaf line": {
+   "s33.69_t0.0001|full|mixed": "pass",
+   "s33.69_t0.0001|shared|mixed": "fail",
+   "s33.69_t0.0001|move20mV|mixed": "pass",
+   "s33.69_t0.0001|move50mV|mixed": "pass",
+   "s33.69_t0.0001|move100mV|mixed": "pass",
+   "s33.69_t0.0001|move200mV|mixed": "pass",
+   "s33.69_t0.001|full|mixed": "pass",
+   "s33.69_t0.001|shared|mixed": "pass",
+   "s33.69_t0.001|move20mV|mixed": "pass",
+   "s33.69_t0.001|move50mV|mixed": "pass",
+   "s33.69_t0.001|move100mV|mixed": "pass",
+   "s33.69_t0.001|move200mV|mixed": "pass",
+   "s10_t0.001|full|mixed": "pass",
+   "s10_t0.001|shared|mixed": "pass",
+   "s10_t0.001|move20mV|mixed": "pass",
+   "s10_t0.001|move50mV|mixed": "pass",
+   "s10_t0.001|move100mV|mixed": "pass",
+   "s10_t0.001|move200mV|mixed": "pass"
+  }
+ },
+ "s4": {
+  "4 K, steep (T_eff 120 K)": {
+   "margin": 207.51663805880443,
+   "ci90": [
+    202.57584714926256,
+    213.94984352348214
+   ],
+   "shared": 5.948505664773935,
+   "shared_ci90": [
+    4.895901572271838,
+    8.1797226859473
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 92.1988738547246
+  },
+  "4 K proxy": {
+   "margin": 72.47553962026997,
+   "ci90": [
+    69.75857244231628,
+    77.20454651525854
+   ],
+   "shared": 6.527979680737715,
+   "shared_ci90": [
+    5.448131086562599,
+    9.596102724150247
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 29.66783747761666
+  },
+  "4 K, tree, ESD-dominated droop": {
+   "margin": 79.95492060857212,
+   "ci90": [
+    76.21328823780917,
+    85.32094115508774
+   ],
+   "shared": 6.630640748949127,
+   "shared_ci90": [
+    5.506571969693975,
+    8.927163953003404
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 31.378088183561072
+  },
+  "300 K": {
+   "margin": 143.06497981352084,
+   "ci90": [
+    139.11908951526982,
+    148.76047183778277
+   ],
+   "shared": 6.116576102018309,
+   "shared_ci90": [
+    5.056047620860056,
+    8.701280709721653
+   ],
+   "window_as_stored": [
+    0.3,
+    0.9
+   ],
+   "yield8_margin": 28.841070089908904
+  },
+  "77 K proxy": {
+   "margin": 91.53689071497702,
+   "ci90": [
+    88.03722446174608,
+    97.436890044713
+   ],
+   "shared": 6.311490970346,
+   "shared_ci90": [
+    5.197749414844052,
+    8.78023275828898
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 37.51465566334143
+  },
+  "4 K high": {
+   "margin": 55.06482024230235,
+   "ci90": [
+    52.33499338133487,
+    58.38356670645125
+   ],
+   "shared": 6.471550480188667,
+   "shared_ci90": [
+    5.4082403638606955,
+    8.90663079185233
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 22.986601487929196
+  },
+  "77 K Beall fit": {
+   "margin": 89.75592741521987,
+   "ci90": [
+    85.84506641535795,
+    95.37845222650685
+   ],
+   "shared": 6.277430570806895,
+   "shared_ci90": [
+    5.201457537841112,
+    8.412553705893767
+   ],
+   "window_as_stored": [
+    0.3,
+    0.9
+   ],
+   "yield8_margin": 17.04154782572786
+  },
+  "4 K, Beall pMOS": {
+   "margin": 70.98420842645145,
+   "ci90": [
+    67.88582880323641,
+    74.87403612619714
+   ],
+   "shared": 6.393653261348376,
+   "shared_ci90": [
+    5.2851019560206876,
+    9.174009468728805
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 29.033090164471833
+  },
+  "4 K, tree, one reticle": {
+   "margin": 79.95465486396667,
+   "ci90": [
+    76.3696919916075,
+    85.31337988651528
+   ],
+   "shared": 6.630631341384019,
+   "shared_ci90": [
+    5.468831909153357,
+    9.327811194214517
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 31.381764680141266
+  },
+  "4 K, steep (T_eff 30 K)": {
+   "margin": 285.9960285423307,
+   "ci90": [
+    282.0495906208627,
+    291.5771715871822
+   ],
+   "shared": 5.7328155976870265,
+   "shared_ci90": [
+    4.644598739072776,
+    8.229074730052666
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 153.99211568679502
+  },
+  "4 K, steep (T_eff 20 K)": {
+   "margin": 296.78737084830607,
+   "ci90": [
+    292.69853990892346,
+    302.0622848203399
+   ],
+   "shared": 5.713614854314416,
+   "shared_ci90": [
+    4.701378288249605,
+    8.266963525536761
+   ],
+   "window_as_stored": [
+    0.3,
+    0.7
+   ],
+   "yield8_margin": 296.82412585392217
+  },
+  "4 K, clock edge 600 ps": {
+   "margin": 82.34412043607765,
+   "ci90": [
+    77.25001095840771,
+    89.52825472294819
+   ],
+   "shared": 6.742005912074955,
+   "shared_ci90": [
+    5.585720872173438,
+    9.753558361663854
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 31.264181878320915
+  },
+  "4 K, clock edge 67 ps": {
+   "margin": 67.69015212447937,
+   "ci90": [
+    64.90828341028563,
+    71.66302926908911
+   ],
+   "shared": 6.282489890665805,
+   "shared_ci90": [
+    5.273771925063223,
+    8.912513113944366
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 28.221098552757336
+  },
+  "4 K, tree source": {
+   "margin": 79.95493673583478,
+   "ci90": [
+    76.17072941786597,
+    85.19192881646005
+   ],
+   "shared": 6.630641355672676,
+   "shared_ci90": [
+    5.560207954190282,
+    9.298704273499585
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 31.37456504135522
+  },
+  "4 K, mismatch x 1.5": {
+   "margin": 66.24001269747673,
+   "ci90": [
+    62.590195986502856,
+    72.86937584855242
+   ],
+   "shared": 4.3057638579534006,
+   "shared_ci90": [
+    3.6025555091872383,
+    6.219093501899391
+   ],
+   "window_as_stored": [
+    0.3,
+    0.8
+   ],
+   "yield8_margin": 27.175194873184186
+  },
+  "4 K, mismatch x 2": {
+   "margin": 61.770097185156956,
+   "ci90": [
+    57.21739255353791,
+    69.73450885115707
+   ],
+   "shared": 3.2354404091410545,
+   "shared_ci90": [
+    2.663179191402956,
+    4.7247122845398195
+   ],
+   "window_as_stored": [
+    0.3,
+    0.7
+   ],
+   "yield8_margin": 61.70645372415128
+  },
+  "4 K, mismatch x 2.5": {
+   "margin": 57.6318853198081,
+   "ci90": [
+    52.34730938020036,
+    66.50646500853126
+   ],
+   "shared": 2.5846924859869933,
+   "shared_ci90": [
+    2.0884027333933615,
+    3.630791785969303
+   ],
+   "window_as_stored": [
+    0.3,
+    0.7
+   ],
+   "yield8_margin": 57.66547917371131
+  },
+  "4 K, mismatch x 3": {
+   "margin": 53.898703439713714,
+   "ci90": [
+    47.88405075065706,
+    66.10243048760628
+   ],
+   "shared": 2.147174889983821,
+   "shared_ci90": [
+    1.7591800654183223,
+    3.0163942572401963
+   ],
+   "window_as_stored": [
+    0.3,
+    0.7
+   ],
+   "yield8_margin": 53.87574318089798
+  }
+ },
+ "s2_changes": [
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 120 K)",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.7908770218846796
+  ],
+  [
+   "TG, no ESD|4 K, steep (T_eff 120 K)",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.1291643691869115
+  ],
+  [
+   "TG, no ESD|4 K, steep (T_eff 120 K)",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.8028204139203818
+  ],
+  [
+   "TG, no ESD|4 K proxy",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   1.0203182009142149
+  ],
+  [
+   "TG, no ESD|4 K proxy",
+   "s33.69_t0.0001|fullfine|mixed",
+   "near one",
+   "unresolved",
+   1.0203182009142149
+  ],
+  [
+   "TG, no ESD|4 K proxy",
+   "s33.69_t0.0001|move200mV|mixed",
+   "fail",
+   "unresolved",
+   0.9897571323857377
+  ],
+  [
+   "TG, ESD on the node|4 K, steep (T_eff 120 K)",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.8976488664798155
+  ],
+  [
+   "T-switch + OTA buffer|4 K, steep (T_eff 120 K)",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.0858497618590257
+  ],
+  [
+   "T-switch + OTA buffer|4 K proxy",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.1441638039411206
+  ],
+  [
+   "TG, no ESD|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   1.0224251069304617
+  ],
+  [
+   "TG, no ESD|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.0190335520915856
+  ],
+  [
+   "TG, ESD on the node|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.8295273876241861
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.300179499140389
+  ],
+  [
+   "T-switch + OTA buffer|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.159365705508378
+  ],
+  [
+   "bootstrapped (transistor level), W 1|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   1.010798395714934
+  ],
+  [
+   "bootstrapped (transistor level), W 1|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   0.9939648922696076
+  ],
+  [
+   "bootstrapped (transistor level), W 1|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.7794634835616402
+  ],
+  [
+   "TG, no ESD, W 0.42|4 K proxy",
+   "s33.69_t0.0001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.1659064584691314
+  ],
+  [
+   "TG, no ESD, W 0.42|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.1819051725463146
+  ],
+  [
+   "TG, no ESD, W 3|4 K proxy",
+   "s33.69_t0.001|full|mixed",
+   "pass",
+   "unresolved",
+   1.090003275247144
+  ],
+  [
+   "TG, no ESD, W 3|4 K proxy",
+   "s33.69_t0.001|move200mV|mixed",
+   "pass",
+   "unresolved",
+   1.046784006741231
+  ],
+  [
+   "TG, no ESD, W 3|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.001|move200mV|mixed",
+   "pass",
+   "unresolved",
+   1.127688214018228
+  ],
+  [
+   "TG + dummies, W 0.84|4 K proxy",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.5830826150592445
+  ],
+  [
+   "TG + dummies, W 0.84|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.586678075079476
+  ],
+  [
+   "TG, no ESD, W 0.42, 0.3 V underdrive|4 K proxy",
+   "s33.69_t0.0001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.1662856798217953
+  ],
+  [
+   "TG, no ESD, W 0.42, 0.3 V underdrive|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.0001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.1777303656391407
+  ],
+  [
+   "T-switch + OTA buffer, W 0.42|4 K proxy",
+   "s33.69_t0.001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.3522765607089107
+  ],
+  [
+   "T-switch + OTA buffer, W 0.42|4 K, tree, ESD-dominated droop",
+   "s33.69_t0.001|shared|mixed",
+   "pass",
+   "unresolved",
+   1.3606377938899483
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|77 K proxy",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.8732803688189836
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K high",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.7785589423436378
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|77 K Beall fit",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.816012230019037
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, Beall pMOS",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.054768590722456
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.056556996004821
+  ],
+  [
+   "T-switch + OTA buffer|300 K",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.0915077917479605
+  ],
+  [
+   "T-switch + OTA buffer|77 K proxy",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.1180584714876671
+  ],
+  [
+   "T-switch + OTA buffer|4 K high",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.163024764218702
+  ],
+  [
+   "T-switch + OTA buffer|77 K Beall fit",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.1230464974404637
+  ],
+  [
+   "T-switch + OTA buffer|4 K, Beall pMOS",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.146313593296038
+  ],
+  [
+   "T-switch + OTA buffer|4 K, tree, one reticle",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.1684755796545725
+  ],
+  [
+   "TG, no ESD|300 K",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.050319804475441
+  ],
+  [
+   "TG, no ESD|300 K",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.8682252399166667
+  ],
+  [
+   "TG, no ESD|300 K",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.0225109389623452
+  ],
+  [
+   "TG, no ESD|77 K proxy",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.08540780247066
+  ],
+  [
+   "TG, no ESD|4 K high",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   0.9833176617595734
+  ],
+  [
+   "TG, no ESD|4 K high",
+   "s33.69_t0.0001|move200mV|mixed",
+   "fail",
+   "unresolved",
+   0.9103630968496104
+  ],
+  [
+   "TG, no ESD|4 K, tree, one reticle",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   1.0226107036521794
+  ],
+  [
+   "TG, no ESD|4 K, tree, one reticle",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.0189212413966746
+  ],
+  [
+   "TG, ESD on the node|300 K",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.0967294074363088
+  ],
+  [
+   "TG, ESD on the node|300 K",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.9142564295237715
+  ],
+  [
+   "TG, ESD on the node|300 K",
+   "s33.69_t0.0001|move200mV|mixed",
+   "pass",
+   "unresolved",
+   1.0652002770422333
+  ],
+  [
+   "TG, ESD on the node|77 K proxy",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.8450867603777449
+  ],
+  [
+   "TG, ESD on the node|4 K high",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.865663427878127
+  ],
+  [
+   "TG, ESD on the node|4 K high",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.0038553412883606
+  ],
+  [
+   "TG, ESD on the node|4 K, tree, one reticle",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.8299611625051798
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 30 K)",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.7585949058930345
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 30 K)",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.070739176375149
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K)",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.1889514435879647
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K)",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.8341128851552294
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K)",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.029217939624777
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, clock edge 600 ps",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.7199965192600125
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, clock edge 67 ps",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.8943401613821007
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree source",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.3362280450586563
+  ],
+  [
+   "bootstrapped (transistor level), 0.3 V underdrive|4 K, mismatch x 2",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.1231171494417538
+  ],
+  [
+   "TG + dummies|4 K, mismatch x 2",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.0899025812738707
+  ],
+  [
+   "D TG|300 K",
+   "s33.69_t0.0001|full|mixed",
+   "pass",
+   "unresolved",
+   1.096865233681438
+  ],
+  [
+   "D TG|300 K",
+   "s33.69_t0.0001|shared|mixed",
+   "fail",
+   "unresolved",
+   0.9138957063490114
+  ],
+  [
+   "D TG|300 K",
+   "s33.69_t0.0001|move200mV|mixed",
+   "near one",
+   "unresolved",
+   1.0647587433378314
+  ],
+  [
+   "D TSW|300 K",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.9299324199268849
+  ],
+  [
+   "D TGH|300 K",
+   "s33.69_t0.0001|full|mixed",
+   "near one",
+   "unresolved",
+   1.0202424124307934
+  ],
+  [
+   "D TGH|300 K",
+   "s33.69_t0.0001|move200mV|mixed",
+   "pass",
+   "unresolved",
+   1.1354346553581478
+  ],
+  [
+   "D TSWB|300 K",
+   "s33.69_t0.001|shared|mixed",
+   "near one",
+   "unresolved",
+   0.9246425843227241
+  ],
+  [
+   "D NTB|300 K",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.0994976927468032
+  ],
+  [
+   "NMOS, 0.3 V underdrive|4 K, mismatch x 5.3",
+   "s33.69_t0.0001|shared|mixed",
+   "near one",
+   "unresolved",
+   1.202410816905189
+  ]
+ ]
+}
