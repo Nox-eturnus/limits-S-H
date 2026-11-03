@@ -1,0 +1,146 @@
+{
+ "NMOS, 0.3 V underdrive|33.69 dec/V, 99.99%|line, noise": {
+  "none": 3.656094903897597,
+  "slope 0.1, Stark 0.2": 3.2917027441403537,
+  "slope 0.1, Stark 0.5": 2.8028235185939008,
+  "slope 0.2, Stark 0.5": 2.480480927815165
+ },
+ "NMOS, 0.3 V underdrive|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 3.040786249858693,
+  "slope 0.1, Stark 0.2": 2.7428175502491157,
+  "slope 0.1, Stark 0.5": 2.364272369633311,
+  "slope 0.2, Stark 0.5": 2.077956322217318
+ },
+ "bootstrapped (transistor level), 0.3 V underdrive|33.69 dec/V, 99.99%|line, noise": {
+  "none": 1.9581063738304636,
+  "slope 0.1, Stark 0.2": 1.631132833065643,
+  "slope 0.1, Stark 0.5": 0.847985525967023,
+  "slope 0.2, Stark 0.5": 0.843233318998445
+ },
+ "bootstrapped (transistor level), 0.3 V underdrive|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 3.1331155245472644,
+  "slope 0.1, Stark 0.2": 2.825450031020936,
+  "slope 0.1, Stark 0.5": 2.430904172122762,
+  "slope 0.2, Stark 0.5": 2.1389679890736435
+ },
+ "T-switch + OTA buffer|33.69 dec/V, 99.99%|line, noise": {
+  "none": 2.882233815518524,
+  "slope 0.1, Stark 0.2": 2.552909575133819,
+  "slope 0.1, Stark 0.5": 1.9040632311829715,
+  "slope 0.2, Stark 0.5": 1.8040308553678919
+ },
+ "T-switch + OTA buffer|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 2.8757851570879587,
+  "slope 0.1, Stark 0.2": 2.5859770971161242,
+  "slope 0.1, Stark 0.5": 2.1809628618214187,
+  "slope 0.2, Stark 0.5": 1.9409529022614598
+ },
+ "TG + dummies|33.69 dec/V, 99.99%|line, noise": {
+  "none": 3.1287590704239303,
+  "slope 0.1, Stark 0.2": 2.8294816075051017,
+  "slope 0.1, Stark 0.5": 2.431347728097488,
+  "slope 0.2, Stark 0.5": 2.1488115534906247
+ },
+ "TG + dummies|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 2.8996246910778427,
+  "slope 0.1, Stark 0.2": 2.6138662637436676,
+  "slope 0.1, Stark 0.5": 2.234882179210042,
+  "slope 0.2, Stark 0.5": 1.9746142036429783
+ },
+ "TG, no ESD|33.69 dec/V, 99.99%|line, noise": {
+  "none": 0.8920585702616174,
+  "slope 0.1, Stark 0.2": 0.6572850654474677,
+  "slope 0.1, Stark 0.5": 0.2855824955024846,
+  "slope 0.2, Stark 0.5": 0.2843295897109855
+ },
+ "TG, no ESD|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 2.3956378335226174,
+  "slope 0.1, Stark 0.2": 2.1153084829995334,
+  "slope 0.1, Stark 0.5": 1.4328671943132114,
+  "slope 0.2, Stark 0.5": 1.4045910322174717
+ },
+ "TG, ESD on the node|33.69 dec/V, 99.99%|line, noise": {
+  "none": 0.989566801415343,
+  "slope 0.1, Stark 0.2": 0.7384674152239259,
+  "slope 0.1, Stark 0.5": 0.32343883693465936,
+  "slope 0.2, Stark 0.5": 0.32196972979893385
+ },
+ "TG, ESD on the node|33.69 dec/V, 99.99%|quadratic, noise": {
+  "none": 2.507287226146936,
+  "slope 0.1, Stark 0.2": 2.224668838888808,
+  "slope 0.1, Stark 0.5": 1.6029596201885121,
+  "slope 0.2, Stark 0.5": 1.5454403083729285
+ },
+ "NMOS, 0.3 V underdrive|33.69 dec/V, 99.9%|line, noise": {
+  "none": 3.7722083782619507,
+  "slope 0.1, Stark 0.2": 3.401454143906587,
+  "slope 0.1, Stark 0.5": 2.953206728161926,
+  "slope 0.2, Stark 0.5": 2.5806465817082618
+ },
+ "NMOS, 0.3 V underdrive|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 3.0285408987331897,
+  "slope 0.1, Stark 0.2": 2.7311246960130777,
+  "slope 0.1, Stark 0.5": 2.376731265802969,
+  "slope 0.2, Stark 0.5": 2.0735947651415643
+ },
+ "bootstrapped (transistor level), 0.3 V underdrive|33.69 dec/V, 99.9%|line, noise": {
+  "none": 3.1905350476112777,
+  "slope 0.1, Stark 0.2": 2.8146688980084997,
+  "slope 0.1, Stark 0.5": 2.080987473043295,
+  "slope 0.2, Stark 0.5": 1.9749256176395784
+ },
+ "bootstrapped (transistor level), 0.3 V underdrive|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 3.1503954157027936,
+  "slope 0.1, Stark 0.2": 2.8409811030196,
+  "slope 0.1, Stark 0.5": 2.4723024446235478,
+  "slope 0.2, Stark 0.5": 2.156967951613239
+ },
+ "T-switch + OTA buffer|33.69 dec/V, 99.9%|line, noise": {
+  "none": 3.7155603276802656,
+  "slope 0.1, Stark 0.2": 3.3444855825453232,
+  "slope 0.1, Stark 0.5": 2.8664591567225055,
+  "slope 0.2, Stark 0.5": 2.5241268416609066
+ },
+ "T-switch + OTA buffer|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 3.0490491133969897,
+  "slope 0.1, Stark 0.2": 2.7491928983917036,
+  "slope 0.1, Stark 0.5": 2.3890652714394753,
+  "slope 0.2, Stark 0.5": 2.0862226939721817
+ },
+ "TG + dummies|33.69 dec/V, 99.9%|line, noise": {
+  "none": 3.8526895887843597,
+  "slope 0.1, Stark 0.2": 3.4751304442111266,
+  "slope 0.1, Stark 0.5": 3.0145074321578678,
+  "slope 0.2, Stark 0.5": 2.6366289477225715
+ },
+ "TG + dummies|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 3.0577009786131484,
+  "slope 0.1, Stark 0.2": 2.757335270913991,
+  "slope 0.1, Stark 0.5": 2.3986712025545294,
+  "slope 0.2, Stark 0.5": 2.0932419961427007
+ },
+ "TG, no ESD|33.69 dec/V, 99.9%|line, noise": {
+  "none": 2.020959036232661,
+  "slope 0.1, Stark 0.2": 1.679826310590905,
+  "slope 0.1, Stark 0.5": 0.8798888952581962,
+  "slope 0.2, Stark 0.5": 0.8745816836820905
+ },
+ "TG, no ESD|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 2.9165701019854287,
+  "slope 0.1, Stark 0.2": 2.623690304882637,
+  "slope 0.1, Stark 0.5": 2.243391449552048,
+  "slope 0.2, Stark 0.5": 1.9778865617850288
+ },
+ "TG, ESD on the node|33.69 dec/V, 99.9%|line, noise": {
+  "none": 2.164913825107674,
+  "slope 0.1, Stark 0.2": 1.8184250389088499,
+  "slope 0.1, Stark 0.5": 0.987716705032778,
+  "slope 0.2, Stark 0.5": 0.9812758838054894
+ },
+ "TG, ESD on the node|33.69 dec/V, 99.9%|quadratic, noise": {
+  "none": 2.954226503608055,
+  "slope 0.1, Stark 0.2": 2.6598618704864707,
+  "slope 0.1, Stark 0.5": 2.2878729966761093,
+  "slope 0.2, Stark 0.5": 2.010119202118773
+ }
+}
