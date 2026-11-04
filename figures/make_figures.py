@@ -438,11 +438,11 @@ def fig6():
     style6 = {**band_style, "4 K, steep (T_eff 120 K)": "X", trees[0]: "*", trees[1]: "h"}
     col6 = {**band_col, "4 K, steep (T_eff 120 K)": SLOT[5], trees[0]: SLOT[6], trees[1]: SLOT[4]}
     y = np.arange(len(designs))[::-1]
-    quad = load("results/calibration_nonlinear.json")["rows"]     # per-channel quadratic with calibration-point error
+    win = load("results/calibration_accuracy.json")["A"]            # per-channel line over every 0.4 V window
     for d, yy in zip(designs, y):
-        qn = [quad[f"{d}|{bnd}"]["quadratic, noise"][WORST]["margin"] for bnd in bands6 if f"{d}|{bnd}" in quad]
+        qn = [win[f"{d}|{bnd}"]["window"][WORST]["margin_all"] for bnd in bands6 if f"{d}|{bnd}" in win]
         a.plot([min(qn), max(qn)], [yy - 0.45, yy - 0.45], color=INK2, lw=1.6, alpha=0.6,
-               label="quadratic calibration, over the bands" if yy == y[0] else None)
+               label="line over 0.4 V, over the bands" if yy == y[0] else None)
         sh = [tail[f"{d}|{bnd}"]["margin"][f"{WORST}|shared|mixed"] for bnd in bands + ["4 K, steep (T_eff 120 K)"] + trees
               if f"{d}|{bnd}" in tail]                # one calibration line shared by all channels
         a.plot([min(sh), max(sh)], [yy + 0.45, yy + 0.45], color=SLOT[3], lw=1.6, alpha=0.8,
