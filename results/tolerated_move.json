@@ -1,0 +1,2004 @@
+{
+ "B": {
+  "TG|5|300 K": {
+   "tau_node": 1.5200453636821496e-09,
+   "window_V": 1.2,
+   "99.99": 0.0415,
+   "99.9": 0.135
+  },
+  "TG|5|4 K proxy": {
+   "tau_node": 1.5200453636821496e-09,
+   "window_V": 1.2,
+   "99.99": 0.042,
+   "99.9": 0.136
+  },
+  "TG|10|300 K": {
+   "tau_node": 7.965024331670367e-10,
+   "window_V": 1.2,
+   "99.99": 0.019,
+   "99.9": 0.0615
+  },
+  "TG|10|4 K proxy": {
+   "tau_node": 7.965024331670367e-10,
+   "window_V": 1.2,
+   "99.99": 0.021,
+   "99.9": 0.0665
+  },
+  "TG|20|300 K": {
+   "tau_node": 4.3610639397516574e-10,
+   "window_V": 1.2,
+   "99.99": 0.0085,
+   "99.9": 0.027
+  },
+  "TG|20|4 K proxy": {
+   "tau_node": 4.3610639397516574e-10,
+   "window_V": 1.2,
+   "99.99": 0.0105,
+   "99.9": 0.0335
+  },
+  "TG|40|300 K": {
+   "tau_node": 2.5900702024754727e-10,
+   "window_V": 1.2,
+   "99.99": 0.0035,
+   "99.9": 0.012
+  },
+  "TG|40|4 K proxy": {
+   "tau_node": 2.5900702024754727e-10,
+   "window_V": 1.2,
+   "99.99": 0.005,
+   "99.9": 0.0165
+  },
+  "TG + dummies|5|300 K": {
+   "tau_node": 1.5326252312836726e-09,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "TG + dummies|5|4 K proxy": {
+   "tau_node": 1.5326252312836726e-09,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "TG + dummies|10|300 K": {
+   "tau_node": 8.094956031484039e-10,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "TG + dummies|10|4 K proxy": {
+   "tau_node": 8.094956031484039e-10,
+   "window_V": 1.2,
+   "99.99": 0.187,
+   "99.9": 1.2
+  },
+  "TG + dummies|20|300 K": {
+   "tau_node": 4.499517388583938e-10,
+   "window_V": 1.2,
+   "99.99": 0.0745,
+   "99.9": 1.2
+  },
+  "TG + dummies|20|4 K proxy": {
+   "tau_node": 4.499517388583938e-10,
+   "window_V": 1.2,
+   "99.99": 0.066,
+   "99.9": 0.24
+  },
+  "TG + dummies|40|300 K": {
+   "tau_node": 2.7451722958136277e-10,
+   "window_V": 1.2,
+   "99.99": 0.022,
+   "99.9": 0.079
+  },
+  "TG + dummies|40|4 K proxy": {
+   "tau_node": 2.7451722958136277e-10,
+   "window_V": 1.2,
+   "99.99": 0.026000000000000002,
+   "99.9": 0.085
+  },
+  "bootstrapped|5|300 K": {
+   "tau_node": 2.2271696978930007e-10,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "bootstrapped|5|4 K proxy": {
+   "tau_node": 2.2271696978930007e-10,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "bootstrapped|10|300 K": {
+   "tau_node": 1.281893044221746e-10,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "bootstrapped|10|4 K proxy": {
+   "tau_node": 1.281893044221746e-10,
+   "window_V": 1.2,
+   "99.99": 1.2,
+   "99.9": 1.2
+  },
+  "bootstrapped|20|300 K": {
+   "tau_node": 9.588392062161263e-11,
+   "window_V": 1.2,
+   "99.99": 0.2125,
+   "99.9": 1.2
+  },
+  "bootstrapped|20|4 K proxy": {
+   "tau_node": 9.588392062161263e-11,
+   "window_V": 1.2,
+   "99.99": 0.1305,
+   "99.9": 1.2
+  },
+  "bootstrapped|40|300 K": {
+   "tau_node": 8.756391245752146e-11,
+   "window_V": 1.2,
+   "99.99": 0.0485,
+   "99.9": 0.196
+  },
+  "bootstrapped|40|4 K proxy": {
+   "tau_node": 8.756391245752146e-11,
+   "window_V": 1.2,
+   "99.99": 0.0375,
+   "99.9": 0.1505
+  },
+  "NMOS|5|300 K": {
+   "tau_node": 3.3864977405133643e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.6,
+   "99.9": 0.6
+  },
+  "NMOS|5|4 K proxy": {
+   "tau_node": 3.3864977405133643e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.14150000000000001,
+   "99.9": 0.6
+  },
+  "NMOS|10|300 K": {
+   "tau_node": 1.954694432086712e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.6,
+   "99.9": 0.6
+  },
+  "NMOS|10|4 K proxy": {
+   "tau_node": 1.954694432086712e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.0455,
+   "99.9": 0.6
+  },
+  "NMOS|20|300 K": {
+   "tau_node": 1.2451628044689459e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.058,
+   "99.9": 0.6
+  },
+  "NMOS|20|4 K proxy": {
+   "tau_node": 1.2451628044689459e-10,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.0195,
+   "99.9": 0.073
+  },
+  "NMOS|40|300 K": {
+   "tau_node": 8.87626699682617e-11,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.014,
+   "99.9": 0.048
+  },
+  "NMOS|40|4 K proxy": {
+   "tau_node": 8.87626699682617e-11,
+   "window_V": 0.6000000000000001,
+   "99.99": 0.0095,
+   "99.9": 0.0325
+  }
+ },
+ "A": {
+  "NMOS, 0.3 V underdrive|300 K": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 1477.3614298344096,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 4625.873435630755,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|77 K proxy": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1669.115524175234,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 5225.852913722979,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K proxy": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1318.1886452686645,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 4127.302141813632,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K high": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1028.3101339065695,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 3220.018424847801,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|77 K Beall fit": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 876.2887736842938,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 2744.0365838773773,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, Beall pMOS": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1291.0642408650826,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 4042.374530889243,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 4203.808009665405,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1378.9383156676672,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 4317.048330577253,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, tree, one reticle": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1378.9370438166982,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 4317.044371473832,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 645.8718591554511,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 2020.5675849160505,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 213.7439842242442,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 668.9578192545821,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 156.24624846019532,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 489.0252489269708,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 155.34179124724284,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 486.3419972859118,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|77 K Beall fit": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 312.7754660747397,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 978.3677902991851,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, Beall pMOS": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 307.11308450551525,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 960.9781785669384,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 120 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 105.01429249407686,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 328.6785992902681,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, ESD-dominated droop": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     0.4,
+     1.2
+    ],
+    "margin_1mV": 125.39474241597011,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 392.4704612540284,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, tree, one reticle": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.2,
+     1.2
+    ],
+    "margin_1mV": 120.89189953555936,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 378.3475784608973,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 398.32253273277604,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 1244.0310575232133,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|77 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 189.26834837982494,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 591.2988419227501,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 206.66521080556237,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 645.668820170043,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 221.59007024785467,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 692.3458096616478,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|77 K Beall fit": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 269.5767340347843,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 842.4463793305191,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K, Beall pMOS": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 276.88715895461246,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 865.1418104694523,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K, steep (T_eff 120 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 104.08728149793524,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 324.90416265139066,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K, tree, ESD-dominated droop": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 272.5323047208464,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 850.4518855562454,
+    "whole_window": true
+   }
+  },
+  "T-switch + OTA buffer|4 K, tree, one reticle": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 371.3561457452926,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 1158.7265753758486,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 285.87682297965716,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 892.0350377743639,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|77 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 251.5330753519271,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 784.9082036386353,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 245.50165541795928,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 766.1020756913307,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 246.27412225871092,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 768.5095320270657,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|77 K Beall fit": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 506.9246454458938,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 1582.5105700134386,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, Beall pMOS": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 498.981981492916,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 1557.619913792361,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, steep (T_eff 120 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 198.2890721593341,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 618.7630229121171,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, tree, ESD-dominated droop": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 274.3801413680171,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 856.0821111271798,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, tree, one reticle": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 274.3748130938865,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 856.065503883807,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.17505498340444148,
+    "ci90_V": [
+     0.17116533243991766,
+     0.1805496435789289
+    ],
+    "margin_1mV": 63.472266448086216,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 198.8821498261397,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|77 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.1977109645902841,
+    "ci90_V": [
+     0.1946367551524317,
+     0.2
+    ],
+    "margin_1mV": 71.00003569254845,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 222.46816002656237,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.16855203566057214,
+    "ci90_V": [
+     0.16720673233204328,
+     0.16973998229173506
+    ],
+    "margin_1mV": 61.29770506659349,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 192.07410149801285,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.15429866556394606,
+    "ci90_V": [
+     0.15206940591274867,
+     0.15729905951451534
+    ],
+    "margin_1mV": 56.50776943021247,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 177.08366689353363,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|77 K Beall fit": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 139.16981765242048,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 436.06668857454827,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, Beall pMOS": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 124.61845106253436,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 390.4918454417957,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, steep (T_eff 120 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.1931934485451999,
+     0.2
+    ],
+    "margin_1mV": 71.92970910976761,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 225.3209951812291,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, tree, ESD-dominated droop": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.17437498134664706,
+    "ci90_V": [
+     0.1720701056449295,
+     0.1775588738045703
+    ],
+    "margin_1mV": 63.2451795624408,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 198.1848302827503,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, tree, one reticle": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.17437361644435034,
+    "ci90_V": [
+     0.1719855036541946,
+     0.17758315274681788
+    ],
+    "margin_1mV": 63.244723682553676,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 198.18338412745192,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.18295540700310886,
+    "ci90_V": [
+     0.1786100718427845,
+     0.1889421034831915
+    ],
+    "margin_1mV": 66.10557456602366,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 207.13618109829457,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|77 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 80.71984033527627,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 252.92607400593815,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.1941497098386779,
+    "ci90_V": [
+     0.19270713564904732,
+     0.19576703666650092
+    ],
+    "margin_1mV": 69.82148656928143,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 218.78489030089827,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.17155904253256626,
+    "ci90_V": [
+     0.16877275194595434,
+     0.17476843849386628
+    ],
+    "margin_1mV": 62.30404675865398,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 195.24909992662742,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|77 K Beall fit": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6000000000000001,
+    "ci90_V": [
+     0.6000000000000001,
+     0.6000000000000001
+    ],
+    "margin_1mV": 361.14010959435416,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6000000000000001,
+    "ci90_V": [
+     0.6000000000000001,
+     0.6000000000000001
+    ],
+    "margin_1mV": 1130.9634686501568,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K, Beall pMOS": {
+   "window_V": 0.39999999999999997,
+   "99.99": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 1416.997262541987,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K, steep (T_eff 120 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 80.54599240792525,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 252.31031966621458,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K, tree, ESD-dominated droop": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.1979356438294276,
+     0.2
+    ],
+    "margin_1mV": 72.03103083328101,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 225.71771963511245,
+    "whole_window": true
+   }
+  },
+  "TG, ESD on the node|4 K, tree, one reticle": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.19887944881479888,
+     0.2
+    ],
+    "margin_1mV": 72.03048176714628,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 225.71599972926734,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive|300 K": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive|4 K proxy": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive|4 K high": {
+   "window_V": 0.6000000000000001,
+   "99.99": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.6,
+    "ci90_V": [
+     0.6,
+     0.6
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "GF180 bootstrapped (transistor level), 0.3 V underdrive|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 1830.5897615216386,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   }
+  },
+  "GF180 bootstrapped (transistor level), 0.3 V underdrive|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 718.2926818876243,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 2251.046648811193,
+    "whole_window": true
+   }
+  },
+  "GF180 bootstrapped (transistor level), 0.3 V underdrive|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 737.833765015103,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 2312.1614319425767,
+    "whole_window": true
+   }
+  },
+  "GF180 TG + dummies|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 218.26633982643412,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 681.305163789467,
+    "whole_window": true
+   }
+  },
+  "GF180 TG + dummies|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 230.45412964089425,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 719.2170101383751,
+    "whole_window": true
+   }
+  },
+  "GF180 TG + dummies|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 205.5545283374145,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 641.5252368328229,
+    "whole_window": true
+   }
+  },
+  "GF180 TG, no ESD|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.09491527517794586,
+    "ci90_V": [
+     0.09423936903093746,
+     0.09581563247204035
+    ],
+    "margin_1mV": 36.12246650916098,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 113.22687968918231,
+    "whole_window": false
+   }
+  },
+  "GF180 TG, no ESD|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.08556132151957067,
+    "ci90_V": [
+     0.08548743563152532,
+     0.0856692363171825
+    ],
+    "margin_1mV": 32.830959508841474,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 102.926029437233,
+    "whole_window": false
+   }
+  },
+  "GF180 TG, no ESD|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.0856865784351904,
+    "ci90_V": [
+     0.08553539314633297,
+     0.08590043952537091
+    ],
+    "margin_1mV": 32.87521713793849,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 103.06185839032318,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive, 0.3-1.5 V|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive, 0.3-1.5 V|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   }
+  },
+  "GF180 NMOS, 0.3 V underdrive, 0.3-1.5 V|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 3103.6623215394166,
+    "whole_window": true
+   }
+  },
+  "GF180 TG, no ESD, W 0.42|300 K": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 88.45791332768374,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 277.2396806813627,
+    "whole_window": true
+   }
+  },
+  "GF180 TG, no ESD, W 0.42|4 K proxy": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 79.36780355042711,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 248.80247975999998,
+    "whole_window": true
+   }
+  },
+  "GF180 TG, no ESD, W 0.42|4 K high": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.2,
+    "ci90_V": [
+     0.2,
+     0.2
+    ],
+    "margin_1mV": 79.31580880782722,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 248.65907130633587,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 30 K)": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, steep (T_eff 20 K)": {
+   "window_V": 0.39999999999999997,
+   "99.99": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 1.5": {
+   "window_V": 0.5,
+   "99.99": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 1207.7653896369413,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.5,
+    "ci90_V": [
+     0.5,
+     0.5
+    ],
+    "margin_1mV": 3779.649857962009,
+    "whole_window": true
+   }
+  },
+  "NMOS, 0.3 V underdrive|4 K, mismatch x 2": {
+   "window_V": 0.39999999999999997,
+   "99.99": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 2306.7264848050345,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 0.4,
+    "ci90_V": [
+     0.4,
+     0.4
+    ],
+    "margin_1mV": 6184.291898577613,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 30 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.18392777620246634,
+    "ci90_V": [
+     0.1721220912356865,
+     0.2
+    ],
+    "margin_1mV": 66.42904781086038,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 207.89994763457977,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.17643866494899998,
+    "ci90_V": [
+     0.16010916795270574,
+     0.2
+    ],
+    "margin_1mV": 63.93413216273479,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 199.8780759025755,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, mismatch x 1.5": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 143.37077832010402,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 448.5177420365458,
+    "whole_window": true
+   }
+  },
+  "bootstrapped (transistor level), 0.3 V underdrive|4 K, mismatch x 2": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     0.4,
+     1.2
+    ],
+    "margin_1mV": 130.63855020651854,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 408.5085209535739,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, steep (T_eff 30 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 178.6489730068317,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 557.4956651633642,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, steep (T_eff 20 K)": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 176.80351299948376,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 551.7400701126719,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, mismatch x 1.5": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 177.94590601050044,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 555.2203189836875,
+    "whole_window": true
+   }
+  },
+  "TG + dummies|4 K, mismatch x 2": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     0.2,
+     1.2
+    ],
+    "margin_1mV": 138.47451178778223,
+    "whole_window": true
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 432.0495050946997,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, mismatch x 1.5": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.16417519886153034,
+    "ci90_V": [
+     0.16127930783077324,
+     0.16953449805429996
+    ],
+    "margin_1mV": 59.83038066157872,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 187.44245135583583,
+    "whole_window": true
+   }
+  },
+  "TG, no ESD|4 K, mismatch x 2": {
+   "window_V": 1.2,
+   "99.99": {
+    "dmax_V": 0.15962024922913945,
+    "ci90_V": [
+     0.15536809828135023,
+     0.1662853734436923
+    ],
+    "margin_1mV": 58.300052858253096,
+    "whole_window": false
+   },
+   "99.9": {
+    "dmax_V": 1.2,
+    "ci90_V": [
+     1.2,
+     1.2
+    ],
+    "margin_1mV": 182.60856764480138,
+    "whole_window": true
+   }
+  }
+ }
+}
