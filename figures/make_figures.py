@@ -271,6 +271,7 @@ def fig3():
     # (b) largest move from a tuned level within budget, against switch width over node capacitance
     mv = load("results/tolerated_move.json")
     mv14 = load("results/combined_case_move.json")
+    mv15 = load("results/combined_case_fine_move.json")       # bootstrapped switch, combined case, 20 mV grid
     wide = {"TG": "TG", "TGD": "TG + dummies", "BOOT": "bootstrapped", "NSW": "NMOS"}
     design = {"TG": ("TG, no ESD", 1.0), "TGD": ("TG + dummies", 1.0), "NSW": ("NMOS, 0.3 V underdrive", 0.42),
               "BOOT": ("bootstrapped (transistor level), 0.3 V underdrive", 0.42)}
@@ -280,9 +281,11 @@ def fig3():
         d = [mv["B"][f"{name}|{w}|4 K proxy"] for w in ws]
         b.loglog(ws, [r["99.99"] * 1e3 for r in d], color=col, marker=mk)
         dn, w0 = design[k]
-        rows = [r["99.99"] for key, r in {**mv["A"], **mv14}.items() if key.split("|")[0] == dn]
+        rows = [r["99.99"] for key, r in {**mv["A"], **mv14, **mv15}.items() if key.split("|")[0] == dn]
         low = min(r["dmax_V"] for r in rows) * 1e3
-        b.loglog([w0], [low], color=col, marker=mk, mfc="white", ms=7, ls="none")
+        band = mv["A"][f"{dn}|4 K proxy"]["99.99"]["dmax_V"] * 1e3       # same band as the lines
+        b.loglog([w0, w0], [band, low], color=col, lw=1.0, marker="_", ms=6)
+        b.loglog([w0], [band], color=col, marker=mk, mfc="white", ms=7, ls="none")
     for key, w0 in (("GF180 TG, no ESD|4 K proxy", 1.0), ("GF180 TG, no ESD, W 0.42|4 K proxy", 0.42)):
         b.loglog([w0], [mv["A"][key]["99.99"]["dmax_V"] * 1e3], color=ARCH["TG"][1], marker="D", mfc="white", ms=5, ls="none")
     b.axhspan(0.1, 1.0, color=GRID, zorder=0)
