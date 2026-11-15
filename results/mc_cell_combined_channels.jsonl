@@ -1,0 +1,882 @@
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.4, "ped": -0.00036104653453755686, "track": -8.282224905897806e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": -0.00037716004498306033, "track": -8.104850124368568e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": -0.0002439127954810827, "track": -0.06286804578114846}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -0.0002872643681406384, "track": -8.789935446174013e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.6, "ped": -0.0003046637691203058, "track": -8.629919001634789e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.4, "ped": -0.0003563367452126265, "track": -8.29148416592318e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.6, "ped": -0.0003115492566304612, "track": -8.453882038850224e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": -0.00033621466977795667, "track": -8.325590217239665e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.6, "ped": -0.00031217703445984846, "track": -8.553457941928855e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.4, "ped": -0.00036256322038386024, "track": -8.276374030558031e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": -0.00038112128444839355, "track": -8.15301715029193e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.8, "ped": -0.0002625874176844789, "track": -1.0644884973487478e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.6, "ped": -0.0003072669662432803, "track": -8.598666223491591e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": -0.0002830216809005526, "track": -8.69765370836717e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -0.00024613901700587526, "track": -0.05079562147180772}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": -0.000331713605140449, "track": -8.512224258794276e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.8, "ped": -0.00025901638635550395, "track": -1.2188006159874476e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": -0.00028087547252197975, "track": -8.893974445811637e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -0.00024469451267927766, "track": -0.05960517085791506}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.4, "ped": -0.0003528252387794417, "track": -8.370260040635458e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.8, "ped": -0.00026283384413583466, "track": -1.0576073350421211e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": -0.00032865509811308424, "track": -8.433348464009782e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -0.00033728556337919713, "track": -8.35896907247502e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": -0.0002458589723169924, "track": -0.046349985992308884}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": -0.0003860336988174007, "track": -8.155576214363691e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -0.0003879965650736006, "track": -8.179529276119979e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.8, "ped": -0.000257328239163912, "track": -1.2995315934460905e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": -0.0002870757115794875, "track": -8.690492769858338e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -0.0003885037952182091, "track": -8.131895157248437e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -0.00033876486542355755, "track": -8.509659643607392e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.6, "ped": -0.0003141342978192352, "track": -8.405653950660508e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.4, "ped": -0.0003635577696264325, "track": -8.280781615965793e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.8, "ped": -0.00026546530820015235, "track": -9.874001616339001e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -0.0002896882736069806, "track": -8.712885968265027e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.4, "ped": -0.00035958815766806707, "track": -8.191508582555684e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.6, "ped": -0.0003043813010322749, "track": -8.585265831584366e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -0.0003342170609558215, "track": -8.49322834284294e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -0.00037782762524640745, "track": -8.165573772700441e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -0.00032868598394741877, "track": -8.503159287798212e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.4, "ped": -0.00035317209478902267, "track": -8.361272785251117e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.6, "ped": -0.0003090245589392193, "track": -8.428624465040002e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": -0.0003763830921484912, "track": -8.269063211940875e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.4, "ped": -0.0003522099550651303, "track": -8.340295121200825e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.8, "ped": -0.0002564305218950569, "track": -1.5896051142050283e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -0.0003851246041154943, "track": -8.157269304476245e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.8, "ped": -0.0002592927585965965, "track": -1.3302192680697544e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -0.0002802830780849197, "track": -8.933498385488292e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.8, "ped": -0.00025735008776428536, "track": -1.2784784342301236e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": -0.0002807394921562345, "track": -9.087453012313063e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.0002466663068819708, "track": -0.035931300919481046}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -0.00028403630519791, "track": -8.76728689647166e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.6, "ped": -0.0003043687593016209, "track": -8.446054966526617e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": -0.00024402800008849201, "track": -0.0688569479875818}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": -0.00032820027893154524, "track": -8.528650008443606e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": -0.00024377178169843194, "track": -0.06153916037828144}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -0.00024543285256495295, "track": -0.06411527674225104}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": -0.00038550229416678405, "track": -8.227524217474524e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": -0.00033571790993341954, "track": -8.487355263042673e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.4, "ped": -0.0003605321996101307, "track": -8.193590250726857e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.6, "ped": -0.0003110708650565508, "track": -8.428857611875173e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": -0.000286617035757164, "track": -8.75185479642937e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.8, "ped": -0.0002623959738629056, "track": -1.0496103985957461e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": -0.00024571961180641644, "track": -0.04790137226874447}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": -0.00040534901053185246, "track": -8.209338764331164e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": -0.00038484117879145074, "track": -8.102674087240302e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.4, "ped": -0.0003793786254386311, "track": -8.2142681545605e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": -0.0003535460622514641, "track": -8.48715542289824e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -0.00028378162654907335, "track": -8.634748471791909e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.8, "ped": -0.00027702837398480007, "track": -9.300193948291735e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -0.0003314386768487054, "track": -8.573608489825801e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.6, "ped": -0.0003278612152401994, "track": -8.397749162725177e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": -0.00025235339607987406, "track": -0.004211933140846336}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -0.0003797872115304801, "track": -8.215322866433894e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": -0.00030234344885471387, "track": -8.755773883706297e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.6, "ped": -0.00030751263887718316, "track": -8.562883735407922e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": -0.00028591855666870725, "track": -8.702938369964386e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": -0.00033503470512302735, "track": -8.383516103549482e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.4, "ped": -0.000359859750610092, "track": -8.224215752861141e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": -0.0002445659328946803, "track": -0.05042749067253727}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.6, "ped": -0.00031037884828444273, "track": -8.398304274237489e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.8, "ped": -0.00026028366315888896, "track": -1.0893574931003513e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.4, "ped": -0.0003555340754390346, "track": -8.303752130345288e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.8, "ped": -0.00026169297429934346, "track": -1.0917133863586059e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": -0.0002455332699388135, "track": -0.050706674515495376}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": -0.00039607931893631543, "track": -8.187162059414277e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.4, "ped": -0.0003706921415447817, "track": -8.149025898518403e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": -0.00034545088663490153, "track": -8.452549771220674e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.6, "ped": -0.00032036529376899825, "track": -8.429901221518321e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.8, "ped": -0.0002707598590803162, "track": -9.564204983547597e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": -0.00029545590123847276, "track": -8.785006055944677e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": -0.00036493678989990563, "track": -8.122380545927399e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.4, "ped": -0.00034072839365911767, "track": -8.27704571548793e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.0002489702531182081, "track": -0.02002595256016859}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": -0.00031670392549459914, "track": -8.477540891504987e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -0.0003729900591795121, "track": -8.182660105049422e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.6, "ped": -0.00029287768062813413, "track": -8.66637872576348e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.4, "ped": -0.0003483985065687589, "track": -8.197043044333441e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.8, "ped": -0.00024772500133019015, "track": -0.014905696944279678}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": -0.00026927988959124516, "track": -9.115563859296572e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -0.00032398338732836374, "track": -8.525857797536673e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -0.00024217930080461247, "track": -0.10849102675746869}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.6, "ped": -0.000299757094273434, "track": -8.557954345178587e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": -0.0003856255133857234, "track": -8.159406483798648e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -0.00027574663470730787, "track": -8.891631875229677e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": -0.0003354782288725322, "track": -8.663758599425364e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.8, "ped": -0.0002616331801064131, "track": -1.100859403635468e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.4, "ped": -0.0003604735948376514, "track": -8.310668819788702e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.8, "ped": -0.00025197842141710947, "track": -0.0001366152505517526}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": -0.00028602519051845743, "track": -8.761313896599177e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.6, "ped": -0.00031065329413371146, "track": -8.322198485899435e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -0.0002456554625320795, "track": -0.052266878260745275}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": -0.00024324898816341367, "track": -0.08622384121773341}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -0.0004020997101266133, "track": -8.087269742773628e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.4, "ped": -0.000376663102282071, "track": -8.293093989308886e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -0.0003513647196660141, "track": -8.508116433603163e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.6, "ped": -0.00032621381790065573, "track": -8.39951441733433e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -0.0003012289162094284, "track": -8.645284488295601e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.8, "ped": -0.00027644425853701193, "track": -9.245759713394364e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.0002520599457295214, "track": -0.0023325612936170304}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": -0.00033905404415141005, "track": -8.408951313043644e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.4, "ped": -0.00036337238769340585, "track": -8.277839524950537e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": -0.0003878404717043704, "track": -8.184986022286012e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.8, "ped": -0.000267151629583795, "track": -9.51796419457196e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.6, "ped": -0.0003148954043880048, "track": -8.464018375065052e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.4, "ped": -0.00034628104363293444, "track": -8.260653272529339e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -0.0003708061494981929, "track": -8.240885751575888e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": -0.0002909159358133184, "track": -8.719291955117114e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -0.00032193500156862953, "track": -8.458445055481434e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": -0.00024701626467948934, "track": -0.0254593280803026}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -0.00039126049914889327, "track": -8.202344359276026e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.4, "ped": -0.0003663504822490893, "track": -8.193834499792274e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -0.00034158915486720565, "track": -8.461059630704426e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.6, "ped": -0.00029778029926663674, "track": -8.564471354333136e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -0.00027384550910236616, "track": -9.006551060508627e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.8, "ped": -0.0002683532434462066, "track": -9.744260953681305e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -0.00024295128088724915, "track": -0.09316201316747863}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.8, "ped": -0.0002503547204950607, "track": -0.0027073578179669378}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -0.00029256197516869253, "track": -8.699096998299183e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": -0.0002477295265971291, "track": -0.024759954182796973}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.6, "ped": -0.0003169861147561681, "track": -8.482947677634911e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -0.00038495554107653707, "track": -8.167228005007132e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.4, "ped": -0.00036021753546428004, "track": -8.165035314533498e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.6, "ped": -0.0003112172128323376, "track": -8.550693486597538e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -0.00033563458888064, "track": -8.41718361677124e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -0.0002869893875224738, "track": -8.889955438462493e-11}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.8, "ped": -0.0002629907035957002, "track": -1.033699792429843e-10}
+{"design": "NMOS, 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -0.0002457194416294328, "track": -0.04373197662736161}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": -0.0009423024860688023, "track": -1.1148459932996957e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": -0.0009509474328665002, "track": -1.0946488160357148e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": -0.0009099085766861026, "track": -1.107588465387721e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": -0.000929839201108229, "track": -1.1018019829833747e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": -0.0009605159207968228, "track": -1.0960654606151365e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": -0.0009530114611223106, "track": -1.1145223632880175e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -0.0009258886080432127, "track": -1.1160672386267834e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": -0.000917567796108465, "track": -1.1053025161800178e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.3, "ped": -0.0007083348004721657, "track": -1.0789968918345494e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.3, "ped": -0.0006852489226139014, "track": -1.0610801126631486e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.1, "ped": -0.0008510642647523436, "track": -1.129263349497478e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.5, "ped": -0.0005843723140399604, "track": -1.0735767830283294e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -0.0009629920665424896, "track": -1.0944634087906024e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.3, "ped": -0.0008125996334575891, "track": -1.0968825847612607e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.1, "ped": -0.0009166882834461543, "track": -1.0996425992004788e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.5, "ped": -0.0006486787328314758, "track": -1.1212186734610441e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.5, "ped": -0.0005769013671275136, "track": -1.0936851424503402e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -0.0009115978400476288, "track": -1.1051071169276838e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.1, "ped": -0.0008442141833060468, "track": -1.1538925370757624e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -0.0009509834117232274, "track": -1.119330739207669e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -0.0009702288851891616, "track": -1.0988399079536748e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": -0.0009467305568408024, "track": -1.1086842555130261e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": -0.0009168756122014399, "track": -1.1001310973313139e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": -0.0009578361502242672, "track": -1.0897194258063791e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": -0.0009403416565553213, "track": -1.100894930772256e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.1, "ped": -0.0008805225360697388, "track": -1.1445422387623694e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.3, "ped": -0.0007609234424619249, "track": -1.1261303001219858e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.5, "ped": -0.0006106758286141822, "track": -1.0960943264137768e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.5, "ped": -0.0005782371562856881, "track": -1.0943956851861003e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.5, "ped": -0.0006672248993033758, "track": -1.083286793601701e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -0.0009197472653513783, "track": -1.1028089552667097e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -0.0009271486646411642, "track": -1.0897105440221821e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.3, "ped": -0.0008186293184149207, "track": -1.0814660278413157e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.5, "ped": -0.000595549887246527, "track": -1.0453504728502594e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -0.0009449918362610665, "track": -1.0753153922848924e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.3, "ped": -0.0007303484387453096, "track": -1.0830092378455447e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.0009482802859672734, "track": -1.117655967775022e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -0.0009276971808050982, "track": -1.1090078855247043e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.1, "ped": -0.0009036666725834586, "track": -1.1226508611628105e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -0.000923600822709647, "track": -1.1158013402123856e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -0.0008994135762042665, "track": -1.1043116421305399e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": -0.0009409719346109569, "track": -1.113642511541002e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.1, "ped": -0.0007828743338829103, "track": -1.1563661139746273e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": -0.0009215029965276567, "track": -1.11577358463677e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -0.0008843711781754138, "track": -1.1048884029918327e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.1, "ped": -0.0008738210624494869, "track": -1.135083138592563e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.3, "ped": -0.0006198603177898221, "track": -1.1270295807719322e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -0.0009574091016316122, "track": -1.1137835098651294e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -0.000970094994179993, "track": -1.0841227915392437e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -0.0008848346175174271, "track": -1.1118750364857988e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": -0.0009018042484108535, "track": -1.1050321768735216e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": -0.0009172699021408048, "track": -1.094876411755763e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": -0.000878668424994733, "track": -1.108856340081843e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.5, "ped": -0.0005685313764791644, "track": -1.1024336998843864e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.3, "ped": -0.0006490092281443705, "track": -1.1202261340770292e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.1, "ped": -0.0007905555661735786, "track": -1.1382073061838582e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": -0.0008993806905355228, "track": -1.1047179837575527e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": -0.000947785501992926, "track": -1.0893796975608439e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": -0.0009342507783107745, "track": -1.1116307874203812e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": -0.0009289984504897708, "track": -1.0931389127222246e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.5, "ped": -0.0005987260286512974, "track": -1.1224132734355408e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": -0.001056197926117386, "track": -1.1085327100701647e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.3, "ped": -0.0009083370460145623, "track": -1.0773981706790892e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.1, "ped": -0.0010258491345094267, "track": -1.095732393707749e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.5, "ped": -0.0007116534441626854, "track": -1.1286482859418356e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": -0.0009844664975896533, "track": -1.1209955186330944e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": -0.0010065096787640893, "track": -1.1048101322685966e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": -0.0009464992512354664, "track": -1.1024758883593222e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.1, "ped": -0.000864254075314097, "track": -1.1477285788430436e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": -0.0010810882115326326, "track": -1.0774270364777294e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": -0.0010758185428866307, "track": -1.1161493951306056e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": -0.0009529869121075452, "track": -1.108462210908101e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.5, "ped": -0.0006124751749450041, "track": -1.0523582005816934e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.1, "ped": -0.0008887251371705318, "track": -1.1028089552667097e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -0.0009177951988177946, "track": -1.0999529065358615e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -0.0009507956490542036, "track": -1.1161771507062213e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.3, "ped": -0.000735801069110309, "track": -1.1429368562687614e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": -0.0009672358845743689, "track": -1.1058376436778872e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -0.0009634447449374806, "track": -1.0843004272231838e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.3, "ped": -0.0007697603287966093, "track": -1.0842038378200414e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": -0.0009917461643005332, "track": -1.0797485128222206e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.1, "ped": -0.0008961172184358546, "track": -1.1469936112007417e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.3, "ped": -0.0007576587828210801, "track": -1.0637291047999042e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.5, "ped": -0.0006050439705702626, "track": -1.091748913495394e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": -0.0009601778539273242, "track": -1.1039408276403151e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": -0.0010281056319634274, "track": -1.071178701295139e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.0010205980927753266, "track": -1.1223566520612849e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": -0.001004955269161667, "track": -1.1136408462064651e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": -0.0008530560402410514, "track": -1.0994860577540067e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.5, "ped": -0.000675367190878573, "track": -1.0630163416180949e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.3, "ped": -0.0008572690653185777, "track": -1.1314482684099403e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.1, "ped": -0.0009709903336807546, "track": -1.1170531166726505e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": -0.0008723056083637659, "track": -1.0981110465380084e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -0.0008063941422041809, "track": -1.1087197826498141e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": -0.0008614504157244962, "track": -1.0925560456342964e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.5, "ped": -0.0005488045428361232, "track": -1.0734990674166056e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -0.0008837942456703107, "track": -1.1068590488605423e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -0.000910668695767225, "track": -1.1179324133081536e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.1, "ped": -0.0006902139492104276, "track": -1.1688428003253648e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -0.0009450227049763171, "track": -1.1217449191747164e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.1, "ped": -0.0008311442943198522, "track": -1.1483747286433754e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.3, "ped": -0.0005470666477767061, "track": -1.085300738168371e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": -0.0009779517478858413, "track": -1.0783651749335377e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": -0.00097412582201023, "track": -1.1190337545485818e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -0.0009158994241909024, "track": -1.0766398883532702e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": -0.0009432730132067912, "track": -1.1047940340347395e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": -0.0008941094121747151, "track": -1.1440881575452977e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.3, "ped": -0.0007078882027631295, "track": -1.0944156692005436e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.5, "ped": -0.0005817558181919757, "track": -1.1304801539324671e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.5, "ped": -0.0005878677333666094, "track": -1.0702594366307494e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.3, "ped": -0.0006979854546693698, "track": -1.0612111189800544e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.1, "ped": -0.0008563651686230855, "track": -1.1487277795652062e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -0.0009507421145436568, "track": -1.1079065442842762e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.0009726914411881671, "track": -1.114471848140397e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -0.000985285539634173, "track": -1.1244893904915898e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -0.0009962715323738047, "track": -1.1108292063966019e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": -0.0009698827794779596, "track": -1.0984896325894056e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.5, "ped": -0.0006184265608899508, "track": -1.1351852791108286e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": -0.001005199116457356, "track": -1.1287470957910273e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.1, "ped": -0.0008997443234695091, "track": -1.0958900453772458e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": -0.0010100878775172184, "track": -1.1128165056106809e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": -0.0010249062507377005, "track": -1.0923018045616573e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.3, "ped": -0.0007663303399720878, "track": -1.0923661974970855e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.1, "ped": -0.000936621080288802, "track": -1.0986345166941192e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.5, "ped": -0.0006252411739910979, "track": -1.069440092038576e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.3, "ped": -0.000798490649552841, "track": -1.0901946012609187e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -0.0008763292398712985, "track": -1.1072309735737917e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -0.0009416453941869518, "track": -1.1035894420530212e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -0.0009793218745267063, "track": -1.1152723189411518e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.1, "ped": -0.0009161724958035578, "track": -1.1207546002367508e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -0.00099486900839596, "track": -1.0968959074375562e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": -0.000978547841086863, "track": -1.0911627157383919e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -0.0009029978552264617, "track": -1.1168455049670456e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.5, "ped": -0.0005665953508542376, "track": -1.1240963715408725e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.5, "ped": -0.0006252413468295082, "track": -1.1079626105470197e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.3, "ped": -0.0006420428507127873, "track": -1.0679546136316276e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -0.0008739390765970523, "track": -1.11892051180007e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.1, "ped": -0.0007913367917193881, "track": -1.1632694807417465e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -0.0009056427017940516, "track": -1.0791945115329327e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.3, "ped": -0.0007891777366528796, "track": -1.0981704434698258e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -0.000962646572899184, "track": -1.1020390155991322e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -0.0010057153160514254, "track": -1.1025769186545631e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -0.000984574155178275, "track": -1.111726266600499e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -0.000995304280284548, "track": -1.1040024450181818e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.1, "ped": -0.0009164153648846263, "track": -1.1501977148498099e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.5, "ped": -0.0006184721604391985, "track": -1.1059975157934332e-10}
+{"design": "bootstrapped (transistor level), 0.3 V underdrive", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.3, "ped": -0.0007830030102871088, "track": -1.1023337798121702e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": 7.153534552051255e-06, "track": 1.8720511030245746e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": 3.165809189464852e-06, "track": 2.4060161640804267e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": 1.7910605023541137e-06, "track": 2.379310082289976e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.5, "ped": -4.249104917497526e-05, "track": 1.25149224317056e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.3, "ped": -3.805897103470457e-05, "track": 1.200166632742139e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.1, "ped": -3.6064697585214134e-05, "track": 1.1995560100785951e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": 7.561575487119443e-05, "track": 1.4474709320033696e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -6.0750273661702714e-05, "track": 0.07285853674818799}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.5, "ped": -3.9068771206851594e-05, "track": 1.0945644390858433e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -2.537968967319948e-06, "track": 1.539593313948373e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": 6.349469538968755e-05, "track": 1.8156994796569847e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.3, "ped": -5.00087472699029e-06, "track": 1.1514833531123259e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": 5.386613361890724e-05, "track": 1.919396863669931e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.3, "ped": -4.0175788023288916e-05, "track": 1.1605894023603014e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -4.0179017393171534e-06, "track": 1.9345538504467186e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.1, "ped": -1.0002106676898492e-05, "track": 1.2135203952823304e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.5, "ped": -2.4907904387916346e-06, "track": 1.0896350488565076e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -2.968131055491874e-06, "track": 2.0863766270196038e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.1, "ped": -4.3563165023297046e-05, "track": 1.2594369991347776e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -7.837846589064945e-05, "track": 0.0847519162259851}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": 5.737246984716116e-06, "track": 0.05635300330439419}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": 3.0369701269794547e-05, "track": 1.5619548099365943e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": 2.249038365098599e-05, "track": 1.969556073788681e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": 1.7176482136282978e-05, "track": 2.0698642799743538e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": 2.5013452523037216e-05, "track": 0.057188549462992344}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.1, "ped": 3.984858855332618e-05, "track": 1.213500411267887e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.3, "ped": 4.457434552906925e-05, "track": 1.1920997522452126e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.5, "ped": 4.6623668068068724e-05, "track": 1.1140799394127043e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -2.655883004554216e-05, "track": 2.395611120586949e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -2.826906784542116e-05, "track": 3.1703126790461056e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.5, "ped": -0.00015248238871912179, "track": 1.0549427997830207e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.3, "ped": -0.00013720966106323118, "track": 1.1520984166679682e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -4.621059206677547e-06, "track": 1.2018586403872433e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -2.7272327948191233e-05, "track": 3.043477692088459e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -7.714953708937156e-06, "track": 1.4757005617482832e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.1, "ped": -0.00012411520344191018, "track": 1.204973898438766e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.00016404568755923332, "track": 0.08260106878058127}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -1.0569947879623953e-05, "track": 1.599216797876224e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -1.696918648974588e-05, "track": 2.0220988217189984e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -8.29521286715984e-06, "track": 1.7413459563186962e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.5, "ped": 6.353775921885685e-05, "track": 1.0964273933211643e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.3, "ped": 5.5024964987326896e-05, "track": 1.1977663305628994e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.1, "ped": 4.3943319083306065e-05, "track": 1.1134160260439785e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.5, "ped": 5.902331375651215e-06, "track": 1.0096412594862159e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -2.0523582463405354e-05, "track": 2.122753084421447e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": 2.0502861926008364e-06, "track": 0.06984236522804677}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.1, "ped": 4.3389602368826274e-06, "track": 1.276738714750536e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.3, "ped": 6.220523207201012e-06, "track": 1.1994161219774924e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -2.519663503075531e-05, "track": 0.016650276597646174}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": 1.5886488145433475e-05, "track": 1.3216245153824246e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": 1.2007427919069613e-05, "track": 1.6464253294046216e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": 1.0668357514842519e-05, "track": 1.8351575814534726e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.5, "ped": 6.171720947967252e-05, "track": 1.2304268715013222e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.1, "ped": 6.15682374807136e-05, "track": 1.2199730115014518e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.3, "ped": 6.292783475148056e-05, "track": 1.2568701635018442e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": 4.6349619420626986e-05, "track": 0.06268696635510018}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": 7.650452931595719e-05, "track": 2.0628153407642458e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": 6.659108637796507e-05, "track": 2.6877194914121105e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.3, "ped": 3.28364375445922e-06, "track": 1.184981002211316e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.1, "ped": 7.775359341488652e-06, "track": 1.259059523306405e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": 2.04390715948799e-05, "track": 0.08395466004460428}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": 5.886770650642692e-05, "track": 2.637380314141069e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.5, "ped": -3.6187655636510385e-06, "track": 1.058910736873031e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": 5.157974502367768e-05, "track": 2.76133005350232e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": 5.891463926077645e-05, "track": 2.11540414629674e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.5, "ped": 3.565648147030309e-05, "track": 1.0945844231002866e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.3, "ped": 3.038802590182854e-05, "track": 1.134390359425197e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.1, "ped": 2.2129079061627976e-05, "track": 1.1991785342502226e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": 4.615022871257146e-05, "track": 2.7673408009576406e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -1.8177957194276395e-05, "track": 9.785695476161038e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.5, "ped": 6.720469079968261e-05, "track": 1.1288814327770069e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -1.9503792989261637e-05, "track": 1.184067399684352e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -1.8218744066933468e-05, "track": 1.5212164861111432e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": 3.082468441306663e-05, "track": 0.03862410954613715}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.1, "ped": 5.038923298461562e-05, "track": 1.1581624548284708e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.3, "ped": 6.004528875691584e-05, "track": 1.2279244288038171e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": 4.506726285935514e-06, "track": 0.06682139704406242}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": 1.3565305607254885e-05, "track": 9.520673693863557e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": 1.0571784225588132e-05, "track": 1.153494189054527e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": 9.866675895087162e-06, "track": 1.551294648294288e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.3, "ped": 9.676530331481636e-05, "track": 1.2821432804344113e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.5, "ped": 0.0001031269755431552, "track": 1.115114667271655e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.1, "ped": 8.78579654299827e-05, "track": 1.2273337901547166e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": 5.232899448326389e-05, "track": 0.09003972106971403}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": 1.518192136690244e-05, "track": 3.099317491539466e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": 1.0726999249199842e-05, "track": 4.2361650853806054e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": 8.777012243221805e-06, "track": 3.868542153284693e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.3, "ped": -0.00016205034290162068, "track": 1.280864303510043e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.1, "ped": -0.00014667625599074086, "track": 1.2606249377711265e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.0001585627078556362, "track": 0.0754617721904478}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.5, "ped": -0.00017975082821108934, "track": 1.083784173516733e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": 2.3438231100736395e-05, "track": 1.5643167872170238e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": 2.970240506927624e-05, "track": 1.267055599329936e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.1, "ped": -8.436330682703996e-06, "track": 1.2445000585614707e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.5, "ped": -7.371025686486732e-06, "track": 1.1720802106651718e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": 1.992785380067197e-05, "track": 1.786288894578547e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.3, "ped": -6.806338678666535e-06, "track": 1.1856338133497957e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -2.46845689979569e-05, "track": 0.09297363299365657}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -1.643079324381569e-05, "track": 1.1169601465965684e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.3, "ped": 9.899376184319131e-05, "track": 1.1606093863747446e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -1.7131263667535812e-05, "track": 1.3641155982568876e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.5, "ped": 0.0001031383235972072, "track": 1.1549694534096488e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.1, "ped": 9.231435709922131e-05, "track": 1.2009149230607363e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -1.5387345505435412e-05, "track": 1.6824275306248637e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": 4.768780845920695e-05, "track": 0.0955008276148408}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": 2.508499781173068e-05, "track": 1.702274460280151e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": 1.9325989968010937e-05, "track": 2.1675701233903055e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": 1.5701042905380547e-05, "track": 2.2670720856154958e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.5, "ped": -1.109706264479371e-05, "track": 1.1903322771900093e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.3, "ped": -4.601957276584301e-06, "track": 1.1281309220123603e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.1, "ped": -5.752747533893654e-07, "track": 1.3368239848432495e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -1.9161544887680293e-05, "track": 0.06985595122471688}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -2.710202727213007e-05, "track": 2.590034758886972e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -2.986284078226875e-05, "track": 3.4598348630510145e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -2.9879557820411407e-05, "track": 3.1595015492769107e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.3, "ped": -0.00014212567094129547, "track": 1.1292877744040197e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.1, "ped": -0.00012201611789941502, "track": 1.3601164638998853e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.5, "ped": -0.00016421618102535618, "track": 1.074043076698672e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.00015785602722184766, "track": 0.0968227444749622}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": 2.613491673075785e-05, "track": 1.1808856115180788e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": 2.038801746340191e-05, "track": 1.6286683113264644e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": 3.4483156034215146e-05, "track": 9.768273079302503e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -2.9416220696520945e-06, "track": 3.445853646866226e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.5, "ped": 7.59209859713117e-05, "track": 1.1611756001173035e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.1, "ped": 6.037325901431245e-05, "track": 1.2159317996918162e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.3, "ped": 6.940650900744139e-05, "track": 1.1265854915620821e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.5, "ped": -0.00011915663038108981, "track": 1.0941381134443873e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -7.326113862560213e-06, "track": 4.76728945209004e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": 4.206722971211718e-05, "track": 0.06830251627014217}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.1, "ped": -8.05228274858294e-05, "track": 1.1733969351723772e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -9.044723783935282e-06, "track": 4.336215830846868e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -8.209476747234046e-05, "track": 0.0176489208611309}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.3, "ped": -9.839690320601058e-05, "track": 1.2600187559996812e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -6.52541594647893e-06, "track": 8.462229916794684e-09}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": -0.0004733014729444984, "track": 5.867628605216169e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": -0.0005890647839779661, "track": 5.5878690563559985e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": -0.00035672707148204363, "track": 6.211098302344453e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.3, "ped": 0.00035493272021214217, "track": 6.75963729435125e-11}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -8.46850713442926e-06, "track": 1.0155039031900515e-09}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.5, "ped": 0.0006323803102257219, "track": 8.005573981506586e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.1, "ped": 8.337678674630311e-05, "track": 8.77549144462364e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": -0.0005789044068740257, "track": 5.4899418344689366e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -0.00012950644440590242, "track": 0.07285461016519079}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": -0.00046436732516719204, "track": 5.863576291176287e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.3, "ped": 0.00038087158466204585, "track": 6.872813429481539e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.5, "ped": 0.0006591754482561107, "track": 7.809752844423201e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": -0.0003491639195141172, "track": 6.069755809079425e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.1, "ped": 0.00010828321181888256, "track": 8.092460035413751e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": -0.00012588283999459549, "track": 0.056348973888826315}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -7.85475182840667e-06, "track": 1.486418765850317e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.1, "ped": 0.00010309757336135483, "track": 1.214741640609418e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.3, "ped": 0.00011495021049112708, "track": 1.1554379675260407e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.5, "ped": 0.00012429009735437369, "track": 1.1508660691106343e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": 5.255731638531547e-05, "track": 0.09662405202552538}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -2.923413635058658e-06, "track": 2.3201787158200204e-09}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -2.9742985892533547e-06, "track": 1.812231237297013e-08}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -2.424678658963231e-07, "track": 2.358168105232039e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.3, "ped": -4.670255806815682e-05, "track": 1.2351852873848657e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.1, "ped": -4.641616771450252e-05, "track": 1.1558243251386102e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.5, "ped": -4.946117727167021e-05, "track": 1.0942380335166035e-10}
+{"design": "TG + dummies", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -6.812385438526025e-05, "track": 0.06753958977758201}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -0.0005861238038372685, "track": 5.66636737531212e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.3, "ped": 0.0003391182278060789, "track": 6.682698838744727e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -0.0004688673775798402, "track": 6.184475154213942e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -0.00035094635755161807, "track": 6.018829878939869e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.5, "ped": 0.0006174286200266721, "track": 7.833556026071165e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": -0.0005869567284224053, "track": 5.3022697343863e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": -0.0004712154575728933, "track": 5.772360367473084e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -0.00012404312136338191, "track": 0.08474802731431619}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.1, "ped": 6.681223555826676e-05, "track": 7.296341308915544e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": -0.0003546991924024967, "track": 5.943379122186343e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.1, "ped": 0.00010764178288846793, "track": 8.097300607801117e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.5, "ped": 0.0006610302274809854, "track": 7.14772685483922e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.3, "ped": 0.0003814808433253436, "track": 7.120259937209994e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": -0.0001291930009825748, "track": 0.05718437964269241}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -0.000604247011247061, "track": 5.196182373268243e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -0.00048774755134867176, "track": 6.529976559477291e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -0.0003702204247497676, "track": 6.624867321392003e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.3, "ped": 0.00033118152930544653, "track": 7.402278789925276e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.5, "ped": 0.000603971158570582, "track": 6.62825350161711e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.1, "ped": 6.443653630539004e-05, "track": 8.218092872880334e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.00013895707594291373, "track": 0.08259686738053951}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -0.0005797663629261707, "track": 5.563788318951879e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -0.0004653480762919493, "track": 6.288902731910184e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -0.0003502776062140889, "track": 6.24513774027946e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.3, "ped": 0.00036432865162594474, "track": 6.871192503865586e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.5, "ped": 0.000644303503909871, "track": 7.444289629177092e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.1, "ped": 9.018699158724885e-05, "track": 7.275335889289636e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": -0.0001257254303966837, "track": 0.0698383785676745}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -0.0006151549967971515, "track": 5.427835958471405e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -0.0004994479293302101, "track": 5.5585647196210175e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.3, "ped": 0.00031077444482274785, "track": 6.687650433434555e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -0.00038255208981652356, "track": 6.24685858596763e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.5, "ped": 0.0005883352882465331, "track": 6.89508450335552e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.1, "ped": 3.9439366895432926e-05, "track": 8.295075737407842e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": -0.00058301051159243, "track": 5.4849513819732465e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": -0.00046885460208462293, "track": 6.034528432508068e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": -0.0003539290341355583, "track": 6.434552890510759e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -0.00025797218917167353, "track": 0.01660007672942676}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.3, "ped": 0.00035789653762785534, "track": 7.44400097119069e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.5, "ped": 0.0006302061005956094, "track": 7.6252337777305e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": -0.0005590379298747727, "track": 5.564448901651531e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.1, "ped": 9.145067331028933e-05, "track": 8.711809051931141e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": -0.0004454110086982155, "track": 6.273181973881492e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": -0.0003314644879048867, "track": 6.131262164643658e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": -0.00013204243818742967, "track": 0.06268283876803715}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.3, "ped": 0.00033732876977876636, "track": 6.947931119327677e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": -0.00011545803868950877, "track": 0.08395066663380735}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.1, "ped": 6.62020994406376e-05, "track": 8.783485050400941e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.5, "ped": 0.0006144691207452535, "track": 6.627831616867752e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": -0.0004245822945900257, "track": 6.07415229225694e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": -0.0005366137936778093, "track": 5.3381188358514464e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": -0.0003125108337940219, "track": 6.338418678808466e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.5, "ped": 0.0007262520728683608, "track": 7.200529061890393e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.3, "ped": 0.00043601018591932217, "track": 5.629474664203826e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.1, "ped": 0.0001511498305852843, "track": 8.375944382521539e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": -9.536593657200054e-05, "track": 0.03862033500940676}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -0.0005905566180746669, "track": 5.3266446808919454e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -0.0004727519439966521, "track": 6.013767261947578e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -0.0003541984665346165, "track": 6.014155840006197e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.5, "ped": 0.0006300170754272028, "track": 7.43229922051114e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": -0.0004556147040780667, "track": 5.787281764924046e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": -0.0005715225163049897, "track": 5.635475419651925e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": -0.00033919335830534525, "track": 6.076694702983332e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.3, "ped": 0.0003559378770481292, "track": 7.640199584102447e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.1, "ped": 8.773076558643567e-05, "track": 7.38908934039273e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": -0.00046935453272151095, "track": 6.28971319471816e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": -0.00012845554719775887, "track": 0.06681733269155488}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.3, "ped": 0.0003191787236771493, "track": 6.739742097749968e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": -0.0001201412879046071, "track": 0.09003578471916962}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.5, "ped": 0.0005916784198360947, "track": 7.83608733456731e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": -0.0005851541101989377, "track": 5.284689352791361e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.1, "ped": 5.280923010153593e-05, "track": 7.932254852960341e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": -0.00035284149033287804, "track": 6.064415636330978e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.5, "ped": 0.0006266725134582707, "track": 7.338196716943912e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.3, "ped": 0.0003495413569014616, "track": 7.624323394850308e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": -0.0004868184659391206, "track": 5.914702061460275e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": -0.0006041344576375729, "track": 5.561689997435337e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.1, "ped": 7.833464951700897e-05, "track": 7.538258905981365e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.00012766345497772225, "track": 0.07545767913519541}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": -0.0003684711003084651, "track": 6.325806545248724e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.5, "ped": 0.0005850744839088762, "track": 7.449640904155785e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.3, "ped": 0.00031302550409084695, "track": 6.642775218779207e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.1, "ped": 4.715603335037066e-05, "track": 7.769407339708323e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -0.00013803902156139802, "track": 0.09296941807679071}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -0.0005775058863499716, "track": 5.494155130847389e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -0.00046306572650506306, "track": 5.773426181576724e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -0.00034791222090535534, "track": 6.016098730299291e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.5, "ped": 0.0005858303253256647, "track": 8.221245906270269e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.3, "ped": 0.0003121467088538221, "track": 5.678146841603393e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": -0.00012685007871604537, "track": 0.0954966621412876}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.1, "ped": 4.46753973446512e-05, "track": 7.917044797522976e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": -0.0004402859813212312, "track": 6.03108674113173e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": -0.0005540628775327905, "track": 5.432204686073305e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -0.00048529658240159534, "track": 6.017897291599184e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -0.0006007942278895007, "track": 5.565115035466306e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.3, "ped": 0.00035114551605341937, "track": 7.627254383635318e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.5, "ped": 0.0006241602395855583, "track": 8.256728634137289e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": -0.00032622821788608203, "track": 6.156020138092799e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -0.00036879764804809145, "track": 5.9821592124365e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.3, "ped": 0.00030010224072829494, "track": 6.659117701701689e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.1, "ped": 8.402836823306892e-05, "track": 9.052381066965154e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -0.00011203635890311148, "track": 0.06985221914546125}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.5, "ped": 0.0005679472567783339, "track": 6.446754241551389e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.1, "ped": 3.851018800293815e-05, "track": 8.369993587109548e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": -0.0005884380790027732, "track": 5.385714096917127e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.0001399868018188144, "track": 0.09681833075110957}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": -0.0004727636567259941, "track": 6.035516530999985e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": -0.00035628150769884126, "track": 6.23107121455746e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.1, "ped": 8.44531035626428e-05, "track": 8.149636521181947e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.3, "ped": 0.0003519149334774152, "track": 5.876943376392774e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": -0.00013189459504203693, "track": 0.0682983963330085}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.5, "ped": 0.0006252702811790911, "track": 7.4276806927287e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -0.0005955812731148202, "track": 5.571038075302681e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -0.0004780301735521908, "track": 5.6740168119517875e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -0.00035962447081749893, "track": 5.895395283062044e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.1, "ped": 0.00016638159356729965, "track": 7.794609402367314e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.5, "ped": 0.0007150879870470028, "track": 7.042588734407218e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -0.0004681445998108158, "track": 5.954625681425796e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.3, "ped": 0.0004380366730085683, "track": 8.150857766509034e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -0.00013128750645308163, "track": 0.017645243126876653}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -0.0005851963525925208, "track": 5.741568331885105e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -0.00035035137462624544, "track": 5.953537662861663e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.5, "ped": 0.0005830223832294923, "track": 6.904010696473506e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.3, "ped": 0.00031014093196590764, "track": 7.167133553309668e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.1, "ped": 4.348313581070684e-05, "track": 7.920708533504239e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -0.0005945362143567334, "track": 5.164169092353177e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -0.0004767573829621563, "track": 5.6105897705549523e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": -0.00012594780626640212, "track": 0.09662010630966944}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -0.0003581439937825337, "track": 5.7884030901789174e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.5, "ped": 0.0006450330657585823, "track": 7.09272640619929e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.3, "ped": 0.00036664828264942884, "track": 8.123879347010643e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.1, "ped": 9.405314386667918e-05, "track": 7.97846233524524e-11}
+{"design": "TG, no ESD", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -0.00012737510871063673, "track": 0.0675359694613149}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -0.0032626794542316984, "track": 1.9901650172293728e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.1, "ped": -0.0023972036718109546, "track": 2.0651561705165022e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -0.0035490258217764636, "track": 1.9758297742367148e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": -0.002867129610248431, "track": 1.3599487092008644e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": -0.0029720215564832952, "track": -1.1037215585929516e-10}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": -0.0025044706688368557, "track": 1.804595497367778e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.5, "ped": -0.001660636978515484, "track": 2.3323087774418383e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -0.0029743059652739268, "track": 2.009291171223282e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.1, "ped": -0.00215178949325745, "track": 1.9073361645638442e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": -0.0027177954918723435, "track": 3.6055582623983895e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.5, "ped": -0.0016110472007166976, "track": 2.02863063369918e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.3, "ped": -0.0021071340335203637, "track": 2.1081420298330045e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.3, "ped": -0.001933210789597739, "track": 2.2583216172655796e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.3, "ped": -0.0018820865742910087, "track": 1.9476969159715196e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -0.00243445262977382, "track": 3.288139753254704e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": -0.002619073799458027, "track": 5.974255534724193e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": -0.0032017579676673624, "track": -3.6456337948465034e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.5, "ped": -0.0016770079475862953, "track": 1.9326926037344094e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": -0.003114440674724106, "track": 7.463430429233142e-10}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.1, "ped": -0.0022293531734776106, "track": 1.8281922311569332e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": -0.0023679595422477773, "track": 3.1098141970442583e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -0.0026861460409088878, "track": 2.0338059869562386e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": -0.0029436291699913575, "track": -3.6657177293619725e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.3, "ped": -0.001953788926751354, "track": 1.86564757642671e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.5, "ped": -0.001815036874918352, "track": 2.173649575887282e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": -0.0032269853181843833, "track": -3.752420596470074e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": -0.0026863756457398136, "track": 1.708340136019615e-10}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.1, "ped": -0.0022074414635009365, "track": 2.2157726311533565e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -0.0026852558921254266, "track": 8.425497742825527e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -0.002423740660088769, "track": 8.553426161794775e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -0.0028627100664446736, "track": 4.920486666448731e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.0021664227714998097, "track": 8.715102978174016e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.1, "ped": -0.0019111056372391744, "track": 8.909476121310433e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.5, "ped": -0.0014188819938647512, "track": 9.573636112758521e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -0.003283424582857186, "track": -3.559108563422342e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -0.003021558264453883, "track": -3.5294434042043576e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.3, "ped": -0.0016608110206368654, "track": 9.166666352644626e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.5, "ped": -0.0015817638137802792, "track": 2.547923696472054e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.5, "ped": -0.0017046679038097423, "track": -2.1649126935585628e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.3, "ped": -0.0019699752920476765, "track": -2.542832611140966e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.3, "ped": -0.0018480091893142703, "track": 2.467163442432252e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -0.0030676459266779643, "track": -3.9846126398401793e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.1, "ped": -0.0021169811924679482, "track": 2.418270830251146e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -0.002810720719946702, "track": -4.2807091205077086e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": -0.002933393932126438, "track": 2.345590131014319e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.1, "ped": -0.00223461912563927, "track": -2.992317504890707e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -0.0025557276739088808, "track": -4.419387078513637e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -0.0027613101751143843, "track": -3.265943071539823e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -0.0023024840693723903, "track": -3.1178171155943346e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.1, "ped": -0.0020474810721233805, "track": -2.952460498306664e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.3, "ped": -0.0017949983766973876, "track": -2.6911806116913795e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": -0.0025006265002351924, "track": -3.251832136896837e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.5, "ped": -0.001546011854546503, "track": -2.3952617667077902e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": -0.002660542998626614, "track": 2.3622831124558985e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": -0.0023885638343299487, "track": 2.385513765412739e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": -0.003208019424043973, "track": 2.335896987504249e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": -0.0031180569829261096, "track": 1.108028546248363e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": -0.003312913885445301, "track": -2.683228023103723e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": -0.0028325352943189275, "track": 1.1170147014016862e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": -0.002547872738779322, "track": 1.1278372192835562e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.3, "ped": -0.00198361743381148, "track": 1.161178108111116e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.1, "ped": -0.002264225531252162, "track": 1.1417085086229406e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.5, "ped": -0.0017054803844254174, "track": 1.192121461546236e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": -0.0031028119124835163, "track": -3.9722558575761013e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": -0.002589833861126656, "track": -4.419864474414226e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.1, "ped": -0.0020787478906529877, "track": -4.5222936506661426e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": -0.0028449774251675386, "track": -4.167360900808603e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.5, "ped": -0.0015718988372184217, "track": -4.9833026594114926e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.1, "ped": -0.002080933655297823, "track": 1.8824231062808394e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": -0.0031664423349016535, "track": 5.766221666814175e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -0.003567260656819893, "track": -3.958783301172275e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": -0.0023356387850882454, "track": -4.6596726477332595e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.3, "ped": -0.0018242587333840987, "track": -4.639599815448037e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": -0.0026210235041854713, "track": 2.7207867070444536e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.3, "ped": -0.0021759518781194753, "track": -2.669975351921039e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -0.0030164045861306166, "track": -4.543010412305648e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.5, "ped": -0.001890935051427567, "track": -2.490274653155211e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": -0.0027402478254526796, "track": -4.6444403878354024e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.1, "ped": -0.002458897842350316, "track": -4.6158854516420433e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.5, "ped": -0.0015511810448340935, "track": 1.2746186328627118e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -0.0032926916734692946, "track": -4.303379874670554e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": -0.0028928464031066636, "track": 3.5870951764493952e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": -0.0023504132598937133, "track": 2.2289975420974883e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.3, "ped": -0.0018145292178390893, "track": 1.5725925006648822e-09}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": -0.00281038821650631, "track": 2.5080548526901225e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": -0.0030804980277922556, "track": 2.5092817157457148e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": -0.002541505767204133, "track": 2.5198843345286548e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.002276003522181491, "track": 2.5431091454919397e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.1, "ped": -0.002011244311482363, "track": 2.5795572122788712e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.3, "ped": -0.0017499792661106461, "track": 2.632342344099925e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.5, "ped": -0.0014939323064389054, "track": 2.716998781515656e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": -0.0030712131694807243, "track": -3.992239872019354e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": -0.0028132543516682373, "track": -3.5885738824958935e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": -0.0025575640434817304, "track": -3.2385538695223204e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -0.00230483049814334, "track": -3.284084115762198e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.5, "ped": -0.001550639628203676, "track": -2.376943086801475e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.3, "ped": -0.0017977188828341983, "track": -2.6704860545123665e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -0.0033103383804021225, "track": 6.258369406042519e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.3, "ped": -0.0020838830717266887, "track": -2.983324698391243e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": -0.0031777879309686785, "track": -3.521422042851441e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.1, "ped": -0.0021834033728980184, "track": 6.441173061588756e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": -0.0024631490996798178, "track": 6.366502425247944e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.1, "ped": -0.002049725074061204, "track": -2.7619240228204944e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": -0.0034494698037318416, "track": -3.596678510575657e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.1, "ped": -0.0023593718338146275, "track": -3.047051500004727e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.5, "ped": -0.0016354004941994127, "track": 6.71112543315644e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.5, "ped": -0.0018080829910072094, "track": -3.311573237851917e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -0.003026110887494493, "track": 6.274049679788618e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": -0.0029066100015464613, "track": -3.372624401976054e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -0.0027438784130470184, "track": 6.31234715608997e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.3, "ped": -0.0019071104110957027, "track": 6.548099107384076e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -0.0026350170507276616, "track": -3.521283264973363e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -0.00303440800175081, "track": -3.9411529595412276e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -0.0027829034462480973, "track": -4.5300433554329445e-07}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -0.0026016064460087085, "track": 1.7333487979387385e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.5, "ped": -0.0015439227462961114, "track": 1.8804004300321253e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.3, "ped": -0.0018049017267209866, "track": 1.8134470174402395e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": -0.002863321166609367, "track": -3.65329988483154e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.0023344705023480294, "track": 1.7506171304804141e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": -0.0031136142919887533, "track": -3.610267640397069e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.1, "ped": -0.002068273004483201, "track": 1.7753117327323764e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": -0.0026137080715120664, "track": -1.5879075832003764e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": -0.0023659676946939934, "track": 4.509746184711005e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -0.0026810032927564453, "track": -3.601208220516128e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -0.0026738506184982302, "track": 5.97760834164518e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.3, "ped": -0.00170248832228026, "track": -2.6089130855666554e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -0.002947128811064459, "track": 5.933777036393195e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.5, "ped": -0.0016090121420528902, "track": 2.273776607886191e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.1, "ped": -0.00214690813216456, "track": 2.1383765980154124e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -0.00322151100733048, "track": 5.900148597470789e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.1, "ped": -0.0021293879603219157, "track": 6.122249152085146e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -0.0024349096079889776, "track": -3.3576363911436147e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.3, "ped": -0.0018584086367490205, "track": 6.247163986117243e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.5, "ped": -0.0014653787679770325, "track": -2.4783730623312294e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": -0.0021913355763517606, "track": -3.179834173749896e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -0.002929901057943607, "track": -4.0074443763415957e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.3, "ped": -0.00187750953849819, "track": 2.186306507168112e-06}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -0.0024016457484022924, "track": 6.037738276010174e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.5, "ped": -0.0015901869796601797, "track": 6.449525091767327e-08}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.1, "ped": -0.0019449896420422608, "track": -3.060685038747124e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.3, "ped": -0.0005202148208725554, "track": 6.133549224074386e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.5, "ped": -0.00041916140027536963, "track": 6.388756190744971e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.7, "ped": -0.0003167353228912262, "track": 7.349376662801888e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.5, "ped": -0.0004112364298910487, "track": 6.537159702446615e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 0.9, "ped": -0.00011509489292849118, "track": 0.07305936634730881}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.5, "ped": 0.0005516126834896884, "track": 9.330469730173263e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.3, "ped": -0.000511204371528684, "track": 6.082717662891923e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.3, "ped": 0.00031678691321190833, "track": 9.227929531618884e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.5, "ped": 0.0005649895683703665, "track": 9.629164132718415e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.3, "ped": 0.0003026654479580948, "track": 8.231326731333866e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 0, "v": 1.1, "ped": 7.431844630922946e-05, "track": 9.540057632762e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.3, "ped": -0.0005175717924494339, "track": 6.273187524996615e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.5, "ped": 0.0005889606389741786, "track": 9.720868554552453e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.3, "ped": 0.0003399491176867553, "track": 8.967404596660344e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.5, "ped": -0.0004152196325979407, "track": 6.846168076890535e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.7, "ped": -0.0003100187366309459, "track": 7.070477536785802e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 1.1, "ped": 9.651963755863413e-05, "track": 9.46651645961083e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.7, "ped": -0.0003116006615986322, "track": 7.582023897612089e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 1.1, "ped": 5.955331673979103e-05, "track": 9.146305934848442e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 2, "v": 0.9, "ped": -0.00011025136206765929, "track": 0.08495024919626515}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 1, "v": 0.9, "ped": -0.00011184042047229781, "track": 0.05656017741732966}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -0.0032048760303697854, "track": -3.96062072027803e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -0.0026909261038808863, "track": -4.3864467613730085e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -0.0029482730318585726, "track": -4.220629401530118e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -0.00243500730397217, "track": -4.749101112366816e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.3, "ped": -0.0019129452216293252, "track": -2.687539080170609e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.5, "ped": -0.0016510506758988797, "track": -2.5825341865015616e-11}
+{"design": "T-switch + OTA buffer", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.1, "ped": -0.002174123701312203, "track": -2.7763569221406215e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.5, "ped": -0.00041730977807941105, "track": 6.297506960351029e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.3, "ped": -0.0005183411791127024, "track": 5.952105475159897e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.7, "ped": -0.00031493454070252724, "track": 7.1680772428806e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.3, "ped": 0.00034049220569754013, "track": 9.154854652138056e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.5, "ped": 0.0005906173568837048, "track": 9.632694641936723e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 0.9, "ped": -0.00011477600220188844, "track": 0.0574031408879091}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.5, "ped": -0.00043199214185485335, "track": 7.018818859449993e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.3, "ped": -0.000533709662924764, "track": 5.935685276625691e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.7, "ped": -0.00032872310800535764, "track": 7.931855172671476e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.1, "ped": 5.743584748096886e-05, "track": 9.537681755489302e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.5, "ped": 0.0005395856617445016, "track": 9.745271256633714e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 1.3, "ped": 0.00029558191430822944, "track": 8.177680754783978e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.3, "ped": -0.0005119692703534628, "track": 6.299999411041313e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.3, "ped": 0.0003251754544235652, "track": 9.15258979716782e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 4, "v": 0.9, "ped": -0.00012350630305946186, "track": 0.08281418423503084}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.5, "ped": 0.0005756508569871865, "track": 9.713008175538107e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 1.1, "ped": 8.038872213944614e-05, "track": 8.210943036601748e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.5, "ped": -0.00041210849018213924, "track": 7.023570613995389e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 3, "v": 1.1, "ped": 9.594788730926673e-05, "track": 9.112821608425747e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.7, "ped": -0.0003110078079751055, "track": 7.068501339801969e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 5, "v": 0.9, "ped": -0.00011172052121655174, "track": 0.07004716801737998}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.3, "ped": -0.0005434328638266872, "track": 6.267841801133045e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.5, "ped": -0.0004423947013863505, "track": 6.470879387876494e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.7, "ped": -0.0003396789692942104, "track": 7.730893702984076e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.1, "ped": 3.515400359099807e-05, "track": 9.368128495168548e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.3, "ped": 0.0002773591657527774, "track": 8.666578565907912e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 0.9, "ped": -0.0002279166951744127, "track": 0.01947579538309052}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 6, "v": 1.5, "ped": 0.0005255899115879092, "track": 9.330669570317696e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.3, "ped": -0.000514861524975263, "track": 6.160510990227408e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.5, "ped": -0.0004152208275706726, "track": 6.83312295635119e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.7, "ped": -0.0003142507790565574, "track": 7.928202538920459e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.1, "ped": 8.151574960524322e-05, "track": 9.162204328561074e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.5, "ped": 0.0005630523729280856, "track": 9.663403410797855e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.3, "ped": -0.0004935604693224738, "track": 6.335898472542567e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.5, "ped": -0.00039441312291887964, "track": 6.819100839550174e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 1.3, "ped": 0.0003194352896906949, "track": 1.0721112886358242e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 7, "v": 0.9, "ped": -0.00011732869644176525, "track": 0.06289953449169794}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.5, "ped": 0.0005489677980299312, "track": 8.956302366414093e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.3, "ped": 0.00038918187551795214, "track": 8.006306728702839e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.3, "ped": 0.00030106835643839425, "track": 9.41267064291651e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 1.1, "ped": 5.900949334436412e-05, "track": 9.639200548861027e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.5, "ped": 0.0006489475841928716, "track": 9.846323756335096e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.5, "ped": -0.0003759348239100735, "track": 6.400802110562154e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.7, "ped": -0.0002942976911254336, "track": 7.023615022916374e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.3, "ped": -0.0004736725160794375, "track": 6.150008280414454e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 1.1, "ped": 0.00013473248513706793, "track": 9.674661072267554e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 8, "v": 0.9, "ped": -0.00010260555029151242, "track": 0.08415841016966508}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.7, "ped": -0.0002774667374869644, "track": 7.619704867067867e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 9, "v": 0.9, "ped": -8.468507170300565e-05, "track": 0.038819138652079865}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.3, "ped": -0.0005215050374715591, "track": 6.128775265068498e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.5, "ped": -0.0004186648718002006, "track": 6.549383257947738e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.7, "ped": -0.00031448868158967525, "track": 7.400813295532771e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.3, "ped": 0.00031768443206892094, "track": 8.910827631325446e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.5, "ped": 0.000562878892810259, "track": 9.62965263084925e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 1.1, "ped": 7.819988721813331e-05, "track": 8.768141768200621e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 10, "v": 0.9, "ped": -0.00011414679277044204, "track": 0.06703033690096205}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.5, "ped": -0.0004034550787806457, "track": 6.098388460884507e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.3, "ped": -0.0005046131100052142, "track": 6.453315659626924e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.7, "ped": -0.00030116228855625593, "track": 7.384282074696102e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.5, "ped": 0.0005285904123113472, "track": 9.72997238335438e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.1, "ped": 4.707163767236899e-05, "track": 8.916245519685617e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 1.3, "ped": 0.00028486499935898024, "track": 9.298406489222089e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.3, "ped": -0.0005167370320480758, "track": 6.067130131626186e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.5, "ped": -0.0004156588834017816, "track": 6.538602992378628e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 11, "v": 0.9, "ped": -0.0001067866286879049, "track": 0.09024122837222437}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.7, "ped": -0.0003132842778807987, "track": 7.304168381239151e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.1, "ped": 6.982409435951631e-05, "track": 9.749867579955662e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.3, "ped": 0.0003119729252720749, "track": 1.0693912422254925e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 1.5, "ped": 0.0005598842077660926, "track": 9.877387796564108e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.3, "ped": -0.000533592090763535, "track": 6.064559965324179e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 12, "v": 0.9, "ped": -0.00011345171805177134, "track": 0.07566995368562146}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.3, "ped": 0.0002793715179827405, "track": 8.940603812845893e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.7, "ped": -0.00032716849613345644, "track": 7.544687097293945e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.5, "ped": 0.0005226838644900589, "track": 1.044051511911448e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 1.1, "ped": 4.203253423251674e-05, "track": 1.0152745311131639e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.5, "ped": -0.0004311592339524273, "track": 6.792166828972768e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 13, "v": 0.9, "ped": -0.0001227052213836899, "track": 0.09318828658692313}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.3, "ped": -0.0005099629162533814, "track": 6.127320872906239e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.5, "ped": -0.00041007674064252875, "track": 6.092737425689165e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.7, "ped": -0.0003089069220725271, "track": 7.280864799952269e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.3, "ped": 0.00027858669519442714, "track": 7.960609949009267e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 0.9, "ped": -0.00011275146270728342, "track": 0.09571376733554837}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.5, "ped": 0.0005233559973594204, "track": 9.745582119080609e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 14, "v": 1.1, "ped": 3.982125265933334e-05, "track": 9.250711308084192e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.3, "ped": -0.0004891444645068743, "track": 6.142314434853802e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.5, "ped": -0.0003898632916852218, "track": 6.580314071413795e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.7, "ped": -0.0002896473710164438, "track": 8.050071720333563e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.5, "ped": 0.0005576416460533196, "track": 1.0427614327568335e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.3, "ped": 0.0003134053247240143, "track": 9.153100499759148e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.5, "ped": -0.0004298209170700562, "track": 6.511269301512357e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 1.1, "ped": 7.489957718620488e-05, "track": 9.478551277197766e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.3, "ped": -0.0005306577476015817, "track": 6.138234365238304e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 15, "v": 0.9, "ped": -9.956262798571647e-05, "track": 0.07004716821887402}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.7, "ped": -0.00032745975055248344, "track": 7.104028476589974e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.5, "ped": 0.0005073723429953603, "track": 9.227107966580661e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.1, "ped": 3.4326089973779617e-05, "track": 1.0161960162236028e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 1.3, "ped": 0.0002678347789299984, "track": 8.451528366038019e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 16, "v": 0.9, "ped": -0.0001244373992644876, "track": 0.09704569042803368}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.3, "ped": -0.0005196593969330476, "track": 6.175404632102754e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.5, "ped": -0.0004186842600891194, "track": 6.394418328170559e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.5, "ped": 0.0005586336881386877, "track": 1.0437761766013409e-10}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.7, "ped": -0.0003163396661812756, "track": 7.364708842771961e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.3, "ped": 0.0003140921612292402, "track": 8.231682002701746e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 1.1, "ped": 7.527817838770545e-05, "track": 9.455169980299161e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.3, "ped": -0.0005259758607519815, "track": 6.161104959545582e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 17, "v": 0.9, "ped": -0.0001172054298532732, "track": 0.06851428022979134}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.5, "ped": -0.0004233513434772629, "track": 6.756384340889099e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.7, "ped": -0.0003193081472270265, "track": 7.553857539477349e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.5, "ped": 0.0006389939217206209, "track": 9.480438656339629e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.1, "ped": 0.00014831301204165648, "track": 8.693668007708766e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 1.3, "ped": 0.0003910051020341587, "track": 9.197886896572527e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 18, "v": 0.9, "ped": -0.00011660899812782066, "track": 0.017839558766029717}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.3, "ped": -0.0005167529553127825, "track": 6.176537059587872e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.5, "ped": -0.00041457400755151586, "track": 6.813483111045571e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.7, "ped": -0.000311072230540943, "track": 7.175704475059774e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.3, "ped": 0.00027679629513821524, "track": 8.292078135241354e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.1, "ped": 3.875853306567478e-05, "track": 9.590817029447862e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.3, "ped": -0.0005250431767714892, "track": 5.928324497972426e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 1.5, "ped": 0.0005208460323602448, "track": 9.541700762838445e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 19, "v": 0.9, "ped": -0.00011196154382564494, "track": 0.09682598424513744}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.5, "ped": -0.0004222196465024086, "track": 6.265710172925765e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.7, "ped": -0.0003179928121113118, "track": 7.196732099146175e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.5, "ped": 0.000576306648077729, "track": 9.83677583832332e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.3, "ped": 0.0003272460604504257, "track": 9.15214570795797e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 1.1, "ped": 8.383502613185101e-05, "track": 9.480749518786524e-11}
+{"design": "TG, ESD on the node", "cond": "4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle", "seed": 20, "v": 0.9, "ped": -0.00011320692918515007, "track": 0.06772499221393302}

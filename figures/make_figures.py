@@ -268,14 +268,27 @@ def fig3():
     a.axhline(0, color=INK2, lw=0.6)
     a.set(xlabel="held voltage (V)", ylabel="pedestal (mV)", title="(a)")
 
-    for k in keys:
+    # (b) largest move from a tuned level within budget, against switch width over node capacitance
+    mv = load("results/tolerated_move.json")
+    mv14 = load("results/combined_case_move.json")
+    wide = {"TG": "TG", "TGD": "TG + dummies", "BOOT": "bootstrapped", "NSW": "NMOS"}
+    design = {"TG": ("TG, no ESD", 1.0), "TGD": ("TG + dummies", 1.0), "NSW": ("NMOS, 0.3 V underdrive", 0.42),
+              "BOOT": ("bootstrapped (transistor level), 0.3 V underdrive", 0.42)}
+    for k, name in wide.items():
         n, col, mk = ARCH[k]
-        rows = [r for r in res["archs"][k]["sweeps"]["c_node"] if "error" not in r]
-        b.loglog([r["summary"]["c_eff"] * 1e12 for r in rows],
-                 [max(r["summary"]["pedestal_linear_residual"], 1e-9) * 1e6 for r in rows], color=col, marker=mk)
-    limit(b, res["spec"]["s33.69_t0.001"]["static"] * 1e6, "budget, 99.9%", where=0.55)
-    limit(b, res["spec"]["s33.69_t0.0001"]["static"] * 1e6, "budget, 99.99%", ls="--", where=0.55)
-    b.set(xlabel="node capacitance (pF)", ylabel="pedestal after calibration (µV)", title="(b)")
+        ws = [5, 10, 20, 40]
+        d = [mv["B"][f"{name}|{w}|4 K proxy"] for w in ws]
+        b.loglog(ws, [r["99.99"] * 1e3 for r in d], color=col, marker=mk)
+        dn, w0 = design[k]
+        rows = [r["99.99"] for key, r in {**mv["A"], **mv14}.items() if key.split("|")[0] == dn]
+        low = min(r["dmax_V"] for r in rows) * 1e3
+        b.loglog([w0], [low], color=col, marker=mk, mfc="white", ms=7, ls="none")
+    for key, w0 in (("GF180 TG, no ESD|4 K proxy", 1.0), ("GF180 TG, no ESD, W 0.42|4 K proxy", 0.42)):
+        b.loglog([w0], [mv["A"][key]["99.99"]["dmax_V"] * 1e3], color=ARCH["TG"][1], marker="D", mfc="white", ms=5, ls="none")
+    b.axhspan(0.1, 1.0, color=GRID, zorder=0)
+    b.text(0.03, 0.03, "moves between retunings", transform=b.transAxes, fontsize=8, color=INK2)
+    b.set_ylim(0.1, 3000)
+    b.set(xlabel="switch width / node capacitance (µm/pF)", ylabel="largest move from a tuned level (mV)", title="(b)")
 
     for k in keys:
         n, col, mk = ARCH[k]

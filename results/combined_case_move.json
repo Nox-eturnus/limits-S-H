@@ -1,0 +1,68 @@
+{
+ "NMOS, 0.3 V underdrive|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 0.39999999999999997,
+  "99.99": {
+   "dmax_V": 0.4,
+   "margin_1mV": 6184.291898577613
+  },
+  "99.9": {
+   "dmax_V": 0.4,
+   "margin_1mV": 6184.291898577613
+  }
+ },
+ "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 1.2,
+  "99.99": {
+   "dmax_V": 0.06855827246327453,
+   "margin_1mV": 26.771838610801474
+  },
+  "99.9": {
+   "dmax_V": 0.2,
+   "margin_1mV": 83.57437257258798
+  }
+ },
+ "TG + dummies|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 1.2,
+  "99.99": {
+   "dmax_V": 0.2,
+   "margin_1mV": 101.43789020564003
+  },
+  "99.9": {
+   "dmax_V": 1.2,
+   "margin_1mV": 316.4916777517152
+  }
+ },
+ "TG, no ESD|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 1.2,
+  "99.99": {
+   "dmax_V": 0.16269183045063512,
+   "margin_1mV": 59.33238630687666
+  },
+  "99.9": {
+   "dmax_V": 1.2,
+   "margin_1mV": 185.73142994355214
+  }
+ },
+ "T-switch + OTA buffer|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 1.2,
+  "99.99": {
+   "dmax_V": 1.2,
+   "margin_1mV": 79.5701239873449
+  },
+  "99.9": {
+   "dmax_V": 1.2,
+   "margin_1mV": 248.26970547520827
+  }
+ },
+ "TG, ESD on the node|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle": {
+  "window_V": 1.2,
+  "99.99": {
+   "dmax_V": 0.1813674173268344,
+   "margin_1mV": 65.57701304702383
+  },
+  "99.9": {
+   "dmax_V": 1.2,
+   "margin_1mV": 205.2857609049817
+  }
+ }
+}
