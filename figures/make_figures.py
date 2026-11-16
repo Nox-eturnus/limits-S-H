@@ -264,7 +264,7 @@ def fig3():
         n, col, mk = ARCH[k]
         p = res["archs"][k]["nominal"]["pedestal_mv"]
         v = np.linspace(0.3, 0.9 if k == "NSW" else 1.5, len(p))
-        a.plot(v, p, color=col, marker=mk, label=n)
+        a.plot(v, p, color=col, marker=mk, label=n.replace(" (ideal drive)", ""))   # drive of each panel: caption
     a.axhline(0, color=INK2, lw=0.6)
     a.set(xlabel="held voltage (V)", ylabel="pedestal (mV)", title="(a)")
 
@@ -286,6 +286,8 @@ def fig3():
         band = mv["A"][f"{dn}|4 K proxy"]["99.99"]["dmax_V"] * 1e3       # same band as the lines
         b.loglog([w0, w0], [band, low], color=col, lw=1.0, marker="_", ms=6)
         b.loglog([w0], [band], color=col, marker=mk, mfc="white", ms=7, ls="none")
+        if k == "BOOT":                      # the smallest simulated value of any compared switch
+            b.annotate(f"{low:.0f} mV", (w0, low), xytext=(5, -12), textcoords="offset points", fontsize=8, color=col)
     for key, w0 in (("GF180 TG, no ESD|4 K proxy", 1.0), ("GF180 TG, no ESD, W 0.42|4 K proxy", 0.42)):
         b.loglog([w0], [mv["A"][key]["99.99"]["dmax_V"] * 1e3], color=ARCH["TG"][1], marker="D", mfc="white", ms=5, ls="none")
     b.axhspan(0.1, 1.0, color=GRID, zorder=0)
