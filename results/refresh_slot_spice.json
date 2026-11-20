@@ -1,0 +1,366 @@
+{
+ "eps": 0.00013606986107757624,
+ "n_seg": 60,
+ "rows": [
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w100",
+   "n": 130104.03669566353,
+   "b": 0.0024362577743827257,
+   "t_line_model": 3.865042871663591e-07,
+   "t_node_model": 1.4193744284132417e-08,
+   "t_slot_model": 4.006980314504915e-07,
+   "close_at_spice_line": {
+    "t_close": 3.1881774800002316e-07,
+    "t_slot_spice": 4.0619053453126064e-07,
+    "ratio": 1.0137073373205423
+   },
+   "close_at_model_line": {
+    "t_close": 3.865042871663591e-07,
+    "t_slot_spice": 4.6836922453125996e-07,
+    "ratio": 1.1688832681203967
+   }
+  },
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w100",
+   "n": 676463.1453691835,
+   "b": 0.0024362577743827257,
+   "t_line_model": 1.1455676621614943e-06,
+   "t_node_model": 1.4193744284132417e-08,
+   "t_slot_model": 1.1597614064456269e-06,
+   "close_at_spice_line": {
+    "t_close": 9.544845836056883e-07,
+    "t_slot_spice": 1.1290218445312613e-06,
+    "ratio": 0.9734949259877732
+   },
+   "close_at_model_line": {
+    "t_close": 1.1455676621614943e-06,
+    "t_slot_spice": 1.2954748445312586e-06,
+    "ratio": 1.117018412003861
+   }
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w10",
+   "n": 119040.53916967036,
+   "b": 0.0023859282598922326,
+   "t_line_model": 4.240398139197714e-07,
+   "t_node_model": 4.991855901437308e-09,
+   "t_slot_model": 4.290316698212087e-07,
+   "close_at_spice_line": {
+    "t_close": 3.556560080000032e-07,
+    "t_slot_spice": 4.409866445312612e-07,
+    "ratio": 1.027865016853032
+   },
+   "close_at_model_line": {
+    "t_close": 4.240398139197714e-07,
+    "t_slot_spice": 5.026924445312474e-07,
+    "ratio": 1.171690762923715
+   }
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w10",
+   "n": 646199.8030091005,
+   "b": 0.0023859282598922326,
+   "t_line_model": 1.1840550491449906e-06,
+   "t_node_model": 4.991855901437308e-09,
+   "t_slot_model": 1.189046905046428e-06,
+   "close_at_spice_line": {
+    "t_close": 9.903201017978483e-07,
+    "t_slot_spice": 1.162702144531193e-06,
+    "ratio": 0.9778438004393054
+   },
+   "close_at_model_line": {
+    "t_close": 1.1840550491449906e-06,
+    "t_slot_spice": 1.3300930445312006e-06,
+    "ratio": 1.118621173720027
+   }
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F4_w100",
+   "n": 121613.64345294204,
+   "b": 0.0024227219153921866,
+   "t_line_model": 4.115061513440629e-07,
+   "t_node_model": 1.4912203973437775e-08,
+   "t_slot_model": 4.2641835531750066e-07,
+   "close_at_spice_line": {
+    "t_close": 3.402165079999862e-07,
+    "t_slot_spice": 4.2882024453124444e-07,
+    "ratio": 1.0056327059653785
+   },
+   "close_at_model_line": {
+    "t_close": 4.115061513440629e-07,
+    "t_slot_spice": 4.938330445312523e-07,
+    "ratio": 1.1580951860375626
+   }
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w10",
+   "n": 649714.8277516718,
+   "b": 0.0024227219153921866,
+   "t_line_model": 1.185958179490422e-06,
+   "t_node_model": 1.4912203973437775e-08,
+   "t_slot_model": 1.2008703834638599e-06,
+   "close_at_spice_line": {
+    "t_close": 9.833928488833769e-07,
+    "t_slot_spice": 1.1705938445312751e-06,
+    "ratio": 0.9747878377637615
+   },
+   "close_at_model_line": {
+    "t_close": 1.185958179490422e-06,
+    "t_slot_spice": 1.3485495445312724e-06,
+    "ratio": 1.122976770100232
+   }
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 74950.27909664456,
+   "b": 0.002435403892538566,
+   "t_line_model": 5.303162411532056e-07,
+   "t_node_model": 1.6647011785975875e-07,
+   "t_slot_model": 6.967863590129643e-07,
+   "close_at_spice_line": {
+    "t_close": 4.360609763728407e-07,
+    "t_slot_spice": 6.541354445312445e-07,
+    "ratio": 0.9387891081247097
+   },
+   "close_at_model_line": {
+    "t_close": 5.303162411532056e-07,
+    "t_slot_spice": 7.436170445312419e-07,
+    "ratio": 1.0672095326099893
+   }
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F4_w100",
+   "n": 454669.2861182534,
+   "b": 0.002435403892538566,
+   "t_line_model": 1.5594096652405672e-06,
+   "t_node_model": 1.6647011785975875e-07,
+   "t_slot_model": 1.7258797831003259e-06,
+   "close_at_spice_line": {
+    "t_close": 1.319507271731343e-06,
+    "t_slot_spice": 1.6228622445312805e-06,
+    "ratio": 0.9403101307647354
+   },
+   "close_at_model_line": {
+    "t_close": 1.5594096652405672e-06,
+    "t_slot_spice": 1.8354722445312569e-06,
+    "ratio": 1.0634994757479932
+   }
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 71531.35633582046,
+   "b": 0.002257281026668929,
+   "t_line_model": 5.145175784793354e-07,
+   "t_node_model": 1.6211723543388583e-07,
+   "t_slot_model": 6.766348139132212e-07,
+   "close_at_spice_line": {
+    "t_close": 4.227912535639258e-07,
+    "t_slot_spice": 6.336507445312372e-07,
+    "ratio": 0.9364737543825276
+   },
+   "close_at_model_line": {
+    "t_close": 5.145175784793354e-07,
+    "t_slot_spice": 7.204902445312402e-07,
+    "ratio": 1.0648140322020785
+   }
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F10_w100",
+   "n": 430973.31307953206,
+   "b": 0.002257281026668929,
+   "t_line_model": 1.5254421290921943e-06,
+   "t_node_model": 1.6211723543388583e-07,
+   "t_slot_model": 1.6875593645260802e-06,
+   "close_at_spice_line": {
+    "t_close": 1.2917419103126543e-06,
+    "t_slot_spice": 1.5747654445311684e-06,
+    "ratio": 0.9331615098313368
+   },
+   "close_at_model_line": {
+    "t_close": 1.5254421290921943e-06,
+    "t_slot_spice": 1.7806232445311758e-06,
+    "ratio": 1.0551470259129112
+   }
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "ESD-dominated on 1 pF, 46.5 mV/s",
+   "config": "F10_w100",
+   "n": 69682.06827027697,
+   "b": 0.0022798659550022802,
+   "t_line_model": 5.140774033318658e-07,
+   "t_node_model": 1.8753757966289095e-07,
+   "t_slot_model": 7.016149829947567e-07,
+   "close_at_spice_line": {
+    "t_close": 4.2259265023969524e-07,
+    "t_slot_spice": 6.574463445311769e-07,
+    "ratio": 0.9370471846609498
+   },
+   "close_at_model_line": {
+    "t_close": 5.140774033318658e-07,
+    "t_slot_spice": 7.444335445311551e-07,
+    "ratio": 1.0610285734686462
+   }
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "reference, 3.1 mV/s",
+   "config": "F10_w100",
+   "n": 427032.088287812,
+   "b": 0.0022798659550022802,
+   "t_line_model": 1.532674578892069e-06,
+   "t_node_model": 1.8753757966289095e-07,
+   "t_slot_model": 1.7202121585549598e-06,
+   "close_at_spice_line": {
+    "t_close": 1.2970687403057185e-06,
+    "t_slot_spice": 1.6040350445313034e-06,
+    "ratio": 0.9324634967577201
+   },
+   "close_at_model_line": {
+    "t_close": 1.532674578892069e-06,
+    "t_slot_spice": 1.8135834445312986e-06,
+    "ratio": 1.054278936183531
+   }
+  },
+  {
+   "design": "NMOS, 0.3 V underdrive",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "b": 0.0024362577743827257,
+   "t_line_model": 3.1646711985573166e-06,
+   "t_node_model": 1.4193744284132417e-08,
+   "t_slot_model": 3.178864942841449e-06,
+   "close_at_spice_line": {
+    "t_close": 2.6227407243920414e-06,
+    "t_slot_spice": 2.972435444531096e-06,
+    "ratio": 0.9350618846594235
+   },
+   "close_at_model_line": {
+    "t_close": 3.1646711985573166e-06,
+    "t_slot_spice": 3.4194214445312816e-06,
+    "ratio": 1.075673709331863
+   }
+  },
+  {
+   "design": "bootstrapped (transistor level), 0.3 V underdrive",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "b": 0.0023859282598922326,
+   "t_line_model": 3.3175518673095247e-06,
+   "t_node_model": 4.991855901437308e-09,
+   "t_slot_model": 3.322543723210962e-06,
+   "close_at_spice_line": {
+    "t_close": 2.7683339253629023e-06,
+    "t_slot_spice": 3.109954444531132e-06,
+    "ratio": 0.9360161080214829
+   },
+   "close_at_model_line": {
+    "t_close": 3.3175518673095247e-06,
+    "t_slot_spice": 3.553009244531134e-06,
+    "ratio": 1.069364180134083
+   }
+  },
+  {
+   "design": "T-switch + OTA buffer",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F10_w10",
+   "n": 1772727.272727273,
+   "b": 0.0024227219153921866,
+   "t_line_model": 3.2630732610988844e-06,
+   "t_node_model": 1.4912203973437775e-08,
+   "t_slot_model": 3.277985465072322e-06,
+   "close_at_spice_line": {
+    "t_close": 2.7091102259792075e-06,
+    "t_slot_spice": 3.0631020445312253e-06,
+    "ratio": 0.9344464998912508
+   },
+   "close_at_model_line": {
+    "t_close": 3.2630732610988844e-06,
+    "t_slot_spice": 3.517537444531288e-06,
+    "ratio": 1.0730790243005792
+   }
+  },
+  {
+   "design": "TG + dummies",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "b": 0.002435403892538566,
+   "t_line_model": 5.134574991400275e-06,
+   "t_node_model": 1.6647011785975875e-07,
+   "t_slot_model": 5.301045109260034e-06,
+   "close_at_spice_line": {
+    "t_close": 4.177551423059479e-06,
+    "t_slot_spice": 4.860921444531416e-06,
+    "ratio": 0.9169741710064313
+   },
+   "close_at_model_line": {
+    "t_close": 5.134574991400275e-06,
+    "t_slot_spice": 5.685693444531256e-06,
+    "ratio": 1.0725608492935301
+   }
+  },
+  {
+   "design": "TG, no ESD",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "b": 0.002257281026668929,
+   "t_line_model": 5.130926604919619e-06,
+   "t_node_model": 1.6211723543388583e-07,
+   "t_slot_model": 5.293043840353505e-06,
+   "close_at_spice_line": {
+    "t_close": 4.174300423018392e-06,
+    "t_slot_spice": 4.827630444531124e-06,
+    "ratio": 0.9120707460848656
+   },
+   "close_at_model_line": {
+    "t_close": 5.130926604919619e-06,
+    "t_slot_spice": 5.645693444531164e-06,
+    "ratio": 1.0666251054807259
+   }
+  },
+  {
+   "design": "TG, ESD on the node",
+   "anchor": "Darnas et al., 5.5 \u00b5V/s",
+   "config": "F4_w10",
+   "n": 1772727.272727273,
+   "b": 0.0022798659550022802,
+   "t_line_model": 5.446334850327489e-06,
+   "t_node_model": 1.8753757966289095e-07,
+   "t_slot_model": 5.63387242999038e-06,
+   "close_at_spice_line": {
+    "t_close": 4.4229574262293666e-06,
+    "t_slot_spice": 5.135487444531089e-06,
+    "ratio": 0.9115377581490353
+   },
+   "close_at_model_line": {
+    "t_close": 5.446334850327489e-06,
+    "t_slot_spice": 6.014493444531446e-06,
+    "ratio": 1.0675593952953095
+   }
+  }
+ ]
+}

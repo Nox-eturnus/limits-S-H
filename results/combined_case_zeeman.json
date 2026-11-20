@@ -1,0 +1,11 @@
+{
+ "key": "bootstrapped (transistor level), 0.3 V underdrive|4 K, steep (T_eff 20 K), mismatch x 2, tree of one reticle",
+ "ratio_b_eq": 0.6083655702796593,
+ "ratio_b_ind": 0.7123168405646447,
+ "100 MHz": {
+  "dmax_V": 0.07145032376725229
+ },
+ "25 MHz": {
+  "dmax_V": 0.04940745480876126
+ }
+}
