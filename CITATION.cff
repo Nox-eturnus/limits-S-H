@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this flow or its data, please cite the accompanying article (reference added on publication) and this repository."
 title: "Fidelity budgets and design rules for sample-and-hold gate drivers of silicon spin qubits: code and data"
-version: 2.12.0
+version: 2.13.0
 date-released: 2026-11-21
 license: MIT
 repository-code: "https://github.com/Nox-eturnus/limits-S-H"
